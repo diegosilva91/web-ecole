@@ -1,0 +1,12 @@
+.v-list {
+    .v-list-item {
+        &.theme--light:not(.v-list-item--active):not(.v-list-item--disabled) {
+            color: #343a40 !important;
+        }
+    }
+
+    /// Fix issue with dense list and small icon
+    .v-list-item__icon {
+        align-items: center;
+    }
+}

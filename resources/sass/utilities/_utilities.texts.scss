@@ -1,0 +1,18 @@
+////
+/// Utilities for texts
+/// @group Utilities
+////
+
+ .font-family-secondary {
+    font-family: 'Poppins', sans-serif !important;
+ }
+
+ .font-size-12 {
+     font-size: 12px !important;
+ }
+
+ /// This utility complements Vuetify's font emphasis
+ /// @link https://vuetifyjs.com/en/styles/text-and-typography/#font-emphasis
+ .font-weight-semibold {
+    font-weight: 600 !important;
+ }

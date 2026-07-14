@@ -1,0 +1,18 @@
+.v-input {
+    &.theme--light {
+        &.v-input,
+        &.v-input input {
+            color: #343a40;
+        }
+
+        &.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state) {
+            > .v-input__control > .v-input__slot fieldset {
+                color: #343a404d;
+            }
+        }
+
+        .v-input__append-inner .v-icon {
+            color: #343a40;
+        }
+    }
+}

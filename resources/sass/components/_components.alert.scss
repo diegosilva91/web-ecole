@@ -1,0 +1,20 @@
+////
+/// This modifies Vuetify Alert styles
+/// @group Components
+/// @link https://vuetifyjs.com/en/components/alerts/
+///
+/// [Bug] V-Alert is always in dark mode (in combination with type prop)
+/// @link https://github.com/vuetifyjs/vuetify/issues/11021
+////
+
+.v-application {
+  .v-alert {
+    &.info {
+      color: #343a40;
+
+      .theme--dark.v-icon {
+        color: currentColor;
+      }
+    }
+  }
+}

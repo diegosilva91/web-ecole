@@ -1,0 +1,27 @@
+body .v-application {
+  .accent {
+    background-color: #29c0d3 !important;
+    border-color: #29c0d3 !important;
+  }
+
+  .info {
+    background-color: #e4f8fa !important;
+    border-color: #e4f8fa !important;
+  }
+
+  .primary {
+    background-color: #793E87 !important;
+    border-color: #793E87 !important;
+  }
+
+  .primary--text {
+    color: #885793 !important;
+    caret-color: #885793 !important;
+  }
+
+  .accent--text,
+  .info--text {
+    color: #29c0d3 !important;
+    caret-color: #29c0d3 !important;
+  }
+}

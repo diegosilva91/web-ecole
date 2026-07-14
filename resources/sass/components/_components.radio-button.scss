@@ -1,0 +1,17 @@
+.v-radio {
+    .v-label {
+        font-size: 14px;
+        margin-bottom: 0; // Fix Bootstrap rule
+    }
+
+    .v-input--selection-controls__input {
+        .v-icon__svg {
+            height: 17px;
+            width: 17px;
+        }
+    }
+
+    &.v-item--active .v-label {
+        font-weight: 400;
+    }
+}

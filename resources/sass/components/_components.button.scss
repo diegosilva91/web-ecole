@@ -1,0 +1,58 @@
+////
+/// This modifies Vuetify button styles
+/// @group Components
+/// @link https://vuetifyjs.com/en/components/buttons/
+////
+
+.v-application {
+    .v-btn {
+        text-transform: none;
+
+        &.v-size--default,
+        &.v-size--large {
+            font-size: 16px;
+        }
+
+        &:not(.v-btn--text):not(.v-btn--outlined):hover::before {
+            opacity: .3;
+        }
+
+        /// Accent style
+        &.accent {
+            &.theme--light {
+                &.v-btn--contained:not(.v-btn--disabled) {
+                    box-shadow: 0 2px 8px 0 rgba(35, 158, 173, 0.5);
+                }
+            }
+        }
+    }
+}
+
+
+/// Lifecole special button styles.
+/// These styles are very different from those offered on Vuetify.
+/// But they are built on top of them.
+
+.v-btn.lc-btn {
+
+    /// Button Link style
+    &.lc-btn--link {
+        height: auto !important;
+        letter-spacing: 0;
+        padding: 0 !important;
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            font-weight: 600;
+        }
+
+        &:active::before {
+            background: none;
+        }
+
+        &::before {
+            background: none;
+        }
+    }
+}

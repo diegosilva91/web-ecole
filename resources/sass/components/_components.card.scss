@@ -1,0 +1,7 @@
+/// Lifecole dialog global styles.
+/// @link https://vuetifyjs.com/en/components/cards
+
+/// Fix issue with border radius on hover style
+.v-card--link::before {
+    border-radius: inherit;
+}

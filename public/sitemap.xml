@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://www.lifecole.com/sitemap_global.xml</loc>
+        <lastmod>2022-02-27T06:35:10+01:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.lifecole.com/sitemap_categories.xml</loc>
+        <lastmod>2022-02-28T05:05:11+01:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.lifecole.com/sitemap_courses.xml</loc>
+        <lastmod>2022-02-28T05:30:19+01:00</lastmod>
+    </sitemap>
+</sitemapindex>

@@ -1,0 +1,24 @@
+.theme--light.v-expansion-panels .v-expansion-panel {
+    color: #343a40 !important;
+
+    // Active and inactive header icon color
+    .v-expansion-panel-header .v-expansion-panel-header__icon .v-icon,
+    &.v-expansion-panel--active > .v-expansion-panel-header--active .v-expansion-panel-header__icon:not(.v-expansion-panel-header__icon--disable-rotate) .v-icon {
+        color: currentColor !important;
+    }
+
+    .v-avatar {
+        transition-property: width, height;
+        transition-duration: 0.2s;
+    }
+}
+
+.v-expansion-panels .v-expansion-panel {
+    .v-expansion-panel-header {
+        line-height: 1.3em;
+    }
+
+    .v-expansion-panel-header__icon {
+        padding-left: 8px;
+    }
+}
