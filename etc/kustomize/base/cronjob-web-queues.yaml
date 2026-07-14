@@ -1,0 +1,28 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: web-queues
+spec:
+  schedule: "*/5 * * * *"
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          restartPolicy: Never
+          containers:
+          - name: remarketing24
+            image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-php
+            command:
+            - bin/console
+            - messenger:consume
+            - async
+            - --time-limit=540
+            - -e
+            - prod
+            imagePullPolicy: Always
+            envFrom:
+            - configMapRef:
+                name: web-config
+            - secretRef:
+                name: web-secret

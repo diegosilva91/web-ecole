@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: web
+  template:
+    metadata:
+      labels:
+        app: web
+    spec:
+      containers:
+      - name: web-php
+        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-php
+        imagePullPolicy: Always
+        envFrom:
+        - configMapRef:
+            name: web-config
+        - secretRef:
+            name: web-secret
+
+      - name: web-nginx
+        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-nginx
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+

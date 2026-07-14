@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+vendor/
+composer.phar
+auth.json
+**/.env
+**/.env.*
+**/.env.secret
+**/*.secret
+storage/*.key
+storage/*.log
+public/hot
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,11 @@
+resources:
+- deployment-web.yaml
+#- cronjob-web-queues.yaml
+- service.yaml
+- config.yaml
+generatorOptions:
+  disableNameSuffixHash: true
+secretGenerator:
+- name: web-secret
+  envs:
+  - .env.secret

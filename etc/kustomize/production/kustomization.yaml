@@ -1,0 +1,15 @@
+resources:
+- namespace.yaml
+- ../base
+#- cronjob-web-queues.yaml
+namespace: production
+patchesStrategicMerge:
+- config.yaml
+- deployment-web.yaml
+generatorOptions:
+  disableNameSuffixHash: true
+secretGenerator:
+- name: web-secret
+  behavior: replace
+  envs:
+  - .env.secret
