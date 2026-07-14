@@ -1,0 +1,33 @@
+#navbar-mobile {
+    background-color: #fff;
+    display: flex;
+    height:80px;
+    position: sticky;
+    top: 0;
+    transition: top .4s ease;
+    z-index: 5;
+
+    &.is-hidden {
+        top: -80px;
+    }
+
+    &.is-stuck {
+        box-shadow: 0 1px 9px 0 rgba(86, 45, 96, 0.1);
+    }
+
+    #contact &,
+    #course &,
+    #course-categories &,
+    #courses &,
+    #faq &,
+    #landingPage &,
+    #trajectories & {
+        position: relative;
+        top: 0;
+    }
+
+    /// Special breakpoint to match the width of the menu
+    @media (min-width: 1057px) {
+        display: none;
+    }
+}

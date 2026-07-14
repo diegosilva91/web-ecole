@@ -1,0 +1,17 @@
+////
+/// This modifies Vuetify Grid system
+/// @group Components
+/// @link https://vuetifyjs.com/en/components/grids/
+////
+
+/// Adds an extra density to the grid system, between normal and dense.
+/// @link https://vuetifyjs.com/en/api/v-row/#props
+.row--semi-dense {
+  margin-right: -8px !important;
+  margin-left: -8px !important;
+}
+
+.row--semi-dense > .col,
+.row--semi-dense > [class*="col-"] {
+  padding: 8px;
+}

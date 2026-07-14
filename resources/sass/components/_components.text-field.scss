@@ -1,0 +1,14 @@
+.v-text-field {
+    &.v-text-field--enclosed:not(.v-text-field--rounded) > .v-input__control > .v-input__slot {
+        padding: 0 18px !important;
+
+        .v-avatar {
+            // Margin to fix avatar with dropdown menu avatar
+            margin-left: 7px;
+        }
+    }
+    .v-input__append-inner {
+        align-self: center !important;
+        margin-top: 0 !important;
+    }
+}

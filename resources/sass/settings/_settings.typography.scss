@@ -1,0 +1,52 @@
+body {
+
+    .v-application {
+        font-family: poppins, sans-serif !important;
+
+        /// Typography
+        /// @link https://vuetifyjs.com/en/styles/text-and-typography/#typography
+
+        .text-h4,
+        .text-h5,
+        .text-h6,
+        .text-body-1,
+        .text-body-2,
+        .text-subtitle-1,
+        .text-caption,
+        .text-overline,
+        .title {
+            font-family: poppins, sans-serif !important;
+        }
+
+        .text-body-1 {
+            line-height: 1.5rem !important;
+        }
+
+        .text-h4 {
+            font-size: 2,1875rem !important;
+        }
+
+        .text-h6 {
+            font-size: 1.15rem !important;
+        }
+
+        .text-subtitle-1 {
+            line-height: 1.25rem;
+        }
+
+        .text-caption,
+        .text-overline {
+            font-size: .8rem !important;
+        }
+
+
+        /// Text opacity
+        /// @link https://vuetifyjs.com/en/styles/text-and-typography/#transform
+
+        &.theme--light .text--secondary {
+            color: #343a40 !important;
+            opacity: .62;
+        }
+    }
+
+}
