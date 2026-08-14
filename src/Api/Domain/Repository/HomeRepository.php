@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
-use Lifecole\Api\Domain\DTO\TopBannerHome;
+use Mi-empresa\Api\Domain\DTO\TopBannerHome;
 
 interface HomeRepository
 {

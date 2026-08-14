@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers\Test;
 
-use Lifecole\Api\Application\Menu\GetElementsFromMenuQuery;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Menu\GetElementsFromMenuQuery;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class TestMenuController
 {

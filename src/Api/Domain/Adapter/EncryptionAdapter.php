@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Domain\Adapter;
+namespace Mi-empresa\Api\Domain\Adapter;
 
 interface EncryptionAdapter
 {

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Web;
 
 use App\Http\Controllers\Controller;
-use Lifecole\Api\Domain\Repository\HomeRepository;
+use Mi-empresa\Api\Domain\Repository\HomeRepository;
 
 class HomeController extends Controller
 {

@@ -772,7 +772,7 @@
                                                                 background-color: rgba(41, 192, 211, 0.2);
                                                                 padding: 10px;margin-bottom: 30px;width:100%;">
                                                                 <div style="display: flex !important;justify-content:center;">
-                                                                    <img style="margin-right:12px;" src="https://www.lifecole.com/assets/images/icons/info.png" width="20px" height="20px" alt="">
+                                                                    <img style="margin-right:12px;" src="https://www.mi-empresa.com/assets/images/icons/info.png" width="20px" height="20px" alt="">
                                                                     <p role="alert" class="mt-2" style="text-align: left;">Recuerda que tu compra no estará finalizada hasta que recibamos el ingreso en nuestra cuenta bancaria (max 10 días hábiles)</p>
                                                                 </div>
                                                                 </div>
@@ -802,9 +802,9 @@
                     <tr>
                         <td align="center">
                             @if($promotionPurchasePayment->payment_method==='transfer' || $promotionPurchasePayment->payment_method === 'Sepa')
-                            <img src="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/images/mails/sepa.png" style="margin-bottom: 100px; margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/images/mails/sepa.png" style="margin-bottom: 100px; margin-top:50px"/>
                             @else
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/design.png" style="margin-bottom: 100px; margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/design.png" style="margin-bottom: 100px; margin-top:50px"/>
                             @endif
                         </td>
                     </tr>
@@ -1009,7 +1009,7 @@
                                                 <td class="es-p10b" align="center">
                                                     <div class="steps-content">
                                                         <h2 style="font-weight: 600;font-size: 18px; text-align: center">¡Recuerda apuntar en la agenda los días que se realizará el curso! </h2><br><br>
-                                                        <a href="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf" target="_blank"><h2 style="font-weight: 600;font-size: 18px; text-align: center;color: #2bbfd3;text-decoration: underline;cursor:pointer;">Accede al calendario escolar aquí</h2></a><br><br>
+                                                        <a href="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf" target="_blank"><h2 style="font-weight: 600;font-size: 18px; text-align: center;color: #2bbfd3;text-decoration: underline;cursor:pointer;">Accede al calendario escolar aquí</h2></a><br><br>
 
                                                         @if($promotionPurchasePayment->payment_method==='transfer' || $promotionPurchasePayment->payment_method === 'Sepa')
                                                         <div></div>

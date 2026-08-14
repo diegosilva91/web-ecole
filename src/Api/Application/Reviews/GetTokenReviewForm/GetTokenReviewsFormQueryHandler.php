@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetTokenReviewForm;
+namespace Mi-empresa\Api\Application\Reviews\GetTokenReviewForm;
 
 use App\Exceptions\DataTokenReviewException;
-use Lifecole\Api\Domain\Repository\CoursesRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\CoursesRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetTokenReviewsFormQueryHandler implements QueryHandler
 {

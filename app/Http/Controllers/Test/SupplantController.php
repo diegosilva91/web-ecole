@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Test;
 use App\Http\Controllers\Controller;
 use App\User;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
-use Lifecole\Api\Domain\Adapter\EncryptionAdapter;
+use Mi-empresa\Api\Domain\Adapter\EncryptionAdapter;
 
 class SupplantController extends Controller
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
-use Lifecole\Api\Application\Courses\FindCourses\FindCoursesQuery;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Courses\FindCourses\FindCoursesQuery;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 interface CoursesRepository
 {

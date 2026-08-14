@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
 use App\User;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 interface UserRepository
 {

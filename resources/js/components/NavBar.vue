@@ -45,14 +45,14 @@
 
                         <div class="row justify-content-end pt-0 pb-0 pr-30">
                             <div class="d-inline mr-4"><a class="d-inline"
-                                                            href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Lifecole"><img
+                                                            href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Mi-empresa"><img
                                 src="/assets/images/menu/whatsapp.svg" alt="icon"></a></div>
                             <div class="d-inline mr-4"><a class="d-inline" href="https://www.facebook.com/LifeColeEdu/"><img
                                 src="/assets/images/menu/facebook.svg" alt="icon"></a></div>
                             <div class="d-inline mr-4"><a class="d-inline"
-                                                            href="https://www.instagram.com/lifecoleedu/"><img
+                                                            href="https://www.instagram.com/mi-empresaedu/"><img
                                 src="/assets/images/menu/instagram.svg" alt="icon"></a></div>
-                            <div class="d-inline"><a class="d-inline" href="https://twitter.com/lifecoleedu"><img
+                            <div class="d-inline"><a class="d-inline" href="https://twitter.com/mi-empresaedu"><img
                                 src="/assets/images/menu/twitter.svg" alt="icon"></a></div>
                         </div>
 
@@ -112,14 +112,14 @@
 
                         <div class="row justify-content-end pt-0 pb-0 pr-30">
                             <div class="d-inline mr-4"><a class="d-inline"
-                                                            href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Lifecole"><img
+                                                            href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Mi-empresa"><img
                                 src="/assets/images/menu/whatsapp.svg" alt="icon"></a></div>
                             <div class="d-inline mr-4"><a class="d-inline" href="https://www.facebook.com/LifeColeEdu/"><img
                                 src="/assets/images/menu/facebook.svg" alt="icon"></a></div>
                             <div class="d-inline mr-4"><a class="d-inline"
-                                                            href="https://www.instagram.com/lifecoleedu/"><img
+                                                            href="https://www.instagram.com/mi-empresaedu/"><img
                                 src="/assets/images/menu/instagram.svg" alt="icon"></a></div>
-                            <div class="d-inline"><a class="d-inline" href="https://twitter.com/lifecoleedu"><img
+                            <div class="d-inline"><a class="d-inline" href="https://twitter.com/mi-empresaedu"><img
                                 src="/assets/images/menu/twitter.svg" alt="icon"></a></div>
                         </div>
 

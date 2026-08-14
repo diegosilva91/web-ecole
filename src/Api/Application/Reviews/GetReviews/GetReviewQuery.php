@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetReviews;
+namespace Mi-empresa\Api\Application\Reviews\GetReviews;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class GetReviewQuery extends Query
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Proxy;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Proxy;
 
-use Lifecole\Api\Domain\Adapter\CacheAdapter;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\Repository\SearcherCoursesRepository;
-use Lifecole\Api\Infrastructure\Persistence\Eloquent\EloquentSearcherCoursesRepository;
+use Mi-empresa\Api\Domain\Adapter\CacheAdapter;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\Repository\SearcherCoursesRepository;
+use Mi-empresa\Api\Infrastructure\Persistence\Eloquent\EloquentSearcherCoursesRepository;
 
 class ProxySearcherCoursesRepository implements SearcherCoursesRepository
 {
@@ -23,9 +23,9 @@ class ProxySearcherCoursesRepository implements SearcherCoursesRepository
         if ($value == null) {
             $value = $this->eloquentSearcherCoursesRepository->search($coursesSearch);
 
-            $enabledCache = config('lifecole.cache')['enabled'];
-            $enabledCacheSearcher = config('lifecole.cache')['searcher']['enabled'];
-            $ttlCacheSearcher = config('lifecole.cache')['searcher']['ttl'];
+            $enabledCache = config('mi-empresa.cache')['enabled'];
+            $enabledCacheSearcher = config('mi-empresa.cache')['searcher']['enabled'];
+            $ttlCacheSearcher = config('mi-empresa.cache')['searcher']['ttl'];
             if ($enabledCache && $enabledCacheSearcher) {
                 $this->cacheAdapter->set($key, serialize($value), $ttlCacheSearcher);
             }

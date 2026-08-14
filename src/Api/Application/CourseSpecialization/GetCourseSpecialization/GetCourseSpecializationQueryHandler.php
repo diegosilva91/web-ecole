@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseSpecialization\GetCourseSpecialization;
+namespace Mi-empresa\Api\Application\CourseSpecialization\GetCourseSpecialization;
 
 use App\CourseSpecialization;
-use Lifecole\Api\Domain\Repository\CourseSpecializationRepository;
+use Mi-empresa\Api\Domain\Repository\CourseSpecializationRepository;
 
 class GetCourseSpecializationQueryHandler
 {

@@ -18,7 +18,7 @@ return [
              */
             'url' => '/courses.rss',
 
-            'title' => 'Cursos de Lifecole',
+            'title' => 'Cursos de Mi-empresa',
             'description' => 'Marketplace de cursos extraescolares online con profesores en vivo: Refuerzo de Matemáticas, Física, Filosofía; Iniciación a la Programación y Robótica, Música, Idiomas, Dibujo, Escritura y mucho más.',
             'language' => 'es-ES',
 

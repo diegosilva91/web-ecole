@@ -5,9 +5,9 @@ namespace App\Http\Controllers\Api\Courses;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use Lifecole\Api\Application\Courses\FindCourses\FindCoursesQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Courses\FindCourses\FindCoursesQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class FindCoursesController extends Controller
 {

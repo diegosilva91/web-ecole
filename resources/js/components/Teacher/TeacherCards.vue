@@ -36,7 +36,7 @@
             <div class="left-line"></div>
             <div class="d-block">
                 <h3>Crecimiento internacional</h3>  
-                <p>Lifecole es una startup joven en plena fase de crecimiento donde surgen constantemente nuevas <span>oportunidades</span> profesionales.</p>
+                <p>Mi-empresa es una startup joven en plena fase de crecimiento donde surgen constantemente nuevas <span>oportunidades</span> profesionales.</p>
             </div>
           </div>  
         </div>

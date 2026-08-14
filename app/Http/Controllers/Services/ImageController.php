@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
 
 class ImageController extends Controller
 {

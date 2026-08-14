@@ -4,7 +4,7 @@
           <div class="col-11 col-sm-5 mx-auto">
               <img src="/assets/images/about/nosotros.svg" alt="">
               <h3>¿Quiénes somos?</h3>
-              <p>Somos un equipo con experiencia en el mundo digital y en la educación online. Contamos con un equipo de asesores en el ámbito educativo internacional. Lifecole ha sido fundada en 2020 y tiene su sede en Barcelona.</p>
+              <p>Somos un equipo con experiencia en el mundo digital y en la educación online. Contamos con un equipo de asesores en el ámbito educativo internacional. Mi-empresa ha sido fundada en 2020 y tiene su sede en Barcelona.</p>
           </div>
           <div class="col-11 col-sm-5 mx-auto mt-mob-50">
               <img src="/assets/images/about/ofrecemos.svg" alt="">

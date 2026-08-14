@@ -3,10 +3,10 @@
 namespace App\Http\Controllers\Api\Users;
 
 use App\Http\Controllers\Controller;
-use Lifecole\Api\Application\Users\GetUsersProfile\GetUsersProfileQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Users\GetUsersProfile\GetUsersProfileQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class GetUsersProfile extends Controller
 {

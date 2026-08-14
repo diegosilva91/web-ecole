@@ -107,8 +107,8 @@
         "vuetify": "^2.3.4",
         "vuetify-loader": "^1.7.2"
     },
-    "name": "lifecole.com",
-    "description": "- test your code pushing to develop branch\r - real dev environment: https://devlifecole.herokuapp.com/",
+    "name": "mi-empresa.com",
+    "description": "- test your code pushing to develop branch\r - real dev environment: https://devmi-empresa.herokuapp.com/",
     "version": "2.0.0",
     "main": "webpack.mix.js",
     "directories": {
@@ -116,14 +116,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/lifecole/lifecole.com.git"
+        "url": "git+https://github.com/mi-empresa/mi-empresa.com.git"
     },
-    "author": "Lifecole Team <educacion@lifecole.com>",
+    "author": "Mi-empresa Team <educacion@mi-empresa.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/lifecole/lifecole.com/issues"
+        "url": "https://github.com/mi-empresa/mi-empresa.com/issues"
     },
-    "homepage": "https://lifecole.com",
+    "homepage": "https://mi-empresa.com",
     "optionalDependencies": {
         "fsevents": "^2.3.2"
     },

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\PaymentsEvent\Task;
+namespace Mi-empresa\Api\Application\PaymentsEvent\Task;
 
 use App\PaymentsEvent;
-use Lifecole\Api\Application\Payments\InvoicesSubscriptionsFinalized\InvoicesSubscriptionsFinalizedCommand;
+use Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsFinalized\InvoicesSubscriptionsFinalizedCommand;
 
 class InvoicesSubscriptionsFinalizedTask extends Task
 {

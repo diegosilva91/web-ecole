@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\StorePayloadStripe;
+namespace Mi-empresa\Api\Application\Payments\StorePayloadStripe;
 
 use App\PaymentsEvent;
-use Lifecole\Api\Domain\Repository\PaymentsEventRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\PaymentsEventRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class StorePayloadStripeCommandHandler implements CommandHandler
 {

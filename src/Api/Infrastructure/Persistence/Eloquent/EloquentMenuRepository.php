@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\Course;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\Repository\MenuRepository;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\Repository\MenuRepository;
 
 class EloquentMenuRepository implements MenuRepository
 {

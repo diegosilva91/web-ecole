@@ -24,18 +24,18 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
-use Lifecole\Api\Application\Coupons\GetCoupon\GetCouponQuery;
-use Lifecole\Api\Application\Payments\ConfirmationPaymentOrderCommand\ConfirmationPaymentOrderCommand;
-use Lifecole\Api\Application\Payments\ConfirmationPurchaseOrderCommand\ConfirmationPurchaseOrderCommand;
-use Lifecole\Api\Application\Paypal\UpdatePaymentPaypalCommand;
-use Lifecole\Api\Domain\DTO\PaypalPayment;
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Event\EventBus;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Event\Domain\Purchase\PurchaseWasCompleted;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Api\Application\Coupons\GetCoupon\GetCouponQuery;
+use Mi-empresa\Api\Application\Payments\ConfirmationPaymentOrderCommand\ConfirmationPaymentOrderCommand;
+use Mi-empresa\Api\Application\Payments\ConfirmationPurchaseOrderCommand\ConfirmationPurchaseOrderCommand;
+use Mi-empresa\Api\Application\Paypal\UpdatePaymentPaypalCommand;
+use Mi-empresa\Api\Domain\DTO\PaypalPayment;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Event\EventBus;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Event\Domain\Purchase\PurchaseWasCompleted;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
 
 class PaymentController extends Controller
 {
@@ -147,7 +147,7 @@ class PaymentController extends Controller
             $credentials = $request->only('email', 'password');
             if (!Auth::attempt($credentials)) {
                 $validator
-                    ->errors()->add('payment', "El usuario <b>" . $request->email . "</b> ya dispone de una cuenta en Lifecole, por favor <a data-toggle='modal' data-target='#Login' class='v-application&quot;&quot;'>haz login aqui</a> para continuar tu compra.");
+                    ->errors()->add('payment', "El usuario <b>" . $request->email . "</b> ya dispone de una cuenta en Mi-empresa, por favor <a data-toggle='modal' data-target='#Login' class='v-application&quot;&quot;'>haz login aqui</a> para continuar tu compra.");
                 Log::info('Payment, wrong credentials for' . $user->email);
                 return $request->wantsJson()
                     ? new JsonResponse(['status' => 'error',

@@ -1,6 +1,6 @@
 @php
-    $seo_title = '✓Aviso Legal ⇨ Cursos y extraescolares online ᐅ LIFECOLE';
-    $seo_description = '✓ LIFECOLE Aviso Legal ᐅ Cursos y extraescolares online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más';
+    $seo_title = '✓Aviso Legal ⇨ Cursos y extraescolares online ᐅ MI-EMPRESA';
+    $seo_description = '✓ MI-EMPRESA Aviso Legal ᐅ Cursos y extraescolares online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más';
 @endphp
 
 @extends('layouts.main')

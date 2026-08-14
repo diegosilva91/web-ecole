@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Shared\Domain\Repository;
+namespace Mi-empresa\Shared\Domain\Repository;
 
 use Illuminate\Mail\Mailable;
 
@@ -8,7 +8,7 @@ use Illuminate\Mail\Mailable;
  * FIXME
  * Este repositorio tiene una dependencia con Laravel.
  * Habrá que hacer una refactorización para crear una clase propia que contenga la información
- * que consideremos necesaria para los mails de Lifecole
+ * que consideremos necesaria para los mails de Mi-empresa
  */
 
 interface Mailer

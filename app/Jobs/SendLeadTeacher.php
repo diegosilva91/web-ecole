@@ -7,8 +7,8 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Queue\SerializesModels;
-use Lifecole\Api\Domain\DTO\LeadTeacher;
-use Lifecole\Api\Domain\Repository\LeadRepository;
+use Mi-empresa\Api\Domain\DTO\LeadTeacher;
+use Mi-empresa\Api\Domain\Repository\LeadRepository;
 
 class SendLeadTeacher implements ShouldQueue
 {

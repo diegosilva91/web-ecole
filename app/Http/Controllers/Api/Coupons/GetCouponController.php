@@ -5,9 +5,9 @@ namespace App\Http\Controllers\Api\Coupons;
 use App\Coupon;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\PromoCodeRequest;
-use Lifecole\Api\Application\Coupons\GetCoupon\GetCouponQuery;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Api\Application\Coupons\GetCoupon\GetCouponQuery;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
 
 class GetCouponController extends Controller
 {

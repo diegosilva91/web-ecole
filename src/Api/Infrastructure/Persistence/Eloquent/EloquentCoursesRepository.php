@@ -1,16 +1,16 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\Course;
 use Illuminate\Support\Arr;
-use Lifecole\Api\Application\Courses\FindCourses\FindCoursesQuery;
-use Lifecole\Api\Domain\Helper\AddPriceHour;
-use Lifecole\Api\Domain\Helper\FillSubcategories;
-use Lifecole\Api\Domain\Repository\CoursesRepository;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Application\Courses\FindCourses\FindCoursesQuery;
+use Mi-empresa\Api\Domain\Helper\AddPriceHour;
+use Mi-empresa\Api\Domain\Helper\FillSubcategories;
+use Mi-empresa\Api\Domain\Repository\CoursesRepository;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 use Spatie\QueryBuilder\AllowedFilter;
 use Spatie\QueryBuilder\QueryBuilder;
 

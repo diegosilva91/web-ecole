@@ -99,7 +99,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue_
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/juliethydiego/Public/lifecole/web/resources/js/guests.js */"./resources/js/guests.js");
+module.exports = __webpack_require__(/*! /Users/juliethydiego/Public/mi-empresa/web/resources/js/guests.js */"./resources/js/guests.js");
 
 
 /***/ })

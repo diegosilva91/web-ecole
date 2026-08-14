@@ -1,14 +1,14 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\SepaChargeSucceededUpdatePayment;
+namespace Mi-empresa\Api\Application\Payments\SepaChargeSucceededUpdatePayment;
 
 use App\PromotionPurchase;
-use Lifecole\Api\Application\Payments\ConfirmationPaymentOrderCommand\ConfirmationPaymentOrderCommand;
-use Lifecole\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand\ConfirmationSepaPaymentOrderCommand;
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
-use Lifecole\Api\Domain\Repository\PromotionPurchaseRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Application\Payments\ConfirmationPaymentOrderCommand\ConfirmationPaymentOrderCommand;
+use Mi-empresa\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand\ConfirmationSepaPaymentOrderCommand;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchaseRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class SepaChargeSucceededUpdateCommandHandler implements CommandHandler
 {

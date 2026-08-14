@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\InvoicesSubscriptionsSucceeded;
+namespace Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsSucceeded;
 
 use Cartalyst\Stripe\Laravel\Facades\Stripe;
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class InvoicesSubscriptionsSucceededCommandHandler implements CommandHandler
 {

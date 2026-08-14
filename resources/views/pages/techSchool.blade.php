@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Cursos de Idiomas Online ¡Aprende desde casa! - Lifecole ';
+    $seo_title = 'Cursos de Idiomas Online ¡Aprende desde casa! - Mi-empresa ';
     $seo_description = 'Aprende inglés o francés desde casa. con nuestros cursos de idiomas online ✔️Profesorado cualificado ✔ Cursos de refuerzo ¡Descúbrelos!';
 @endphp
 
@@ -38,10 +38,10 @@
         <h2 class="h5-txt-med mb-4">Aprende más…</h2>
         <div class="row">
             <div class="col-12 col-md-6">
-                <h2 class="subtitle-SEO mb-3">Descubre los cursos de idiomas y refuerzo de Lifecole</h2>
+                <h2 class="subtitle-SEO mb-3">Descubre los cursos de idiomas y refuerzo de Mi-empresa</h2>
                 <p>Tus hijos pasan la mayor parte de la semana estudiando de clase en clase, pero algunas
                 veces, ni siquiera esto es suficiente. Si crees que necesitan un <b>empujón con alguna de
-                sus asignaturas</b> para que sus resultados sean todavía mejores, en <a class="blue-title" href="/es">Lifecole</a> tenemos la solución <b>¡Elige nuestros cursos de idiomas y de refuerzo!</b></p>
+                sus asignaturas</b> para que sus resultados sean todavía mejores, en <a class="blue-title" href="/es">Mi-empresa</a> tenemos la solución <b>¡Elige nuestros cursos de idiomas y de refuerzo!</b></p>
                 <p>¿Aún no has visto nuestro catálogo de <b>cursos de idiomas y cursos de refuerzo</b>? En él
                 se esconden cientos de oportunidades que están esperando a ser descubiertas. Tanto
                 si preferís clases <a class="blue-title" href="/es/cursos/apoyo-escolar/lengua/refuerzo-en-lenguaje-y-comunicacion-clases-individuales">particulares</a> como <a class="blue-title" href="/es/cursos/apoyo-escolar/lengua/refuerzo-en-lenguaje-y-comunicacion-clases-en-grupo">grupales</a>, harán una inmensa contribución al aprendizaje de tus hijos. ¡No esperes a que ellos se queden detrás!</p>
@@ -55,7 +55,7 @@
                 matemáticas</b>.</p>
                 <p>
                 Tanto si necesitan <b>apoyo en lengua o en matemáticas o si quieren mejorar en inglés
-                y/o francés</b>, los cursos de idiomas y los cursos de refuerzo de Lifecole serán su mejor
+                y/o francés</b>, los cursos de idiomas y los cursos de refuerzo de Mi-empresa serán su mejor
                 aliado para recuperar la marcha y <b>ponerse al día con sus clases</b>.
                 </p>
                 <p class="mt-3"><b>¿A qué esperas para apuntarlos a los cursos de idiomas o cursos de refuerzo?</b></p>

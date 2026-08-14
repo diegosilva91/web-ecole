@@ -9,8 +9,8 @@ use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Auth;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Api\Domain\Helper\FillSubcategories;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\Helper\FillSubcategories;
 use Spatie\QueryBuilder\AllowedFilter;
 use Spatie\QueryBuilder\QueryBuilder;
 

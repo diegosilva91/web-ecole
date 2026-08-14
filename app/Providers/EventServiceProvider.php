@@ -7,8 +7,8 @@ use App\Listeners\SendEmailForCreateReviews;
 use App\Listeners\SendLeadRegisterToAdmin;
 use App\Listeners\SendWelcomeEmailToCustomer;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
-use Lifecole\Shared\Domain\Event\UserHasFinishedPromotion;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\Event\UserHasFinishedPromotion;
 
 class EventServiceProvider extends ServiceProvider
 {

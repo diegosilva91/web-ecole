@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Courses\GetFeaturedCourses;
+namespace Mi-empresa\Api\Application\Courses\GetFeaturedCourses;
 
-use Lifecole\Api\Domain\Repository\CoursesRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\CoursesRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetFeaturedCoursesQueryHandler implements QueryHandler
 {

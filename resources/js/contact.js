@@ -58,7 +58,7 @@ function changeContact() {
     var partial = document.getElementById("partial_contact");
     var partialTeacher = document.getElementById("partial_teacher");
 
-    if(s==="Quiero ser profesor de lifecole") {
+    if(s==="Quiero ser profesor de mi-empresa") {
         partial.classList.add('d-none');
         partialTeacher.classList.remove('d-none');
     } else {

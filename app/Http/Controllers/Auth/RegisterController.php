@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
 
 class RegisterController extends Controller
 {

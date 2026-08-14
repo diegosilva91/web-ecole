@@ -1,5 +1,5 @@
 @php
-    $seo_title = __('Mejores Cursos Online y Extraescolares - Lifecole');
+    $seo_title = __('Mejores Cursos Online y Extraescolares - Mi-empresa');
     $seo_description = __('Descubre nuestros cursos online y extraescolares ✔️ Profesorado altamente cualificado. ¡Encuentra el curso online que necesitas!');
 @endphp
 

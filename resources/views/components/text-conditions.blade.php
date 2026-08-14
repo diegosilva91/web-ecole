@@ -6,9 +6,9 @@
                     <div class="section_title text-justify mt-30 mb-30">
                         <h3 class="main_title mt-dk-100" style="text-decoration: underline;">CONDICIONES GENERALES DE USO</h3>
 
-                        <p>Las presentes condiciones generales de uso de Lifecole (en adelante, “Condiciones Generales”)
-                            regulan el uso y acceso a la plataforma “Lifecole” (en adelante, la “Plataforma”), titularidad de
-                            LIFECOLE, S.L. (en adelante, la “Compañía”, “Nosotros” y/o “Nos” indistintamente).</p>
+                        <p>Las presentes condiciones generales de uso de Mi-empresa (en adelante, “Condiciones Generales”)
+                            regulan el uso y acceso a la plataforma “Mi-empresa” (en adelante, la “Plataforma”), titularidad de
+                            MI-EMPRESA, S.L. (en adelante, la “Compañía”, “Nosotros” y/o “Nos” indistintamente).</p>
 
                         <p class="mt-4">La aceptación de las presentes Condiciones Generales supone una relación contractual
                             vinculante entre usted (en adelante, “Usted” y/ o “Usuario” indistintamente) y la Compañía.</p>
@@ -19,31 +19,31 @@
                         <h5 class="mt-5"><b>INFORMACIÓN GENERAL</b></h5>
                         <p>Se exponen los siguientes datos identificativos del titular de la Plataforma:</p>
                         <ul style="list-style-type: disc">
-                            <li>Su denominación social es : LIFECOLE, S.L.</li>
+                            <li>Su denominación social es : MI-EMPRESA, S.L.</li>
                             <li>Domicilio social: Plaza Pau Vila 1, 1r planta sector AD - 08039 Barcelona</li>
                             <li>Datos de inscripción en el Registro Mercantil: Registro Mercantil de Barcelona, Tomo
                                 44.729, Folio 1, Hoja B-464.676, inscripción 1a.</li>
                             <li>Número de Identificación Fiscal: B01780600</li>
-                            <li>Correo electrónico: <a href="/es/contacto" target="_b">educacion@lifecole.com</a></li>
+                            <li>Correo electrónico: <a href="/es/contacto" target="_b">educacion@mi-empresa.com</a></li>
                         </ul>
 
                         <h5 class="mt-5"><b>OBJETO</b></h5>
-                        <p>Lifecole es una Plataforma Marketplace que actúa como lugar de encuentro entre profesores
+                        <p>Mi-empresa es una Plataforma Marketplace que actúa como lugar de encuentro entre profesores
                             de clases particulares de una gran variedad materias y Usuarios que desean recibir clases
                             particulares de las materias que deseen.</p>
 
-                        <p class="mt-4">A través de Lifecole los Usuarios que necesiten recibir clases particulares, pueden ponerse en
+                        <p class="mt-4">A través de Mi-empresa los Usuarios que necesiten recibir clases particulares, pueden ponerse en
                             contacto con profesores particulares y recibir sus clases.</p>
 
-                        <p class="mt-4">En este sentido, Lifecole, actúa meramente como intermediaria entre Profesores y Usuario, sin
-                            que Lifecole desempeñe en ningún caso un papel de figura formadora.</p>
+                        <p class="mt-4">En este sentido, Mi-empresa, actúa meramente como intermediaria entre Profesores y Usuario, sin
+                            que Mi-empresa desempeñe en ningún caso un papel de figura formadora.</p>
 
                         <h5 class="mt-5"><b>USO DE LA PLATAFORMA</b></h5>
                         <p>Para poder contratar profesores particulares para tus clases particulares y poder vincularse
                             contractualmente, Usted declara tener más de 18 años de edad y/o cuenta con capacidad legal
                             suficiente para suscribir un contrato.</p>
 
-                        <p class="mt-4">Para convertirse en Usuario, Usted debe registrarse como tal, creando una cuenta en Lifecole a
+                        <p class="mt-4">Para convertirse en Usuario, Usted debe registrarse como tal, creando una cuenta en Mi-empresa a
                             través de la Plataforma en el apartado “Registrarse” y completar el formulario incorporado a
                             tal efecto.</p>
 
@@ -60,7 +60,7 @@
                             profesores particulares. Asimismo, la Plataforma le permite realizar el pago de las clases a
                             través de una pasarela de pago ofrecida a tal efecto y un servicio de chat interno para poder
                             comunicarse con los profesores particulares.</p>
-                        <p class="mt-4">Para ello, Lifecole pondrá a disposición de los Usuarios un panel con ofertas de profesores
+                        <p class="mt-4">Para ello, Mi-empresa pondrá a disposición de los Usuarios un panel con ofertas de profesores
                             particulares, donde indicarán las materias que imparten, horarios, precio y las edades de los
                             alumnos que pueden acceder al curso. De entre todos estos profesores particulares, los
                             Usuarios podrán seleccionar el que mejor se adapte a sus necesidades.</p>
@@ -73,7 +73,7 @@
                                 ello.</li>
                             <li class="mt-2">Utilizar la Plataforma o los medios ofrecidos por la Compañía para finalidades no
                                 reflejadas en este documento.</li>
-                            <li class="mt-2">Utilizar la marca Lifecole para uso personal, dañar la marca y/ o logotipo, realizar
+                            <li class="mt-2">Utilizar la marca Mi-empresa para uso personal, dañar la marca y/ o logotipo, realizar
                                 capturas de pantalla o utilizar medios de la Plataforma para potenciar los intereses
                                 personales en otros medios o vías.</li>
                             <li class="mt-2">Utilizar la Plataforma para difundir mensajes de odio, violentos, racistas, religiosos,
@@ -93,13 +93,13 @@
 
                         <p>Si detecta que otro usuario de la Plataforma, utiliza la misma para fines distintos a los
                             estipulados en este documento, de manera inapropiada y/o ilegal, debe ponerse en contacto
-                            con el personal de la Compañía a la siguiente dirección de correo electrónico: <a href="/es/contacto" target="_b">educacion@lifecole.com</a>.<p>
+                            con el personal de la Compañía a la siguiente dirección de correo electrónico: <a href="/es/contacto" target="_b">educacion@mi-empresa.com</a>.<p>
 
-                        <p class="mt-4">Por su parte, Lifecole se reserva el derecho a eliminar y/ o bloquear cualquier cuenta de
+                        <p class="mt-4">Por su parte, Mi-empresa se reserva el derecho a eliminar y/ o bloquear cualquier cuenta de
                             Usuario que considere o tenga indicios suficientes de que se están incumpliendo las presentes
                             Condiciones Generales.</p>
 
-                        <h5 class="mt-5"><b>RESPONSABILIDAD DE LIFECOLE</b></h5>
+                        <h5 class="mt-5"><b>RESPONSABILIDAD DE MI-EMPRESA</b></h5>
                         <p>Los Usuarios comprenden que la Compañía es una empresa independiente que pone la
                             Plataforma a disposición de estos y profesores particulares, y que no asume responsabilidad
                             alguna derivada de la información proporcionada por los Usuarios y/o profesores particulares,
@@ -113,7 +113,7 @@
                             destinados a ayudar a verificar contenidos de las clases particulares y sus profesores.</p>
 
                         <p>Los Usuarios son completamente responsables del acceso y correcto uso de su cuenta en
-                            Lifecole y demás contenidos de la Plataforma con sujeción a la legalidad vigente, sea nacional
+                            Mi-empresa y demás contenidos de la Plataforma con sujeción a la legalidad vigente, sea nacional
                             o internacional, así como a los principios de buena fe, a la moral, buenas costumbres y orden
                             público. Y específicamente, adquieren el compromiso de observar diligentemente y cumplir las
                             presentes Condiciones Generales.</p>
@@ -122,7 +122,7 @@
                             forma puedan dañar, inutilizar, afectar o deteriorar la Plataforma, sus contenidos y sus
                             servicios. Asimismo, queda prohibido impedir la normal utilización o disfrute de la Plataforma
                             a otros Usuarios.</p>
-                        <p>Lifecole no podrá ser considerada responsable editorial, y declara expresamente que no se
+                        <p>Mi-empresa no podrá ser considerada responsable editorial, y declara expresamente que no se
                             identifica con ninguna de las opiniones que puedan emitir los Usuarios y profesores
                             particulares en la Plataforma, de cuyas consecuencias se hace enteramente responsable el
                             emisor de las mismas.</p>
@@ -158,7 +158,7 @@
 
                         <h5><b>CANCELACIONES DE LAS CLASES</b></h5>
                         <p>El Usuario podrá cancelar en cualquier momento y por cualquier motivo. En este sentido, para
-                            el ejercicio del derecho cancelación de la clase reservada, Lifecole facilita al Usuario un
+                            el ejercicio del derecho cancelación de la clase reservada, Mi-empresa facilita al Usuario un
                             formulario disponible en el perfil de Usuario para tal efecto. Se ruega al Usuario ejercer su
                             derecho de cancelación previo a la hora reservada de la clase particular, no obstante, y como
                             se ha indicado anteriormente, el Usuario puede ejercer su derecho de cancelación en cualquier
@@ -166,17 +166,17 @@
                         <p>La falta de asistencia a clase reservada, supone la cancelación de la clase particular.</p>
                         <p>De acuerdo a lo indicado en los dos párrafos anteriores, la cancelación de la clase, supone la
                             devolución de las cantidades abonadas por el Usuario por dicho concepto. Por su parte,
-                            Lifecole dispone de un periodo de catorce (14) días naturales, desde la notificación de la
+                            Mi-empresa dispone de un periodo de catorce (14) días naturales, desde la notificación de la
                             cancelación de la clase particular por parte del Usuario para el reintegro de las cantidades
                             abonadas por dicho concepto. Las cantidades serán reintegradas al Usuario a través del mismo
                             medio de pago utilizado por este para el pago de la clase particular reservada y cancelada.</p>
 
                         <h5><b>RECLAMACIONES</b></h5>
-                        <p>En el supuesto de cualquier reclamación y/o incidencia imputable a Lifecole relacionada con el
+                        <p>En el supuesto de cualquier reclamación y/o incidencia imputable a Mi-empresa relacionada con el
                             Servicio, la Compañía dispone de un procedimiento de reclamación que se inicia a través de la
-                            dirección de correo electrónico <a href="/es/contacto" target="_b">educacion@lifecole.com</a>. Iniciada esta comunicación, la
+                            dirección de correo electrónico <a href="/es/contacto" target="_b">educacion@mi-empresa.com</a>. Iniciada esta comunicación, la
                             Compañía trabajará junto con Usuario para recopilar la información necesaria sobre su
-                            reclamación y/o incidencia. Asimismo, Lifecole pone a disposición del usuario un formulario de
+                            reclamación y/o incidencia. Asimismo, Mi-empresa pone a disposición del usuario un formulario de
                             reclamación al que podrá acceder a través de su Perfil.</p>
                         <p>Asimismo, el usuario, podrá resolver de forma amistosa incidencias que se pudiesen producir
                             durante la relación contractual a través de la Plataforma impulsada por la Comisión Europea
@@ -194,27 +194,27 @@
                             susceptible de protección por la legislación de Propiedad Intelectual o Industrial, que puedan
                             ser accesibles para los Usuarios, son de propiedad de Lifcole y quedan expresamente
                             reservados todos los derechos de uso sobre los mismos.</p>
-                        <p>Usted podrá hacer uso de dicho material únicamente en la forma en que Lifecole se lo autorice
+                        <p>Usted podrá hacer uso de dicho material únicamente en la forma en que Mi-empresa se lo autorice
                             expresamente.</p>
                         <p>Cualquier uso indebido del Servicio o incumplimiento de las obligaciones por parte del Usuario
-                            podrán derivar, a discreción de Lifecole, en la cancelación de la cuenta, o suspensión del
+                            podrán derivar, a discreción de Mi-empresa, en la cancelación de la cuenta, o suspensión del
                             Servicio hasta que se resuelva la incidencia, en su caso.</p>
 
                         <p>Asimismo, el Usuario se compromete a no retirar, suprimir, alterar, manipular ni en modo
                             alguno modificar:</p>
                         <ul style="list-style-type: disc">
-                            <li class="mt-2">Aquellas notas, leyendas, indicaciones o símbolos que bien Lifecole o los legítimos
+                            <li class="mt-2">Aquellas notas, leyendas, indicaciones o símbolos que bien Mi-empresa o los legítimos
                                 titulares de los derechos incorporen a sus propiedades en materia de Propiedad
                                 Intelectual o Industrial (como por ejemplo, copyright, ©, ® y ™, etc.).</li>
-                            <li class="mt-2">Los dispositivos técnicos de protección o identificación titularidad de Lifecole (como por
+                            <li class="mt-2">Los dispositivos técnicos de protección o identificación titularidad de Mi-empresa (como por
                                 ejemplo, marcas de agua, huellas digitales, etc.).</li>
                         </ul>
 
-                        <p>El Usuario reconoce que, en virtud de las presentes Condiciones Generales, Lifecole no cede ni
+                        <p>El Usuario reconoce que, en virtud de las presentes Condiciones Generales, Mi-empresa no cede ni
                             transfiere a este ningún derecho sobre sus títulos de Propiedad Intelectual y/o Industrial, o
-                            sobre cualesquiera propiedades de terceras partes. Lifecole sólo autoriza al Usuario el acceso y
+                            sobre cualesquiera propiedades de terceras partes. Mi-empresa sólo autoriza al Usuario el acceso y
                             uso de los mismos de conformidad con los términos indicados en los presentes términos y
-                            condiciones. Por tanto, Lifecole no concede ninguna otra licencia o autorización de uso al
+                            condiciones. Por tanto, Mi-empresa no concede ninguna otra licencia o autorización de uso al
                             Usuario sobre los derechos de Propiedad Intelectual y/o Industrial distinta de la que
                             expresamente se detalla en la presente cláusula.</p>
                         <p>El Usuario no está autorizado a copiar, distribuir (incluyendo correos electrónicos e Internet),
@@ -243,18 +243,18 @@
                         <p><b>Derechos de Propiedad Industrial y/o Intelectual derivados del Contenido proporcionado por
                             los Usuarios, Profesores y/o alumnos:</b></p>
 
-                        <p>Lifecole no se responsabiliza con respecto a la autenticidad, exactitud, fiabilidad, legalidad, así
+                        <p>Mi-empresa no se responsabiliza con respecto a la autenticidad, exactitud, fiabilidad, legalidad, así
                             como de eventuales violaciones de derechos de terceros por parte de los Usuario, alumnos y/o
-                            profesores. En este sentido, los Usuarios comprenden que Lifecole es una empresa
+                            profesores. En este sentido, los Usuarios comprenden que Mi-empresa es una empresa
                             independiente que pone la Plataforma a disposición de estos, y que no asume responsabilidad
                             alguna derivada de la información proporcionada por los Usuarios, ni por los daños o pérdidas
                             que eventualmente pudieran sufrir terceros por publicaciones y/ o por el incumplimiento de
                             las presentes Condiciones Generales por parte de los Usuarios.</p>
-                        <p>Lifecole no realiza confirmación alguna, ni valida ninguna publicación. Sin perjuicio de lo
-                            anterior, Lifecole puede eventualmente realizar comprobaciones adicionales y poner en
+                        <p>Mi-empresa no realiza confirmación alguna, ni valida ninguna publicación. Sin perjuicio de lo
+                            anterior, Mi-empresa puede eventualmente realizar comprobaciones adicionales y poner en
                             marcha procedimientos destinados a ayudar a verificar o comprobar identidades de sus
                             Usuarios y/ o de sus publicaciones.</p>
-                        <p>Lifecole no podrá ser considerada responsable editorial, y declara expresamente que no se
+                        <p>Mi-empresa no podrá ser considerada responsable editorial, y declara expresamente que no se
                             identifica con ninguna de las opiniones que puedan emitir los Usuarios en la Plataforma, de
                             cuyas consecuencias se hace enteramente responsable el emisor de las mismas.</p>
                         <p>El Usuario Profesor y/o alumno es el autor o tiene la correspondiente autorización o licencia
@@ -268,7 +268,7 @@
                             aparezcan terceras personas, éste manifiesta haber obtenido previamente el consentimiento
                             del tercero en cuestión para poder compartir su imagen con los usuarios de la Plataforma y
                             utilizarla en los términos indicados, o bien ser el representante o tutor legal del tercero que
-                            aparezca en dichas imágenes. En este sentido, Lifecole recomienda evitar publicar imágenes en
+                            aparezca en dichas imágenes. En este sentido, Mi-empresa recomienda evitar publicar imágenes en
                             las que aparezcan menores. En cualquier caso, el Usuario exonera a la Compañía de toda
                             responsabilidad frente a terceros, y asume en consecuencia todas las reclamaciones que
                             pudieran ejercitarse contra la misma y por terceros que pudieran entender infringidos sus
@@ -276,11 +276,11 @@
                             condiciones.</p>
                         <p>A este respecto, será responsabilidad del Usuario Profesor y/o alumno disponer de todos los
                             derechos necesarios para el uso y/o explotación de los Contenidos.</p>
-                        <p>Lifecole no comprobará estos extremos, ni se responsabilizará de las consecuencias que de su
+                        <p>Mi-empresa no comprobará estos extremos, ni se responsabilizará de las consecuencias que de su
                             incumplimiento se pudiesen generar, tanto frente al Usuario como frente a terceros.</p>
                         <p>Quienes incumplan tales obligaciones responderán de cualquier perjuicio o daño que
                             ocasionen.</p>
-                        <p>Lifecole no responderá de ninguna consecuencia, daño o perjuicio que pudiera derivarse de
+                        <p>Mi-empresa no responderá de ninguna consecuencia, daño o perjuicio que pudiera derivarse de
                             dicho acceso o uso ilícito por parte de terceros.</p>
 
                         <h5 class="mt-5"><b>INDEPENDENCIA DE LAS CLÁUSULAS</b></h5>
@@ -320,10 +320,10 @@
 
                         {{-- <h5>FORMULARIO DE DESISTIMIENTO</h5>
                         <p>A la atención de:<br>
-                            LIFECOLE, S.L.<br>
+                            MI-EMPRESA, S.L.<br>
                             Plaza Pau Vila 1, 1r planta sector AD - 08039 Barcelona<br>
                             Teléfono: +34.669.127.083<br>
-                            Email: educacion@lifecole.com<br>
+                            Email: educacion@mi-empresa.com<br>
                             Por la presente le comunico que desisto del contrato de venta celebrado con ustedes en
                             relación a los siguientes productos y/o servicios:</p>
 
@@ -373,10 +373,10 @@
 
                         <h5 class="mt-20">FORMULARIO DE RECLAMACIONES</h5>
                         <p>A la atención de:<br>
-                            LIFECOLE, S.L.<br>
+                            MI-EMPRESA, S.L.<br>
                             Plaza Pau Vila 1, 1r planta sector AD - 08039 Barcelona<br>
                             Teléfono: +34.669.127.083<br>
-                            Email: educacion@lifecole.com<br>
+                            Email: educacion@mi-empresa.com<br>
                         </p>
 
                             <table class="table">

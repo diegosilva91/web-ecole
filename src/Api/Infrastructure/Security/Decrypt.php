@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Security;
+namespace Mi-empresa\Api\Infrastructure\Security;
 
 use Illuminate\Support\Facades\Crypt;
 

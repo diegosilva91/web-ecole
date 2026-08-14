@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\SepaChargeFailedUpdateCommand;
+namespace Mi-empresa\Api\Application\Payments\SepaChargeFailedUpdateCommand;
 
 use App\Course;
 use App\Mail\Internal\PaymentSepaFailed;
@@ -9,8 +9,8 @@ use App\PromotionPurchasePayment;
 use Cartalyst\Stripe\Laravel\Facades\Stripe;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Str;
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class SepaChargeFailedUpdateCommandHandler implements CommandHandler
 {

@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Api\Reviews;
 use App\CourseReviews;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\JsonResponse;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
 use Spatie\QueryBuilder\AllowedFilter;
 use Spatie\QueryBuilder\QueryBuilder;
 

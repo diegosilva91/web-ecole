@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\CourseSpecialization;
-use Lifecole\Api\Domain\Repository\CourseSpecializationRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\CourseSpecializationRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentCourseSpecializationRepository extends EloquentRepository implements CourseSpecializationRepository
 {

@@ -152,7 +152,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vuet
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/juliethydiego/Public/lifecole/web/resources/js/promo.js */"./resources/js/promo.js");
+module.exports = __webpack_require__(/*! /Users/juliethydiego/Public/mi-empresa/web/resources/js/promo.js */"./resources/js/promo.js");
 
 
 /***/ })

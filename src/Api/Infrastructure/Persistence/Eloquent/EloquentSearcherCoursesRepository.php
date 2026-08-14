@@ -1,15 +1,15 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\Course;
 use App\Http\Resources\CoursesSearchResource;
 use App\Http\Resources\PaginatedResource;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\Helper\AddPriceHour;
-use Lifecole\Api\Domain\Helper\FillSubcategories;
-use Lifecole\Api\Domain\Repository\SearcherCoursesRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\Helper\AddPriceHour;
+use Mi-empresa\Api\Domain\Helper\FillSubcategories;
+use Mi-empresa\Api\Domain\Repository\SearcherCoursesRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentSearcherCoursesRepository extends EloquentRepository implements SearcherCoursesRepository
 {

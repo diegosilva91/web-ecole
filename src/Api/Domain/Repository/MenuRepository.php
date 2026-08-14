@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
-use Lifecole\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
 
 interface MenuRepository
 {

@@ -5,16 +5,16 @@ namespace App\Providers;
 use Illuminate\Database\DatabaseManager;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Validation\DatabasePresenceVerifier;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Event\DomainEventPublisher;
-use Lifecole\Event\Domain\Bus\Event\Event;
-use Lifecole\Event\Domain\Bus\Event\EventBus;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Event\Infrastructure\Messenger\Command\SymfonyCommandBus;
-use Lifecole\Event\Infrastructure\Messenger\Event\SymfonyDomainEventPublisher;
-use Lifecole\Event\Infrastructure\Messenger\Event\SymfonyEventBus;
-use Lifecole\Event\Infrastructure\Messenger\Query\SymfonyQueryBus;
-use Lifecole\Shared\Infrastructure\Bus\Messenger\LifecoleHandlersLocator;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Event\DomainEventPublisher;
+use Mi-empresa\Event\Domain\Bus\Event\Event;
+use Mi-empresa\Event\Domain\Bus\Event\EventBus;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Event\Infrastructure\Messenger\Command\SymfonyCommandBus;
+use Mi-empresa\Event\Infrastructure\Messenger\Event\SymfonyDomainEventPublisher;
+use Mi-empresa\Event\Infrastructure\Messenger\Event\SymfonyEventBus;
+use Mi-empresa\Event\Infrastructure\Messenger\Query\SymfonyQueryBus;
+use Mi-empresa\Shared\Infrastructure\Bus\Messenger\Mi-empresaHandlersLocator;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\DependencyInjection\Argument\RewindableGenerator;
 use Symfony\Component\Messenger\Bridge\Doctrine\Transport\DoctrineTransportFactory;
@@ -113,21 +113,21 @@ class MessengerProvider extends ServiceProvider
 
         $this->app->bind('query.bus.middleware.handle_message', function () {
             return new HandleMessageMiddleware(
-                new LifecoleHandlersLocator(),
+                new Mi-empresaHandlersLocator(),
                 false
             );
         });
 
         $this->app->bind('command.bus.middleware.handle_message', function () {
             return new HandleMessageMiddleware(
-                new LifecoleHandlersLocator(),
+                new Mi-empresaHandlersLocator(),
                 false
             );
         });
 
         $this->app->bind('event.bus.middleware.handle_message', function () {
             return new HandleMessageMiddleware(
-                new LifecoleHandlersLocator(),
+                new Mi-empresaHandlersLocator(),
                 false
             );
         });
@@ -149,8 +149,8 @@ class MessengerProvider extends ServiceProvider
                 yield 3 => $this->app->get('messenger.middleware.dispatch_after_current_bus');//] ?? ($this->privates['messenger.middleware.dispatch_after_current_bus'] = new \Symfony\Component\Messenger\Middleware\DispatchAfterCurrentBusMiddleware()));
                 yield 4 => $this->app->get('messenger.middleware.failed_message_processing_middleware');//] ?? ($this->privates['messenger.middleware.failed_message_processing_middleware'] = new \Symfony\Component\Messenger\Middleware\FailedMessageProcessingMiddleware()));
                 //yield 5 => $this->app->get('messenger.middleware.validation');
-                yield 5 => $this->app->get('Lifecole\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
-                yield 6 => $this->app->get('Lifecole\\Event\\Infrastructure\\Messenger\\Middleware\\DispatchEvents');
+                yield 5 => $this->app->get('Mi-empresa\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
+                yield 6 => $this->app->get('Mi-empresa\\Event\\Infrastructure\\Messenger\\Middleware\\DispatchEvents');
                 yield 7 => $this->app->get('messenger.middleware.send_message');
                 yield 8 => $this->app->get('query.bus.middleware.handle_message');
             }, 9)));
@@ -164,8 +164,8 @@ class MessengerProvider extends ServiceProvider
                 yield 4 => $this->app->get('messenger.middleware.dispatch_after_current_bus');//] ?? ($this->privates['messenger.middleware.dispatch_after_current_bus'] = new \Symfony\Component\Messenger\Middleware\DispatchAfterCurrentBusMiddleware()));
                 yield 5 => $this->app->get('messenger.middleware.failed_message_processing_middleware');//] ?? ($this->privates['messenger.middleware.failed_message_processing_middleware'] = new \Symfony\Component\Messenger\Middleware\FailedMessageProcessingMiddleware()));
                 //yield 5 => $this->app->get('messenger.middleware.validation');
-                yield 6 => $this->app->get('Lifecole\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
-                yield 7 => $this->app->get('Lifecole\\Event\\Infrastructure\\Messenger\\Middleware\\DispatchEvents');
+                yield 6 => $this->app->get('Mi-empresa\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
+                yield 7 => $this->app->get('Mi-empresa\\Event\\Infrastructure\\Messenger\\Middleware\\DispatchEvents');
                 yield 8 => $this->app->get('messenger.middleware.send_message');
                 yield 9 => $this->app->get('command.bus.middleware.handle_message');
             }, 10)));
@@ -179,7 +179,7 @@ class MessengerProvider extends ServiceProvider
                 yield 4 => $this->app->get('messenger.middleware.dispatch_after_current_bus');//] ?? ($this->privates['messenger.middleware.dispatch_after_current_bus'] = new \Symfony\Component\Messenger\Middleware\DispatchAfterCurrentBusMiddleware()));
                 yield 5 => $this->app->get('messenger.middleware.failed_message_processing_middleware');//] ?? ($this->privates['messenger.middleware.failed_message_processing_middleware'] = new \Symfony\Component\Messenger\Middleware\FailedMessageProcessingMiddleware()));
                 //yield 5 => $this->app->get('messenger.middleware.validation');
-                yield 6 => $this->app->get('Lifecole\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
+                yield 6 => $this->app->get('Mi-empresa\\Event\\Infrastructure\\Messenger\\Middleware\\MessageLoggerMiddleware');
                 yield 7 => $this->app->get('messenger.middleware.send_message');
                 yield 8 => $this->app->get('event.bus.middleware.handle_message');
             }, 9)));

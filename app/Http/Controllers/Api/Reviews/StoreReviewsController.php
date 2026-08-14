@@ -5,12 +5,12 @@ namespace App\Http\Controllers\Api\Reviews;
 use App\Mail\Internal\NewReviewCreated;
 use App\User;
 use Illuminate\Http\Request;
-use Lifecole\Api\Application\Reviews\AddReview\AddReviewCommand;
-use Lifecole\Api\Domain\Helper\DecryptTokenReviewsForm;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Shared\Domain\Repository\Mailer;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\AddReview\AddReviewCommand;
+use Mi-empresa\Api\Domain\Helper\DecryptTokenReviewsForm;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Shared\Domain\Repository\Mailer;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class StoreReviewsController
 {

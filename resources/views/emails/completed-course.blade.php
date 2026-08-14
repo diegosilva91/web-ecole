@@ -194,7 +194,7 @@
                     <tr>
                         <td style="cursor: pointer;" align="center">
                             <a style="text-decoration: underline;" href="{{url('es/reviews/'.$token)}}">
-                                <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/link_reviews.png" style="margin-top:30px"/>
+                                <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/link_reviews.png" style="margin-top:30px"/>
                             </a>
                         </td>
                     </tr>
@@ -222,15 +222,15 @@
                                         <table width="100%" cellspacing="0" cellpadding="0" role="presentation">
                                             <tbody><tr style="margin-top:36px;">
                                                 <td style="padding-bottom: 10px;" align="center">
-                                                        <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/images/mails/card_code2.png"
+                                                        <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/images/mails/card_code2.png"
                                                         ></a>
                                                 </td>
                                                 <td style="padding-bottom: 10px;" align="center">
-                                                        <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_game2.png" 
+                                                        <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_game2.png" 
                                                         ></a>
                                                 </td> 
                                                 <td style="padding-bottom: 10px;" align="center">     
-                                                        <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot2.png"
+                                                        <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot2.png"
                                                         ></a>
                                                 </td>
                                             </tr>
@@ -269,7 +269,7 @@
                                                                     height: 51px;
                                                                     font-family: Poppins;
                                                                     font-size: 12px; color: #803a91;">&#9679;</span>O si lo prefieres, sube tu story con el hastag <b>#Lifecoolers</b> y etiqueta
-                                                                        a <b>lifecoleedu</b>
+                                                                        a <b>mi-empresaedu</b>
                                                                     </p></td>
                                                             </tr>
                                                         </table>

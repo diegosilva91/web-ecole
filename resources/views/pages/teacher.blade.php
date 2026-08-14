@@ -1,6 +1,6 @@
 @php
-    $seo_title = __('Empieza a dar clases Online - Genera Ingresos Extra - Lifecole ');
-    $seo_description = __('Empieza a impartir educación a tu medida y genera ingresos extra ¡Empieza a dar clases Online o grupos reducidos en Lifecole!');
+    $seo_title = __('Empieza a dar clases Online - Genera Ingresos Extra - Mi-empresa ');
+    $seo_description = __('Empieza a impartir educación a tu medida y genera ingresos extra ¡Empieza a dar clases Online o grupos reducidos en Mi-empresa!');
 @endphp
 
 @extends('layouts.main')

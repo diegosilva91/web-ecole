@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\CoursesHistoricalViewed;
-use Lifecole\Api\Domain\Repository\CourseHistoricalViewedRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\CourseHistoricalViewedRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentCourseHistoricalViewedRepository extends EloquentRepository implements CourseHistoricalViewedRepository
 {

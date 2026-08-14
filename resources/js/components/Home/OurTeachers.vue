@@ -64,7 +64,7 @@ export default {
         return {
             loading: false,
             url: '',
-            default_image: 'https://myawslifecole.s3.eu-west-1.amazonaws.com/public/images/users/default.png',
+            default_image: 'https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/images/users/default.png',
         }
     },
     methods: {

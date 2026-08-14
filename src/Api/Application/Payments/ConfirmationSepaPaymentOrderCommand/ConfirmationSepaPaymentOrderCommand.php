@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand;
+namespace Mi-empresa\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand;
 
 use App\PromotionPurchasePayment;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class ConfirmationSepaPaymentOrderCommand extends Command
 {

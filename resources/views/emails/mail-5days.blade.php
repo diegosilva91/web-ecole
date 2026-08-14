@@ -800,7 +800,7 @@
                                         <table width="100%" cellspacing="0" cellpadding="0">
                                             <tr>
                                                 <td width="530" valign="top" align="center">
-                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Lifecole nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
+                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Mi-empresa nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
                                                 </td>
                                             </tr>
                                         </table>
@@ -808,7 +808,7 @@
                                             <tr>
                                                 <td width="530" valign="top" align="center">
                                                     <p class="" style="width: 577px; font-family: Poppins; font-size: 18px;font-weight: 300; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 10px">
-                                                        Tendrás acceso a un <b style="color:#29c0d3;">10%</b> de descuento <br> en tu primer curso de Lifecole</p>
+                                                        Tendrás acceso a un <b style="color:#29c0d3;">10%</b> de descuento <br> en tu primer curso de Mi-empresa</p>
                                                 </td>
                                             </tr>
                                         </table>
@@ -821,7 +821,7 @@
                 <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                     <tr>
                         <td align="center">
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/10%25msg.png" style="margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/10%25msg.png" style="margin-top:50px"/>
                         </td>
                     </tr>
                 </table>
@@ -849,22 +849,22 @@
                                                     <td>
                                                         <h3 class="title-rs es-p20l">Instagram</h3>
                                                         <p class="rs-texts es-p20">Estarás informado en todo momento de nuevos cursos, sorteos y otras sorpresas que os tenemos preparadas.</p>
-                                                        <p class="rs-texts es-p20">¡Ya sabes! Si no quieres perderte nada siguenos al perfil <a href="https://www.instagram.com/lifecoleedu/">lifecoleedu</a>.</p>
+                                                        <p class="rs-texts es-p20">¡Ya sabes! Si no quieres perderte nada siguenos al perfil <a href="https://www.instagram.com/mi-empresaedu/">mi-empresaedu</a>.</p>
                                                     </td>
                                                     <td class="center-img">
-                                                        <img width="313px" height="572px" src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/insta-lifecole.png" style="margin-top:50px"/>
+                                                        <img width="313px" height="572px" src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/insta-mi-empresa.png" style="margin-top:50px"/>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="center-img">
-                                                        <img width="313px" height="572px" src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/facebook-lifecole.png" style="margin-top:50px"/>
+                                                        <img width="313px" height="572px" src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/facebook-mi-empresa.png" style="margin-top:50px"/>
                                                     </td>
                                                     <td>
                                                         <h3 class="title-rs es-p20l">Facebook</h3>
                                                         <p class="rs-texts es-p20">
                                                         Si no tienes cuenta en Instagram ¡No te preocupes! Contamos con otra cuenta en facebook para ponerte al día con nuestras novedades.
                                                         </p>
-                                                        <p class="rs-texts es-p20">Descubre nuestras ofertas especiales y sorteos en nuestro perfil de <a href="https://www.facebook.com/LifeColeEdu/">lifecole</a>.</p>
+                                                        <p class="rs-texts es-p20">Descubre nuestras ofertas especiales y sorteos en nuestro perfil de <a href="https://www.facebook.com/LifeColeEdu/">mi-empresa</a>.</p>
                                                     </td>
                                                 </tr>
                                             </table>

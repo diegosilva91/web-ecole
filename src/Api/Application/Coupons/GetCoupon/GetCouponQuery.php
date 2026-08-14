@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Coupons\GetCoupon;
+namespace Mi-empresa\Api\Application\Coupons\GetCoupon;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
 
 class GetCouponQuery extends Query
 {

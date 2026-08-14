@@ -12,7 +12,7 @@ spec:
           restartPolicy: Never
           containers:
           - name: remarketing24
-            image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-php
+            image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/mi-empresa/web-php
             command:
             - bin/console
             - messenger:consume

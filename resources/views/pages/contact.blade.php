@@ -1,6 +1,6 @@
 @php
-    $seo_title = __('Contacto | Cursos para niños de 3 a 18 años | Lifecole');
-    $seo_description = __('✓ LIFECOLE CONTACTO ⇨ Cursos y extraescolares online con profesores cualificados ᐅ Refuerzo de Matemáticas; Programación y Robótica; Música, Idiomas y más');
+    $seo_title = __('Contacto | Cursos para niños de 3 a 18 años | Mi-empresa');
+    $seo_description = __('✓ MI-EMPRESA CONTACTO ⇨ Cursos y extraescolares online con profesores cualificados ᐅ Refuerzo de Matemáticas; Programación y Robótica; Música, Idiomas y más');
 @endphp
 
 @extends('layouts.main')
@@ -132,7 +132,7 @@
                         </div>
                     @endif
 
-                    @if($sender=="lifecole")
+                    @if($sender=="mi-empresa")
                         <form method="POST" action="/es/contacto">
                             @elseif($sender=="teacher")
                                 <form method="POST" action="/es/contacto?contact_id={{$contact_id}}">
@@ -185,8 +185,8 @@
                                                         <?php if (Request::fullUrl() === Request::fullUrlWithQuery(['subject' => 'teacher'])) echo 'selected';?> value="Contactar con un profesor">
                                                         Contactar con el área de coordinación académica
                                                     </option>
-                                                    <option id="teacher" <?php if (Request::fullUrl() === Request::fullUrlWithQuery(['subject' => 'lead-teacher'])) echo 'selected';?> value="Quiero ser profesor de lifecole">
-                                                        Quiero ser profesor de lifecole
+                                                    <option id="teacher" <?php if (Request::fullUrl() === Request::fullUrlWithQuery(['subject' => 'lead-teacher'])) echo 'selected';?> value="Quiero ser profesor de mi-empresa">
+                                                        Quiero ser profesor de mi-empresa
                                                     </option>
                                                     <option
                                                         value="Preguntas generales">
@@ -258,17 +258,17 @@
                                             </div>
                                         </div>
                                         <p class="col-12 h8-txt-light mt-50 text-center">
-                                            INFORMACIÓN PROTECCIÓN DE DATOS DE LIFECOLE, S.L. Finalidades:
+                                            INFORMACIÓN PROTECCIÓN DE DATOS DE MI-EMPRESA, S.L. Finalidades:
                                             Facilitarle un medio para que pueda ponerse en contacto con nosotros y
                                             atender a sus consultas y/o peticiones, incluso por medios electrónicos.
                                             Legitimación: Consentimiento expreso del interesado. Destinatarios No se
                                             prevén cesiones de datos a terceros. Derechos: Puede retirar su
                                             consentimiento en cualquier momento, así como acceder, rectificar, suprimir
-                                            sus datos y demás derechos en educacion@lifecole.com. Información Adicional:
+                                            sus datos y demás derechos en educacion@mi-empresa.com. Información Adicional:
                                             Puede ampliar la información en el enlace de Política de Privacidad.
                                         </p>
                                     </div>
-                                    @if($sender=="lifecole")
+                                    @if($sender=="mi-empresa")
                                 </form>
                             @elseif($sender=="teacher")
                         </form>

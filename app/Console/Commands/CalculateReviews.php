@@ -4,12 +4,12 @@ namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
-use Lifecole\Api\Application\Reviews\CalculateReviewsCourse\CalculateReviewsCourseCommand;
-use Lifecole\Api\Application\Reviews\CalculateReviewsTeacher\CalculateReviewsTeachersCommand;
-use Lifecole\Api\Application\Reviews\ComputeTotalReviews\ComputeTotalReviewsCommand;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\CalculateReviewsCourse\CalculateReviewsCourseCommand;
+use Mi-empresa\Api\Application\Reviews\CalculateReviewsTeacher\CalculateReviewsTeachersCommand;
+use Mi-empresa\Api\Application\Reviews\ComputeTotalReviews\ComputeTotalReviewsCommand;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class CalculateReviews extends Command
 {

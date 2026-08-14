@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Cursos de Diseño 3D online Desde Casa - Lifecole';
+    $seo_title = 'Cursos de Diseño 3D online Desde Casa - Mi-empresa';
     $seo_description = 'Cursos de diseño 3D online para iniciarse. Aprende: Indesign, Illustrator, Photoshop y mucho más ✔️ Profesores cualificados. ¡Entra Aquí!';
 @endphp
 
@@ -39,12 +39,12 @@
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Cursos de diseño 3D</h2>
                 <p>Seguro que más de una vez has oído hablar sobre las impresoras 3D. Estas innovadoras herramientas han llegado para quedarse y estamos seguros de que <b>van a formar parte de las nuevas profesiones que vayan creándose en el futuro</b>.</p>
-                <p>En <a class="blue-title" href="/es"> Lifecole</a> creemos que <b>nunca es demasiado pronto para empezar a aprender y adquirir habilidades técnicas</b> que puedan posteriormente puedan aplicarse a otras facetas de la vida de los más pequeños.</p>
+                <p>En <a class="blue-title" href="/es"> Mi-empresa</a> creemos que <b>nunca es demasiado pronto para empezar a aprender y adquirir habilidades técnicas</b> que puedan posteriormente puedan aplicarse a otras facetas de la vida de los más pequeños.</p>
                 <p>Por eso, hemos creado la <b>categoría de cursos de diseño 3D</b>, donde podrás encontrar todos nuestros cursos relacionados para que tus hij@s aprendan a diseñar en 3D.</p>
             </div>
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Clases de diseño 3D con contenido innovador y diferente</h2>
-                <p>En Lifecole nos apasiona crear cursos innovadores y diferentes para que los niños puedan desarrollar nuevas habilidades que les resulten útiles en su futuro.</p>
+                <p>En Mi-empresa nos apasiona crear cursos innovadores y diferentes para que los niños puedan desarrollar nuevas habilidades que les resulten útiles en su futuro.</p>
                 <p>Con <b>nuestros cursos de diseño 3D</b> os alumnos desarrollarán el razonamiento lógico e intelectual, además de impulsar su desarrollo creativo.</p>
                 <p>Si esta va a ser su primera vez usando una herramienta de este tipo, te recomendamos que empiecen por uno de nuestros <b>cursos de diseño 3D con</b> <a class="blue-title" href="/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/diseno-modelado-tinkercard"> Tinkecard</a>. Este programa es perfecto para <b>iniciarse en el desarrollo y modelado de objetos en 3D</b>.</p>
             </div>

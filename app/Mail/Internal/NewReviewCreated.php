@@ -19,9 +19,9 @@ class NewReviewCreated extends Mailable
     public function build(): Mailable
     {
         $subject = 'Nueva opinión insertada';
-        $bcc = [['email' => 'flavia@lifecole.com','name' => 'Flavia'],
-            ['email' => 'eva@lifecole.com','name' => 'Eva'],
-            ['email' => 'antonio@lifecole.com','name' => 'Antonio'],
+        $bcc = [['email' => 'flavia@mi-empresa.com','name' => 'Flavia'],
+            ['email' => 'eva@mi-empresa.com','name' => 'Eva'],
+            ['email' => 'antonio@mi-empresa.com','name' => 'Antonio'],
         ];
 
         if (config('app.env') != 'production') {
@@ -32,7 +32,7 @@ class NewReviewCreated extends Mailable
         }
 
         $html = 'Email Padre/Alumno: ' . $this->user->email . '<br/><br/>';
-        $html .= 'Panel: https://admin.lifecole.com/review/list<br/><br/>';
+        $html .= 'Panel: https://admin.mi-empresa.com/review/list<br/><br/>';
 
         return $this->subject($subject)
             ->bcc($bcc)

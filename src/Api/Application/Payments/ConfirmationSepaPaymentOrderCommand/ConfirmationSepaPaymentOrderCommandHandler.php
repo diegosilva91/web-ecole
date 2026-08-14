@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand;
+namespace Mi-empresa\Api\Application\Payments\ConfirmationSepaPaymentOrderCommand;
 
 use App\Course;
 use App\Mail\ConfirmationSepaPayment;
 use App\UserAssistant;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class ConfirmationSepaPaymentOrderCommandHandler implements CommandHandler
 {

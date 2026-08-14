@@ -1,5 +1,5 @@
 @php
-    $seo_title = __('Encuentra Cursos Intensivos Online- Lifecole ');
+    $seo_title = __('Encuentra Cursos Intensivos Online- Mi-empresa ');
     $seo_description = __('Descubre Cursos Intensivos Online a medida. ✔️Aprende desde casa ✔ Profesores cualificados. Cursos con grupos reducidos ¡Entra y descúbrelos!');
 @endphp
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Domain\Helper;
+namespace Mi-empresa\Api\Domain\Helper;
 
 class Url
 {

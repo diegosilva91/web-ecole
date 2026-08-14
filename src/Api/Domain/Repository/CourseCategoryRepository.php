@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
 use App\CourseCategory;
 

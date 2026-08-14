@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetTokenReviewForm;
+namespace Mi-empresa\Api\Application\Reviews\GetTokenReviewForm;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class GetTokenReviewsFormQuery extends Query
 {

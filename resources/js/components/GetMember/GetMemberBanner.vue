@@ -15,10 +15,10 @@
                         Invita a tus amig@s
                     </h2>
                     <h2 class="ml-mob-30 ml-tb-40 ml-dk-40 subtitle-modal mt-3">Consigue un curso <span>gratis</span> en
-                        Lifecole</h2>
+                        Mi-empresa</h2>
                     <div
                         class="ml-mob-30 ml-tb-40 ml-dk-40 mr-mob-30 mr-tb-40 mr-dk-40 mt-4 mb-2 text-modal text-justify">
-                        Invita a tus amig@s a descubrir <span>Lifecole</span>. Por cada 5 compras que realicen con tu
+                        Invita a tus amig@s a descubrir <span>Mi-empresa</span>. Por cada 5 compras que realicen con tu
                         cupón
                         dto. te regalamos un curso totalmente <span>gratis</span> para tu hij@.
                         <br><br>Ofrece a tus amig@s un cupón del 20% dto. para su primera compra.
@@ -96,10 +96,10 @@
                         Invita a tus amig@s
                     </h2>
                     <h2 class="ml-mob-30 ml-tb-40 ml-dk-40 subtitle-modal mt-3">Consigue un curso <span>gratis</span> en
-                        Lifecole</h2>
+                        Mi-empresa</h2>
                     <div
                         class="ml-mob-30 ml-tb-40 ml-dk-40 mr-mob-30 mr-tb-40 mr-dk-40 mt-4 mb-2 text-modal text-justify">
-                        Invita a tus amig@s a descubrir <span>Lifecole</span>. Por cada 5 compras que realicen con tu
+                        Invita a tus amig@s a descubrir <span>Mi-empresa</span>. Por cada 5 compras que realicen con tu
                         cupón
                         dto. te regalamos un curso totalmente <span>gratis</span> para tu hij@.
                         <br><br>Ofrece a tus amig@s un cupón del 20% dto. para su primera compra.
@@ -266,7 +266,7 @@ export default {
             })
         },
         share: function (event) {
-            let text = '¡Hola! Te regalo un 20% de descuento en tu primer curso en Lifecole. Usa el cupón ' + this.promoCode
+            let text = '¡Hola! Te regalo un 20% de descuento en tu primer curso en Mi-empresa. Usa el cupón ' + this.promoCode
             let id = event.currentTarget.id;
             let currentUrl = window.location.href
             console.log(event.currentTarget.id);

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
-use Lifecole\Api\Domain\DTO\BannerFeatured;
+use Mi-empresa\Api\Domain\DTO\BannerFeatured;
 
 interface BannerFeaturedRepository
 {

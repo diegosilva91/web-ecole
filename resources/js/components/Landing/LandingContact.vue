@@ -13,7 +13,7 @@
                     <img src="/assets/images/landing_mkt/phone.svg" alt=""><h6 class="h7-txt-light my-auto ml-2 mr-10">+34 622 452 383</h6>
                 </div>
                 <div class="d-flex">
-                    <img src="/assets/images/landing_mkt/email.svg" alt=""><h6 class="h7-txt-light my-auto ml-2">ventas@lifecole.com</h6>
+                    <img src="/assets/images/landing_mkt/email.svg" alt=""><h6 class="h7-txt-light my-auto ml-2">ventas@mi-empresa.com</h6>
                 </div>
             </div>
             <p class="h7-txt-light mt-30">Pídenos más información</p>
@@ -27,7 +27,7 @@
                 <img src="/assets/images/landing_mkt/phone.svg" alt=""><h6 class="h7-txt-light my-auto ml-2 mr-10">+34 622 452 383</h6>
             </div>
             <div class="d-flex">
-                <img src="/assets/images/landing_mkt/email.svg" alt=""><h6 class="h7-txt-light my-auto ml-2">ventas@lifecole.com</h6>
+                <img src="/assets/images/landing_mkt/email.svg" alt=""><h6 class="h7-txt-light my-auto ml-2">ventas@mi-empresa.com</h6>
             </div>
         </div>
         <p class="h7-txt-light mt-35 text-center">Pídenos más información</p>

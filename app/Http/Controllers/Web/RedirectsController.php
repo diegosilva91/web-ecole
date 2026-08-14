@@ -7,8 +7,8 @@ use App\Http\Controllers\Web\Courses\CoursesController;
 use App\Mail\Internal\ReportCommandError;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Api\Application\Courses\GetOldCourse\GetOldCourseQuery;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Courses\GetOldCourse\GetOldCourseQuery;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class RedirectsController extends Controller
 {

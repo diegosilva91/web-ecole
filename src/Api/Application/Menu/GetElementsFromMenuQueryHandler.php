@@ -1,17 +1,17 @@
 <?php
 
-namespace Lifecole\Api\Application\Menu;
+namespace Mi-empresa\Api\Application\Menu;
 
 use App\Course;
 use Illuminate\Support\Arr;
-use Lifecole\Api\Application\CourseArea\GetCourseArea\GetCourseAreaQuery;
-use Lifecole\Api\Application\CourseCategory\GetCourseCategory\GetCourseCategoryQuery;
-use Lifecole\Api\Application\CourseSpecialization\GetCourseSpecialization\GetCourseSpecializationQuery;
-use Lifecole\Api\Application\Tag\GetCoursesTag\GetCoursesTagQuery;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\DTO\MenuTreeSelector;
-use Lifecole\Api\Domain\Repository\MenuRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\CourseArea\GetCourseArea\GetCourseAreaQuery;
+use Mi-empresa\Api\Application\CourseCategory\GetCourseCategory\GetCourseCategoryQuery;
+use Mi-empresa\Api\Application\CourseSpecialization\GetCourseSpecialization\GetCourseSpecializationQuery;
+use Mi-empresa\Api\Application\Tag\GetCoursesTag\GetCoursesTagQuery;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\DTO\MenuTreeSelector;
+use Mi-empresa\Api\Domain\Repository\MenuRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class GetElementsFromMenuQueryHandler
 {

@@ -7,7 +7,7 @@
                   <div class="single_courses mt-30 mb-30">
                       <a :href="`${course.newLink}`">
                           <div class="courses_image">
-                              <img :src="`https://myawslifecole.s3.eu-west-1.amazonaws.com/public/${course.cover_image}`" alt="course">
+                              <img :src="`https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/${course.cover_image}`" alt="course">
                           </div>
                       </a>
                       <div class="courses_content">

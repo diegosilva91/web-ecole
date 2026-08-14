@@ -11,7 +11,7 @@ use Illuminate\Http\Request;
 
 class ExportPdfCoursesController extends Controller
 {
-    // https://lifecole.local/es/courses/complete/export/pdf/121?course_id=231&date=10/10/2021
+    // https://mi-empresa.local/es/courses/complete/export/pdf/121?course_id=231&date=10/10/2021
     public function exportPdfCoursesReceipt(Request $request, $user_id, PDF $pdf)
     {
         if (isset($request->course_id)) {

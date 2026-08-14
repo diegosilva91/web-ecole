@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\AddReview;
+namespace Mi-empresa\Api\Application\Reviews\AddReview;
 
-use Lifecole\Event\Domain\Bus\Command\Command;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class AddReviewCommand extends Command
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseCategory\GetCourseCategory;
+namespace Mi-empresa\Api\Application\CourseCategory\GetCourseCategory;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetCourseCategoryQuery extends Query
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\FavoritesCourses\GetFavoritesCoursesQuery;
+namespace Mi-empresa\Api\Application\FavoritesCourses\GetFavoritesCoursesQuery;
 
-use Lifecole\Api\Domain\Repository\FavoritesCoursesRepository;
+use Mi-empresa\Api\Domain\Repository\FavoritesCoursesRepository;
 
 class GetFavoritesCoursesQueryHandler
 {

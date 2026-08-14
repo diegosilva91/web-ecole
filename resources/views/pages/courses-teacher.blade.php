@@ -12,11 +12,11 @@
 @endprepend
 
 @section('description')
-    {{__('✓ Los mejores cursos y extraescolares online en vivo ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y más ᐅ LIFECOLE')}}
+    {{__('✓ Los mejores cursos y extraescolares online en vivo ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y más ᐅ MI-EMPRESA')}}
 @endsection
 @section('og_tags_image') @parent @endsection
 @section('og_tags') @parent @endsection
-@section('title'){{__('Más de 300 cursos y clases online para niños | Lifecole')}}@endsection
+@section('title'){{__('Más de 300 cursos y clases online para niños | Mi-empresa')}}@endsection
 @section('google_tag_manager')
     @if(Request::segment(2)=='cursos')
         dataLayer.push({

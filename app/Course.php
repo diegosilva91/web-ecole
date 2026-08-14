@@ -469,7 +469,7 @@ class Course extends Model implements Feedable
         return FeedItem::create()
             ->id($this->id)
             ->title($this->title)
-            ->author('Lifecole')
+            ->author('Mi-empresa')
             ->summary($this->intro)
             ->updated($this->updated_at)
             ->link($link);

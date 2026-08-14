@@ -1,13 +1,13 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\PromotionPurchase;
 use App\User;
 use Illuminate\Database\Eloquent\Builder;
-use Lifecole\Api\Domain\Repository\UserRepository;
-use Lifecole\Shared\Domain\ValueObject\UserId;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\UserRepository;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentUserRepository extends EloquentRepository implements UserRepository
 {

@@ -5,7 +5,7 @@
         <h5 class="ml-4">¡Recuerda!</h5>
       </v-list-item>
       <v-list-item>
-        <h6 class="ml-4 mt-5 mb-8">Debe aceptar el contrato de intermediación y responsabilidad <br /> con Lifecole, para guardar sus datos correctamente.</h6>
+        <h6 class="ml-4 mt-5 mb-8">Debe aceptar el contrato de intermediación y responsabilidad <br /> con Mi-empresa, para guardar sus datos correctamente.</h6>
       </v-list-item>
       <v-list-item>
         <button class="btn-confirm mx-auto mb-5" @click="confirmContract()">

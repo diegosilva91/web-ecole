@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\BannerFeatured\GetBannerFeatured;
+namespace Mi-empresa\Api\Application\BannerFeatured\GetBannerFeatured;
 
-use Lifecole\Api\Domain\DTO\BannerFeatured;
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Api\Domain\DTO\BannerFeatured;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetBannerFeaturedQuery extends Query
 {

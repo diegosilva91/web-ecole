@@ -13,18 +13,18 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Str;
-use Lifecole\Api\Application\CourseHistoricalViewed\AddCourseHistoricalView\AddCourseHistoricalViewedCommand;
-use Lifecole\Api\Application\Courses\GetCourse\GetCourseQuery;
-use Lifecole\Api\Application\Menu\GetElementsFromMenuQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\DTO\MenuTreeSelector;
-use Lifecole\Api\Domain\Helper\AddPriceHour;
-use Lifecole\Api\Domain\Helper\AddTeachers;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\CourseHistoricalViewed\AddCourseHistoricalView\AddCourseHistoricalViewedCommand;
+use Mi-empresa\Api\Application\Courses\GetCourse\GetCourseQuery;
+use Mi-empresa\Api\Application\Menu\GetElementsFromMenuQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\DTO\MenuTreeSelector;
+use Mi-empresa\Api\Domain\Helper\AddPriceHour;
+use Mi-empresa\Api\Domain\Helper\AddTeachers;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class CoursesController extends Controller
 {

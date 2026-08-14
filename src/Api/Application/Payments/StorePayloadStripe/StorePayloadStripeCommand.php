@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\StorePayloadStripe;
+namespace Mi-empresa\Api\Application\Payments\StorePayloadStripe;
 
 use App\PaymentsEvent;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class StorePayloadStripeCommand extends Command
 {

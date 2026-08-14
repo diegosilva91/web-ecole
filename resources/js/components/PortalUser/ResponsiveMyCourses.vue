@@ -42,7 +42,7 @@ export default {
         page: 1,
         courses: [],
         query: `&filter[start_at_end_at]=active`,
-        url:'https://myawslifecole.s3.eu-west-1.amazonaws.com/public/',
+        url:'https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/',
     }),
     mounted() {
         let vm=this

@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-php
-        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-php
+        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/mi-empresa/web-php
         imagePullPolicy: Always
         envFrom:
         - configMapRef:
@@ -23,7 +23,7 @@ spec:
             name: web-secret
 
       - name: web-nginx
-        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/lifecole/web-nginx
+        image: 546774249905.dkr.ecr.eu-west-1.amazonaws.com/mi-empresa/web-nginx
         imagePullPolicy: Always
         ports:
         - containerPort: 80

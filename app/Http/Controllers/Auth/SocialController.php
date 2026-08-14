@@ -7,7 +7,7 @@ use App\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Session;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
 use Socialite;
 
 class SocialController extends Controller

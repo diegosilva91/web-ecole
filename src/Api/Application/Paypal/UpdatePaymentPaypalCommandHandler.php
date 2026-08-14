@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Application\Paypal;
+namespace Mi-empresa\Api\Application\Paypal;
 
 use App\Mail\Internal\ReportCommandError;
 use Illuminate\Support\Facades\Mail;

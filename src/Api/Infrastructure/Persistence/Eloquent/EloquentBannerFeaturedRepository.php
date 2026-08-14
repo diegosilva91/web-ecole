@@ -1,16 +1,16 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\BannerFeatured;
 use App\Http\Resources\BannerFeaturedResources;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
-use Lifecole\Api\Domain\Repository\BannerFeaturedRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\BannerFeaturedRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentBannerFeaturedRepository extends EloquentRepository implements BannerFeaturedRepository
 {
-    public function getAll(\Lifecole\Api\Domain\DTO\BannerFeatured $bannerFeatured)
+    public function getAll(\Mi-empresa\Api\Domain\DTO\BannerFeatured $bannerFeatured)
     {
         $filters = $bannerFeatured->toArray();
         return $this->model

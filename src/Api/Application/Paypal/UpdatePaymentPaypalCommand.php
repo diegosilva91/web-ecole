@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Paypal;
+namespace Mi-empresa\Api\Application\Paypal;
 
 use App\PromotionPurchasePayment;
-use Lifecole\Api\Domain\DTO\PaypalPayment;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Api\Domain\DTO\PaypalPayment;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class UpdatePaymentPaypalCommand extends Command
 {

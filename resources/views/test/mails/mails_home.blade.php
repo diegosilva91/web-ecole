@@ -105,7 +105,7 @@
                             <!--
                             <div class="row">
                                 <div class="col-md-12">
-                                    <p>Mails de Lifecole</p>
+                                    <p>Mails de Mi-empresa</p>
                                     <ul>
                                         <li><a href="#" target="resultado">Compra curso Tarjeta</a></li>
                                         <li><a href="#" target="resultado">Compra curso SEPA</a></li>

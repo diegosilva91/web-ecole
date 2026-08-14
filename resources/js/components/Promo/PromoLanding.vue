@@ -51,7 +51,7 @@
       </div>
     </div>
       <div class="row flex-column-reverse flex-lg-row">
-        <p class="col-12 col-lg-10 pop12 mb-0 text-center text-md-left">*Una vez hayas realizado la compra, ponte en contacto en educacion@lifecole.com para recibir tu cupón. Tendrá un solo uso, válido para cursos intensivos y de navidad. Sujeto a las 100 primeras personas. Canjeable durante el mes de Noviembre.</p>
+        <p class="col-12 col-lg-10 pop12 mb-0 text-center text-md-left">*Una vez hayas realizado la compra, ponte en contacto en educacion@mi-empresa.com para recibir tu cupón. Tendrá un solo uso, válido para cursos intensivos y de navidad. Sujeto a las 100 primeras personas. Canjeable durante el mes de Noviembre.</p>
         <div class="row col-12 col-lg-2 justify-content-center mx-auto">
             <a href="/es/cursos-anuales"><button :class="{'cm-btn':view_type!='blackfriday'}" class="btn-promo mt-3 mb-3 mr-md-3 mt-lg-0 mb-lg-0">descubre más</button></a>
         </div>
