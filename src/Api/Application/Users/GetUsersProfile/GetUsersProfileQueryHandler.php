@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Users\GetUsersProfile;
+namespace Mi-empresa\Api\Application\Users\GetUsersProfile;
 
 use App\User;
-use Lifecole\Api\Domain\Repository\UserRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\UserRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetUsersProfileQueryHandler implements QueryHandler
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Stripe\GetStripeSubscription;
+namespace Mi-empresa\Api\Application\Stripe\GetStripeSubscription;
 
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetStripeSubscriptionQueryHandler implements QueryHandler
 {

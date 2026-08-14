@@ -39,12 +39,12 @@ export default {
         },
         {
           question: '¿Cuánto voy a cobrar?',
-          answer: 'Lifecole dispone un sistema de rangos en el que valoramos el nivel, experiencia vuestra evolución con nosotros.',
+          answer: 'Mi-empresa dispone un sistema de rangos en el que valoramos el nivel, experiencia vuestra evolución con nosotros.',
           html:"<p class='mt-2'>Según tu rango de educador podrás ganar entre 15€ y 30€ por hora de clase impartida.</p>"
         },
         {
           question: '¿Qué perfil profesional debo tener para ser elegible en la Escuela de Educadores?',
-          answer: 'Desde Lifecole tenemos en cuenta tanto tu trayectoria académica como tu experiencia profesional. Si realmente quieres dar clase de alguna materia que conoces, intentaremos darte la oportunidad de que con nosotros puedas evolucionar hasta donde desees llegar.',
+          answer: 'Desde Mi-empresa tenemos en cuenta tanto tu trayectoria académica como tu experiencia profesional. Si realmente quieres dar clase de alguna materia que conoces, intentaremos darte la oportunidad de que con nosotros puedas evolucionar hasta donde desees llegar.',
         },
         {
           question: '¿Puedo compaginar otro trabajo con dar clases con vosotros?',
@@ -69,11 +69,11 @@ export default {
         },
         {
           question: '¿Puedo crear contenidos sin impartir clases?',
-          answer: 'Lifecole da apoyo a los educadores de forma integral de todas las formas que vemos posible. Por tanto, nos gusta que sean nuestros educadores quienes participan en el resto de los procesos creativos o académicos cuando surgen oportunidades. ',
+          answer: 'Mi-empresa da apoyo a los educadores de forma integral de todas las formas que vemos posible. Por tanto, nos gusta que sean nuestros educadores quienes participan en el resto de los procesos creativos o académicos cuando surgen oportunidades. ',
           html:"<p class='mt-2'>Dicho esto, si crees que puedes aportar un valor especial de cualquier forma, más allá de dar clases, ponte en contacto con nosotros desde la página de contacto para analizar tu propuesta y analizar las posibilidades.</p>"
         },
         {
-          question: '¿Puedo crear mis propios programas e incluirlos en la oferta educativa de Lifecole?',
+          question: '¿Puedo crear mis propios programas e incluirlos en la oferta educativa de Mi-empresa?',
           answer: 'Inscríbete en nuestro programa de Lanzadera 360 para ser educador con nosotros y en un punto específico te lo preguntaremos y te informaremos más sobre ello.',
         },
         {
@@ -92,7 +92,7 @@ export default {
         },
         {
           question: '¿Qué sucede si un alumno no encajara en un grupo?',
-          answer: 'Desde Lifecole nos comprometemos a que en los grupos participen alumnos serios, motivados y con ganas de aprender. Si algún alumno no encaja por cualquier aspecto, analizaremos el caso en particular para adaptarlo adecuadamente.',
+          answer: 'Desde Mi-empresa nos comprometemos a que en los grupos participen alumnos serios, motivados y con ganas de aprender. Si algún alumno no encaja por cualquier aspecto, analizaremos el caso en particular para adaptarlo adecuadamente.',
         },
           ]
       }

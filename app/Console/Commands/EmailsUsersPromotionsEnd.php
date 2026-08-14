@@ -7,7 +7,7 @@ use App\Promotion;
 use App\User;
 use Exception;
 use Illuminate\Console\Command;
-use Lifecole\Shared\Domain\Event\UserHasFinishedPromotion;
+use Mi-empresa\Shared\Domain\Event\UserHasFinishedPromotion;
 
 class EmailsUsersPromotionsEnd extends Command
 {

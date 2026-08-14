@@ -50,7 +50,7 @@
             </span>
         </a>
     </div>
-    <a class="text-right" href="/es/sobre-lifecole"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">¿Quiénes somos?</span></a>
+    <a class="text-right" href="/es/sobre-mi-empresa"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">¿Quiénes somos?</span></a>
     <a class="text-right" href="/es/contacto"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">Contacto</span></a>
         <a class="text-right" data-toggle="modal" data-target="#Login">
             <span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">Iniciar sesión</span>
@@ -69,10 +69,10 @@
         border: solid 1px #979797;">
         <a class="text-right" href="/es/dar-clases"><span class="link-menu-mob mr-20 mb-mob-100 mb-tb-100">Dar clases</span></a>
         <div class="row col-9 mx-auto d-inline pt-0 pb-0 mt-12">
-            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Lifecole"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Mi-empresa"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
             <div class="d-inline mr-4"><a class="d-inline" href="https://www.facebook.com/LifeColeEdu/"><img src="{{ asset('assets/images/menu/facebook.svg') }}" alt="icon"></a></div>
-            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/lifecoleedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
-            <div class="d-inline"><a class="d-inline" href="https://twitter.com/lifecoleedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/mi-empresaedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
+            <div class="d-inline"><a class="d-inline" href="https://twitter.com/mi-empresaedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
         </div>
     @endif
 
@@ -92,10 +92,10 @@
         <a class="text-right" href="/es/contacto"><span class="link-menu-mob mr-20 mb-300">Contacto</span></a>
 
         <div class="row col-9 mx-auto d-inline pt-0 pb-0">
-            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Lifecole"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Mi-empresa"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
             <div class="d-inline mr-4"><a class="d-inline" href="https://www.facebook.com/LifeColeEdu/"><img src="{{ asset('assets/images/menu/facebook.svg') }}" alt="icon"></a></div>
-            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/lifecoleedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
-            <div class="d-inline"><a class="d-inline" href="https://twitter.com/lifecoleedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/mi-empresaedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
+            <div class="d-inline"><a class="d-inline" href="https://twitter.com/mi-empresaedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
         </div>
 
         <a class="text-right mt-7" href="{{ route('logout')  }}" onclick="event.preventDefault();
@@ -133,7 +133,7 @@
             <a class="text-right" href="/es/cursos-anuales"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10" style="font-size:18px;font-weight:400;">Trayectorias educativas</span></a>
         </div>
         <a class="text-right"  href="/es/campus-verano"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">Campus de verano</span></a>
-        <a class="text-right" href="/es/sobre-lifecole"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">¿Quiénes somos?</span></a>
+        <a class="text-right" href="/es/sobre-mi-empresa"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">¿Quiénes somos?</span></a>
         <a class="text-right" href="/es/contacto"><span class="link-menu-mob mr-20 mb-mob-10 mb-tb-10">Contacto</span></a>
 
         {{-- PONER MODAL GTM --}}
@@ -146,10 +146,10 @@
         <a class="text-right" href="/es/dar-clases"><span class="link-menu-mob mr-20 mb-mob-100 mb-tb-100">Dar clases</span></a>
 
         <div class="row col-9 mx-auto d-inline pt-0 pb-0">
-            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Lifecole"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://wa.me/+34633651856?text=Hola!%20Estoy%20intersado%20en%20hacer%20un%20curso%20en%20Mi-empresa"><img src="{{ asset('assets/images/menu/whatsapp.svg') }}" alt="icon"></a></div>
             <div class="d-inline mr-4"><a class="d-inline" href="https://www.facebook.com/LifeColeEdu/"><img src="{{ asset('assets/images/menu/facebook.svg') }}" alt="icon"></a></div>
-            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/lifecoleedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
-            <div class="d-inline"><a class="d-inline" href="https://twitter.com/lifecoleedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
+            <div class="d-inline mr-4"><a class="d-inline" href="https://www.instagram.com/mi-empresaedu/"><img src="{{ asset('assets/images/menu/instagram.svg') }}" alt="icon"></a></div>
+            <div class="d-inline"><a class="d-inline" href="https://twitter.com/mi-empresaedu"><img src="{{ asset('assets/images/menu/twitter.svg') }}" alt="icon"></a></div>
         </div>
 
         <a class="text-right mt-7" href="{{ route('logout')  }}" onclick="event.preventDefault();

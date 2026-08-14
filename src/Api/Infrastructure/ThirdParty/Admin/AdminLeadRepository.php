@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\ThirdParty\Admin;
+namespace Mi-empresa\Api\Infrastructure\ThirdParty\Admin;
 
-use Lifecole\Api\Domain\DTO\LeadTeacher;
-use Lifecole\Api\Domain\DTO\LeadUser;
-use Lifecole\Api\Domain\Repository\LeadRepository;
+use Mi-empresa\Api\Domain\DTO\LeadTeacher;
+use Mi-empresa\Api\Domain\DTO\LeadUser;
+use Mi-empresa\Api\Domain\Repository\LeadRepository;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class AdminLeadRepository implements LeadRepository

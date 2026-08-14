@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\InvoicesSubscriptionsFailed;
+namespace Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsFailed;
 
 use App\PaymentsEvent;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class InvoicesSubscriptionsFailedCommand extends Command
 {

@@ -47,7 +47,7 @@
                         </p>
                     </div>
                     <!-- <button class="btn-content mb-5 mt-2 mr-4">Contenido</button> -->
-                    <a href="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf"
+                    <a href="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf"
                        target="_blank" class="mb-5 mt-2 mr-4" style="font-family: 'Poppins';
         font-size: 14px;
         font-weight: 500;

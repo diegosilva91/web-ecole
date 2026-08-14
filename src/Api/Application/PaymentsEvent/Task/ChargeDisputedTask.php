@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\PaymentsEvent\Task;
+namespace Mi-empresa\Api\Application\PaymentsEvent\Task;
 
 use App\PaymentsEvent;
-use Lifecole\Api\Application\Payments\ChargeDisputed\ChargeDisputedCommand;
+use Mi-empresa\Api\Application\Payments\ChargeDisputed\ChargeDisputedCommand;
 
 class ChargeDisputedTask extends Task
 {

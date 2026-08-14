@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Curso para Microsoft Office Online - Lifecole';
+    $seo_title = 'Curso para Microsoft Office Online - Mi-empresa';
     $seo_description = 'Encuentra el curso de Microsoft Office online que necesitas ✔️ Clases online ✔ Cursos personalizados ✔ Con ejercicios prácticos. ¡Entra Aquí!';
 @endphp
 
@@ -40,12 +40,12 @@
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Cursos de Microsoft Office</h2>
                 <p>Hay pocas habilidades que, a día de hoy, sean realmente un básico para cualquier profesión. Pero dominar las herramientas de Microsoft Office se ha convertido en un imprescindible para prácticamente cualquier trabajo, incluso para poder seguir las clases de educación superior.</p>
-                <p>En <a class="blue-title" href="/es"> Lifecole</a> sabemos que <b>es importante que desde pequeños los niños vayan familiarizándose con todas estas herramientas</b> para que, cuando llegue el momento de usarlas ya sea en el colegio, la universidad o el día de mañana cuando empiecen a trabajar, no tengan que preocuparse por la mecánica.</p>
+                <p>En <a class="blue-title" href="/es"> Mi-empresa</a> sabemos que <b>es importante que desde pequeños los niños vayan familiarizándose con todas estas herramientas</b> para que, cuando llegue el momento de usarlas ya sea en el colegio, la universidad o el día de mañana cuando empiecen a trabajar, no tengan que preocuparse por la mecánica.</p>
                 <p>Por todo esto, hemos creado una categoría únicamente dedicada a agrupar todos <b>nuestros cursos de Microsoft Office</b> para que no te pierdas ninguno.</p>
             </div>
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Clases personalizadas sin salir de casa</h2>
-                <p>En Lifecole te ofrecemos <b>extraescolares divertidos, educativos y seguros</b>, que tus hij@s podrán hacer desde la comodidad de tu casa.</p>
+                <p>En Mi-empresa te ofrecemos <b>extraescolares divertidos, educativos y seguros</b>, que tus hij@s podrán hacer desde la comodidad de tu casa.</p>
                 <p>Echa un vistazo a nuestros <b>cursos de Microsoft Office</b> y descubre todo lo que podemos hacer por su futuro profesional gracias a la gran variedad de cursos.</p>
                 <p>¿A qué esperas para apuntarles?</p>
             </div>

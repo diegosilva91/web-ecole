@@ -22,7 +22,7 @@ class ConfirmationOrder extends Mailable
 
     public function build(): ConfirmationOrder
     {
-        $subject = '¡Tu curso de Lifecole de ' . $this->course->title . '! Gracias por tu compra.';
+        $subject = '¡Tu curso de Mi-empresa de ' . $this->course->title . '! Gracias por tu compra.';
         $bcc = [
             ['email' => env('MAIL_FROM_ADDRESS'), 'name' => env('APP_NAME')],
             ['email' => env('MAIL_USERNAME_MANAGER'), 'name' => env('APP_NAME')],

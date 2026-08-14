@@ -1,14 +1,14 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager;
+namespace Mi-empresa\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager;
 
 use Carbon\Carbon;
-use Lifecole\Api\Application\Stripe\GetStripeSubscription\GetStripeSubscriptionQuery;
-use Lifecole\Api\Application\Stripe\UpdateStripeSubscription\UpdateStripeSubscriptionCommand;
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Stripe\GetStripeSubscription\GetStripeSubscriptionQuery;
+use Mi-empresa\Api\Application\Stripe\UpdateStripeSubscription\UpdateStripeSubscriptionCommand;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class CustomerSubscriptionsStripeEventsManagerCommandHandler implements CommandHandler
 {

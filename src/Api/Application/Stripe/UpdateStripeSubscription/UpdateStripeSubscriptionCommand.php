@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Stripe\UpdateStripeSubscription;
+namespace Mi-empresa\Api\Application\Stripe\UpdateStripeSubscription;
 
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class UpdateStripeSubscriptionCommand extends Command
 {

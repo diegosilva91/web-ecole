@@ -25,9 +25,9 @@ class LeadTeacherRequest extends Mailable
     {
         $subject = 'New Lead Profesor!';
         $bcc = [
-            ['email' => 'oscar@lifecole.com','name' => 'Oscar'],
-            ['email' => 'malcolm@lifecole.com','name' => 'Malcolm'],
-            ['email' => 'antonio@lifecole.com','name' => 'Antonio'],
+            ['email' => 'oscar@mi-empresa.com','name' => 'Oscar'],
+            ['email' => 'malcolm@mi-empresa.com','name' => 'Malcolm'],
+            ['email' => 'antonio@mi-empresa.com','name' => 'Antonio'],
         ];
 
         if (config('app.env') != 'production') {

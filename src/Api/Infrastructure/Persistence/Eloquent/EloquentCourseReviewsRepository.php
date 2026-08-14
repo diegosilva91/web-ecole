@@ -1,11 +1,11 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\CourseReviews;
 use Illuminate\Contracts\Support\Arrayable;
-use Lifecole\Api\Domain\Repository\CourseReviewsRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\CourseReviewsRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentCourseReviewsRepository extends EloquentRepository implements CourseReviewsRepository
 {

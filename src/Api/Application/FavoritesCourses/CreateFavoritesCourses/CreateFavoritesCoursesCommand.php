@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\FavoritesCourses\CreateFavoritesCourses;
+namespace Mi-empresa\Api\Application\FavoritesCourses\CreateFavoritesCourses;
 
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class CreateFavoritesCoursesCommand extends Command
 {

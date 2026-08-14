@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager;
+namespace Mi-empresa\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager;
 
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class CustomerSubscriptionsStripeEventsManagerCommand extends Command
 {

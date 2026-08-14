@@ -2,8 +2,8 @@
   <div class="row footer align-items-center v-application">
       <div class="container">
           <div class="row">
-              <img class="ml-mob-15" src="/assets/images/home/logo-lifecole.svg" alt="">
-              <h6 class="col-12 col-md-5 col-lg-4 my-auto p-tb-0 p-dk-0 mb-0 ml-sm-16">&copy; Copyrights 2020 Lifecole All rights reserved.</h6>
+              <img class="ml-mob-15" src="/assets/images/home/logo-mi-empresa.svg" alt="">
+              <h6 class="col-12 col-md-5 col-lg-4 my-auto p-tb-0 p-dk-0 mb-0 ml-sm-16">&copy; Copyrights 2020 Mi-empresa All rights reserved.</h6>
                 <ul class="pl-0">
                     <li class="col-6 d-inline pr-tb-0 mr-mob-25"><a href="/es/aviso-legal">Aviso Legal</a></li>
                     <li class="col-6 d-inline pr-tb-0"><a href="/es/politica-de-privacidad">Política Privacidad</a></li>

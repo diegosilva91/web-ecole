@@ -5,11 +5,11 @@ namespace App\Http\Controllers\Api\Courses;
 use App\Course;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\CoursesSearchRequest;
-use Lifecole\Api\Application\Courses\CoursesSearch\CoursesSearchQuery;
-use Lifecole\Api\Application\Courses\CoursesSearchTag\CoursesSearchTagQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Courses\CoursesSearch\CoursesSearchQuery;
+use Mi-empresa\Api\Application\Courses\CoursesSearchTag\CoursesSearchTagQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class CoursesSearchController extends Controller
 {

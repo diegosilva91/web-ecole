@@ -3,11 +3,11 @@
 namespace App\Listeners;
 
 use App\Notifications\PromotionEndAtUsers;
-use Lifecole\Api\Application\Reviews\GetTokenReviewForm\GetTokenReviewsFormQuery;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\Event\UserHasFinishedPromotion;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\GetTokenReviewForm\GetTokenReviewsFormQuery;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\Event\UserHasFinishedPromotion;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class SendEmailForCreateReviews
 {

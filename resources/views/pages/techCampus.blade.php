@@ -1,6 +1,6 @@
 @php
-    $seo_title = __($infoCampus['title'] . ' - Lifecole, cursos online para niños');
-    $seo_description = __('✓ '. $infoCampus['title'] .' ᐅ LIFECOLE. Cursos y extraescolares de verano online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más');
+    $seo_title = __($infoCampus['title'] . ' - Mi-empresa, cursos online para niños');
+    $seo_description = __('✓ '. $infoCampus['title'] .' ᐅ MI-EMPRESA. Cursos y extraescolares de verano online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más');
 @endphp
 
 @extends('layouts.main')

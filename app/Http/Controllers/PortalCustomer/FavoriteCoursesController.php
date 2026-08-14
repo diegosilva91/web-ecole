@@ -4,7 +4,7 @@ namespace App\Http\Controllers\PortalCustomer;
 
 use App\Http\Controllers\Controller;
 use Auth;
-use Lifecole\Api\Domain\Helper\AddPriceHour;
+use Mi-empresa\Api\Domain\Helper\AddPriceHour;
 
 class FavoriteCoursesController extends Controller
 {

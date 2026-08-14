@@ -207,7 +207,7 @@ Con un Grado formativo en administración y finanzas, ha trabajado más de 15 a�
                 <v-icon>{{ mdiClose }}</v-icon>
             </v-btn>
           </v-list-item>
-          <p>Coordinadora académica de Lifecole. Graduada en Magisterio de Educación Infantil. Experiencia con más de 10 años en colegios, como profesora en educación infantil , además, de organizadora y coordinadora de campamentos y fiestas infantiles. Apasionada por el mundo educativo.</p>
+          <p>Coordinadora académica de Mi-empresa. Graduada en Magisterio de Educación Infantil. Experiencia con más de 10 años en colegios, como profesora en educación infantil , además, de organizadora y coordinadora de campamentos y fiestas infantiles. Apasionada por el mundo educativo.</p>
         </div>
         <div class="col-9 col-md-4 col-lg-3 m-4 mx-auto d-none d-sm-block"></div>
         <div class="col-9 col-md-4 col-lg-3 m-4 mx-auto d-none d-sm-block"></div>

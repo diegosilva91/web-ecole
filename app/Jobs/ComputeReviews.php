@@ -8,8 +8,8 @@ use Illuminate\Foundation\Bus\Dispatchable;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Facades\Artisan;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class ComputeReviews implements ShouldQueue
 {

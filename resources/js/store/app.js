@@ -76,9 +76,9 @@ export const useAppStore = defineStore("app", {
           ]
         },
         {
-          code: "sobre-lifecole",
+          code: "sobre-mi-empresa",
           title: "¿Quienes somos?",
-          link: "/es/sobre-lifecole"
+          link: "/es/sobre-mi-empresa"
         },
         {
           code: "contacto",

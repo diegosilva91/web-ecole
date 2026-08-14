@@ -42,11 +42,11 @@ export default {
             faq: [
                 {
                     question: '¿Cómo funcionan las clases?',
-                    answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Lifecole se encarga de conectar a los alumnos a la reunión.',
+                    answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Mi-empresa se encarga de conectar a los alumnos a la reunión.',
                 },
                 {
-                    question: '¿Cuales son los beneficios de Lifecole en comparación con otros programas de aprendizaje online?',
-                    answer: 'Lifecole da clases en línea, interactivas, en vivo y en grupos reducidos, para poder brindar excelentes experiencias de aprendizaje. Encontrarás cursos enfocados al desarrollo de las habilidades y competencias que el niño va a necesitar en su futuro, programación, desarrollo de videojuegos, robótica o diseño digital son algunas de las temáticas más representativas. Y además promovemos un alto grado de interacción social entre estudiantes, profesores y padres.',
+                    question: '¿Cuales son los beneficios de Mi-empresa en comparación con otros programas de aprendizaje online?',
+                    answer: 'Mi-empresa da clases en línea, interactivas, en vivo y en grupos reducidos, para poder brindar excelentes experiencias de aprendizaje. Encontrarás cursos enfocados al desarrollo de las habilidades y competencias que el niño va a necesitar en su futuro, programación, desarrollo de videojuegos, robótica o diseño digital son algunas de las temáticas más representativas. Y además promovemos un alto grado de interacción social entre estudiantes, profesores y padres.',
                 },
                 {
                     question: '¿Cuánto cuesta?',
@@ -54,7 +54,7 @@ export default {
                 },
                 {
                     question: '¿Qué tipo de tecnología y materiales se necesitan para las clases?',
-                    answer: 'Para nuestras clases en vivo alentamos a nuestros alumnos a participar en su entorno de aprendizaje natural, utilizando el dispositivo de su elección. Lifecole funciona en los principales navegadores web y usamos Google Meet para las clases en vivo. Pueden prepararse para su primera clase descargando Google Meet con anticipación. Necesitará una cámara web y un micrófono y conexión a Internet. En caso de que el curso requiera material extra, el profesor lo indicará en requisitos de la ficha del curso.',
+                    answer: 'Para nuestras clases en vivo alentamos a nuestros alumnos a participar en su entorno de aprendizaje natural, utilizando el dispositivo de su elección. Mi-empresa funciona en los principales navegadores web y usamos Google Meet para las clases en vivo. Pueden prepararse para su primera clase descargando Google Meet con anticipación. Necesitará una cámara web y un micrófono y conexión a Internet. En caso de que el curso requiera material extra, el profesor lo indicará en requisitos de la ficha del curso.',
                 },
                 {
                     question: '¿Es obligatorio el uso de la videocámara en la asistencia a la clase?',
@@ -66,7 +66,7 @@ export default {
                 },
                 {
                     question: '¿Qué sucede si no hay el mínimo de alumn@s requeridos inscritos en el curso?',
-                    answer: 'En caso de que no haya el mínimo de alumnos, Lifecole se pondrá en contacto con los alumnos inscritos al curso para proponer una fecha alternativa.',
+                    answer: 'En caso de que no haya el mínimo de alumnos, Mi-empresa se pondrá en contacto con los alumnos inscritos al curso para proponer una fecha alternativa.',
                 },
                 {
                     question: '¿Qué sucede si no puedo asistir a una sesión?',
@@ -78,50 +78,50 @@ export default {
                 },
                 {
                     question: '¿Qué pasa si la clase cae en un festivo?',
-                    answer: 'En Lifecole, serán días no lectivos los festivos nacionales y fiestas puntuales como por ejemplo, semana santa. Podéis consultar el calendario <a target="_blank" href="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf">aquí:</a>',
+                    answer: 'En Mi-empresa, serán días no lectivos los festivos nacionales y fiestas puntuales como por ejemplo, semana santa. Podéis consultar el calendario <a target="_blank" href="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf">aquí:</a>',
                 }
             ],
 
             faqTeacher: [
                 {
-                    question: '¿Qué ofrece Lifecole a los profesores?',
-                    answer: 'Lifecole ofrece la posibilidad de vincularse a un proyecto en el que a través de la tecnología y la práctica, los profesores desarrollan habilidades y competencias en los niños que refuerzan su formación de una forma integral. Lifecole ofrece cursos cortos y cursos anuales con lo que busca también una larga vinculación con los profesores.',
+                    question: '¿Qué ofrece Mi-empresa a los profesores?',
+                    answer: 'Mi-empresa ofrece la posibilidad de vincularse a un proyecto en el que a través de la tecnología y la práctica, los profesores desarrollan habilidades y competencias en los niños que refuerzan su formación de una forma integral. Mi-empresa ofrece cursos cortos y cursos anuales con lo que busca también una larga vinculación con los profesores.',
                 },
                 {
                     question: '¿Cómo funcionan las clases?',
-                    answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Lifecole se encarga de conectar a los alumnos a la reunión.¡Solo debes preocuparte por crear una excelente experiencia de clase! Google Meet también viene con muchas herramientas útiles de gestión del aula para que las clases funcionen sin problemas.',
+                    answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Mi-empresa se encarga de conectar a los alumnos a la reunión.¡Solo debes preocuparte por crear una excelente experiencia de clase! Google Meet también viene con muchas herramientas útiles de gestión del aula para que las clases funcionen sin problemas.',
                 },
                 {
                     question: '¿Cuánto dinero recibiré por mi curso? ',
-                    answer: 'Los profesores de Lifecole reciben el importe integro de los cursos descontando un 30% (más IVA) que corresponde a la tarifa de servicio de Lifecole.',
+                    answer: 'Los profesores de Mi-empresa reciben el importe integro de los cursos descontando un 30% (más IVA) que corresponde a la tarifa de servicio de Mi-empresa.',
                 },
                 {
                     question: '¿Cuándo recibiré el pago?',
-                    answer: 'Una vez se haya realizado el curso, se facturará a Lifecole los servicios prestados y se tramitará el pago. El pago se hará efectivo en la última semana del mes en que se ha finalizado el curso.',
+                    answer: 'Una vez se haya realizado el curso, se facturará a Mi-empresa los servicios prestados y se tramitará el pago. El pago se hará efectivo en la última semana del mes en que se ha finalizado el curso.',
                 },
                 {
                     question: '¿Cual es el tiempo medio por sesión?',
-                    answer: 'Las sesiones en Lifecole suelen durar entre 60 minutos y 75 minutos dependiendo si se trata de un curso intensivo o un curso anual.',
+                    answer: 'Las sesiones en Mi-empresa suelen durar entre 60 minutos y 75 minutos dependiendo si se trata de un curso intensivo o un curso anual.',
                 },
                 {
                     question: '¿Cual es el número óptimo de alumn@s por sesión?',
                     answer: 'Por tal de crear clases interactivas recomendamos no crear clases de más de 8 alum@s.',
                 },
                 {
-                    question: '¿Puedo usar Lifecole para promover cursos que se venden en otros lugares?',
-                    answer: 'No. Desde Lifecole controlamos el flujo de comunicación para evitar cualquier comunicación no indebida.',
+                    question: '¿Puedo usar Mi-empresa para promover cursos que se venden en otros lugares?',
+                    answer: 'No. Desde Mi-empresa controlamos el flujo de comunicación para evitar cualquier comunicación no indebida.',
                 },
                 {
                     question: '¿Qué sucede si no hay el mínimo de alumn@s requeridos inscritos en mi curso?',
-                    answer: 'En este caso, Lifecole se ocupará de llamar a los alumnos para informar que la clase no se puede llevar a cabo y buscará una fecha alternativa en la que haya los alumnos suficientes. ',
+                    answer: 'En este caso, Mi-empresa se ocupará de llamar a los alumnos para informar que la clase no se puede llevar a cabo y buscará una fecha alternativa en la que haya los alumnos suficientes. ',
                 },
                 {
                     question: '¿Qué pasa si un profesor no puede asistir a una sesión?',
-                    answer: 'El profesor debe comunicarlo a Lifecole con un mínimo de 48 horas hábiles antes del inicio de la sesión y Lifecole buscará un día alternativo para hacer la sesión perdida.',
+                    answer: 'El profesor debe comunicarlo a Mi-empresa con un mínimo de 48 horas hábiles antes del inicio de la sesión y Mi-empresa buscará un día alternativo para hacer la sesión perdida.',
                 },
                 {
                     question: '¿Qué pasa si un profesor decide no continuar con un curso?',
-                    answer: 'Si no hay un motivo razonable que explique este hecho, el profesor no percibirá ningún ingreso por este curso y Lifecole decidirá su continuidad como profesor de Lifecole.',
+                    answer: 'Si no hay un motivo razonable que explique este hecho, el profesor no percibirá ningún ingreso por este curso y Mi-empresa decidirá su continuidad como profesor de Mi-empresa.',
                 }
             ]
         }

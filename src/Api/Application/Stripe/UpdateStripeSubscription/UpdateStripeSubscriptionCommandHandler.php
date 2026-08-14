@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Stripe\UpdateStripeSubscription;
+namespace Mi-empresa\Api\Application\Stripe\UpdateStripeSubscription;
 
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class UpdateStripeSubscriptionCommandHandler implements CommandHandler
 {

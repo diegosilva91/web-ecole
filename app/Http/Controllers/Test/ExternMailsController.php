@@ -14,7 +14,7 @@ use App\PromotionPurchasePayment;
 use App\User;
 use App\UserAssistant;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Api\Domain\Adapter\EncryptionAdapter;
+use Mi-empresa\Api\Domain\Adapter\EncryptionAdapter;
 
 class ExternMailsController extends Controller
 {
@@ -26,7 +26,7 @@ class ExternMailsController extends Controller
     public function welcomeUser(string $token)
     {
         $data = $this->encryptionAdapter->decrypt($token);
-        $user = User::where('email', 'antonio@lifecole.com')->first();
+        $user = User::where('email', 'antonio@mi-empresa.com')->first();
 
         $user->email = $data['email'];
         Mail::send(new WelcomeUser($user));
@@ -50,7 +50,7 @@ class ExternMailsController extends Controller
 
         //if (config('app.env') == 'production') {
         //$course = Course::where('id', '3121')->first();
-        //$user = User::where('email', 'antonio@lifecole.com')->first();
+        //$user = User::where('email', 'antonio@mi-empresa.com')->first();
 
         //} else {
             // Obtenemos un pedido válido
@@ -90,7 +90,7 @@ class ExternMailsController extends Controller
     private function reminder(string $days, string $token)
     {
         $data = $this->encryptionAdapter->decrypt($token);
-        $user = User::where('email', 'antonio@lifecole.com')->first();
+        $user = User::where('email', 'antonio@mi-empresa.com')->first();
 
         $user->email = $data['email'];
         $user->notify(new RemmindersUser('emails.mail-' . $days . 'days', $user));

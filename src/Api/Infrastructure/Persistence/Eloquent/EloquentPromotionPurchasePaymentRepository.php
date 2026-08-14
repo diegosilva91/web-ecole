@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\PromotionPurchasePayment;
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentPromotionPurchasePaymentRepository extends EloquentRepository implements PromotionPurchasePaymentRepository
 {

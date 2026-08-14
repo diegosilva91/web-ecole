@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\SepaChargeFailedUpdateCommand;
+namespace Mi-empresa\Api\Application\Payments\SepaChargeFailedUpdateCommand;
 
 use App\PaymentsEvent;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class SepaChargeFailedUpdateCommand extends Command
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Menu;
+namespace Mi-empresa\Api\Application\Menu;
 
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Api\Domain\DTO\MenuTreeSelector;
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Api\Domain\DTO\MenuTreeSelector;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetElementsFromMenuQuery extends Query
 {

@@ -12,7 +12,7 @@
                 <v-icon small>{{ arrow ? mdiArrowDown : mdiArrowUp }}</v-icon>
                 &nbsp;{{btnLabel?'Ver Más':'Ver Menos'}}
               </button>
-              <p v-if="card">Mentor de Lifecole. En 2001 cofundó eMagister.com, el mayor portal de formación de España y la Asociación de Formación Online de España (AEFOL). Además, es business angel y participa en muchos proyectos de formación para niños y adolescentes (Openwebinars, UnProfesor, IEBS, etc.)</p>
+              <p v-if="card">Mentor de Mi-empresa. En 2001 cofundó eMagister.com, el mayor portal de formación de España y la Asociación de Formación Online de España (AEFOL). Además, es business angel y participa en muchos proyectos de formación para niños y adolescentes (Openwebinars, UnProfesor, IEBS, etc.)</p>
           </div>
           <div class="col-12 col-lg-4 ml-6 ml-sm-0 mt-mob-30 mt-tb-30">
               <h5>Miguel Vicente</h5>

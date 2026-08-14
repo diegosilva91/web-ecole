@@ -60,7 +60,7 @@ export default {
         carouselContentScrollIsInStart: false,
         carouselArrowHidden: false,
         categories: [],
-        url: 'https://myawslifecole.s3.eu-west-1.amazonaws.com/public/',
+        url: 'https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/',
     }),
 
     async mounted() {

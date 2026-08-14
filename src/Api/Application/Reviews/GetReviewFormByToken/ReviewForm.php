@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetReviewFormByToken;
+namespace Mi-empresa\Api\Application\Reviews\GetReviewFormByToken;
 
 use Illuminate\Database\Eloquent\Collection;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class ReviewForm
 {

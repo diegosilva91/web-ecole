@@ -238,7 +238,7 @@ export default {
                         this.$gtm.push({event: 'login'
                         })
                         console.log(data);
-                        // alert('Bienvenido a Lifecole!')
+                        // alert('Bienvenido a Mi-empresa!')
                         this.reloadPage();
                     }
                 });

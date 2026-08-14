@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
-use Lifecole\Api\Domain\DTO\TopBannerHome;
-use Lifecole\Api\Domain\Repository\HomeRepository;
-use Lifecole\Api\Domain\Repository\SettingRepository;
+use Mi-empresa\Api\Domain\DTO\TopBannerHome;
+use Mi-empresa\Api\Domain\Repository\HomeRepository;
+use Mi-empresa\Api\Domain\Repository\SettingRepository;
 
 class EloquentHomeRepository implements HomeRepository
 {

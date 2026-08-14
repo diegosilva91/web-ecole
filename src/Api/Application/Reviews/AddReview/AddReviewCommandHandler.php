@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\AddReview;
+namespace Mi-empresa\Api\Application\Reviews\AddReview;
 
 use App\Jobs\ComputeReviews;
-use Lifecole\Api\Domain\Repository\CourseReviewsRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\CourseReviewsRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class AddReviewCommandHandler implements CommandHandler
 {

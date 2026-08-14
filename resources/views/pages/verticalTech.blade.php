@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Aprender con Nuestros Cursos de Tecnología Online - Lifecole';
+    $seo_title = 'Aprender con Nuestros Cursos de Tecnología Online - Mi-empresa';
     $seo_description = 'Cursos de tecnología online: ✔️Clases personalizadas ✔ Personal cualificado en nuevas tecnologías ✔ Desde casa. Entra Aquí y... ¡Apúntate!';
     if(empty($optionsRequestSelected)){
         $optionsRequestSelected= null;
@@ -106,7 +106,7 @@
                 <p>Actualmente las clases online están a la orden del día, y la verdad es que ofrecen muchísimas posibilidades y
                     oportunidades tanto para los alumnos como para los profesores y los padres. </p>
                 <p>Por eso, si a tu hij@ le apasionan las nuevas tecnologías y se muere de ganas de aprender aún más, en <a
-                        class="blue-title" href="/es"> Lifecole</a> tenemos la solución perfecta.</p>
+                        class="blue-title" href="/es"> Mi-empresa</a> tenemos la solución perfecta.</p>
                 <p>Descubre todos nuestros <b>cursos de programación para niños</b> y elige el que sea perfecto para el peque de
                     la casa, y que mejor encaje con tu horario.</p>
                 <p>Si ninguna de las horas encaja con vuestro ritmo de vida, ¡no te preocupes! <b>Solicita un nuevo horario para
@@ -125,7 +125,7 @@
         <div class="row">
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Cursos de programación online para niños</h2>
-                <p>Nuestros cursos de programación online para niños ofrecen muchísimas posibilidades. Y es que en Lifecole
+                <p>Nuestros cursos de programación online para niños ofrecen muchísimas posibilidades. Y es que en Mi-empresa
                     ofrecemos cursos de todo tipo para que todos los peques apasionados de la programación y la tecnología
                     puedan potenciar su pasión.</p>
                 <p>¿No sabes qué elegir? Echa un vistazo a algunas de nuestras categorías de cursos de programación:</p>

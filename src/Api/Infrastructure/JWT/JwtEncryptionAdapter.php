@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Lifecole\Api\Infrastructure\JWT;
+namespace Mi-empresa\Api\Infrastructure\JWT;
 
-use Lifecole\Api\Domain\Adapter\EncryptionAdapter;
+use Mi-empresa\Api\Domain\Adapter\EncryptionAdapter;
 
 class JwtEncryptionAdapter implements EncryptionAdapter
 {

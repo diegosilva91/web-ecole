@@ -349,7 +349,7 @@
                             <div id="iban-element" class="input-card">
                             </div>
                             <p class="col-12 h8-txt-light mb-0 mt-3 pl-0">
-                                Al proporcionar sus datos de pago y confirmar este pago, usted autoriza a Lifecole S.L. y Stripe, nuestro proveedor de servicios de pago y/o a PPRO, su proveedor de servicios local, a enviar instrucciones a su banco para realizar un débito en su cuenta y (B) a su banco a realizar un cargo en su cuenta de conformidad con dichas instrucciones. Como parte de sus derechos, usted tiene derecho a un reembolso de su banco conforme a los términos y condiciones del contrato con su banco. El reembolso debe reclamarse en un plazo de 8 semanas a partir de la fecha en la que se haya efectuado el cargo en su cuenta. Sus derechos se explican en un extracto que puede obtener en su banco. Usted acepta recibir notificaciones de futuros débitos hasta 2 días antes de que se produzcan.
+                                Al proporcionar sus datos de pago y confirmar este pago, usted autoriza a Mi-empresa S.L. y Stripe, nuestro proveedor de servicios de pago y/o a PPRO, su proveedor de servicios local, a enviar instrucciones a su banco para realizar un débito en su cuenta y (B) a su banco a realizar un cargo en su cuenta de conformidad con dichas instrucciones. Como parte de sus derechos, usted tiene derecho a un reembolso de su banco conforme a los términos y condiciones del contrato con su banco. El reembolso debe reclamarse en un plazo de 8 semanas a partir de la fecha en la que se haya efectuado el cargo en su cuenta. Sus derechos se explican en un extracto que puede obtener en su banco. Usted acepta recibir notificaciones de futuros débitos hasta 2 días antes de que se produzcan.
                             </p>
                         </div>
                         <div id="payPal" class="d-none">
@@ -379,12 +379,12 @@
                                 </label>
                             </div>
                         <p class="col-12 h8-txt-light mb-0">
-                            INFORMACIÓN PROTECCIÓN DE DATOS DE LIFECOLE, S.L. Finalidades: Para la
+                            INFORMACIÓN PROTECCIÓN DE DATOS DE MI-EMPRESA, S.L. Finalidades: Para la
                             correcta reserva y compra de los cursos en la Plataforma. Legitimación:
                             Consentimiento expreso y la ejecución de la relación contractual e interés
                             legítimo. Destinatarios: No se prevén cesiones de datos a terceros. Derechos:
                             Puede retirar su consentimiento en cualquier momento, así como acceder,
-                            rectificar, suprimir sus datos y demás derechos en educacion@lifecole.com.
+                            rectificar, suprimir sus datos y demás derechos en educacion@mi-empresa.com.
                             Información Adicional: Puede ampliar la información en el enlace de Política de
                             Privacidad.
                         </p>

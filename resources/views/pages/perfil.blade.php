@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('main_id') <v-app id="portallifecole"> @endsection
+@section('main_id') <v-app id="portalmi-empresa"> @endsection
 
 @section('main_content')
 <div>
@@ -8,5 +8,5 @@
 @endsection
 
 @push('scripts')
-    <script async src="{{ mix('/dist/js/portallifecole.js') }}" defer></script>
+    <script async src="{{ mix('/dist/js/portalmi-empresa.js') }}" defer></script>
 @endpush

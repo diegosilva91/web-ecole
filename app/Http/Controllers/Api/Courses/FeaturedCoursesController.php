@@ -5,10 +5,10 @@ namespace App\Http\Controllers\Api\Courses;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Lifecole\Api\Application\Courses\GetFeaturedCourses\GetFeaturedCoursesQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Courses\GetFeaturedCourses\GetFeaturedCoursesQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class FeaturedCoursesController extends Controller
 {

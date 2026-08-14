@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\S3;
+namespace Mi-empresa\Api\Infrastructure\S3;
 
 use Illuminate\Support\Facades\Storage;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
 use Symfony\Component\HttpFoundation\File\File;
 
 class S3CdnAdapter implements CdnAdapter

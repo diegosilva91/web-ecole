@@ -8,8 +8,8 @@ use App\Mail\Internal\ContactRequest;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
-use Lifecole\Api\Domain\DTO\LeadUser;
-use Lifecole\Shared\Domain\Repository\Mailer;
+use Mi-empresa\Api\Domain\DTO\LeadUser;
+use Mi-empresa\Shared\Domain\Repository\Mailer;
 use App\Http\Requests\ContactRequest as ContactRequestForm;
 
 class ContactController extends Controller
@@ -20,7 +20,7 @@ class ContactController extends Controller
             $sender = 'teacher';
             $title = 'Contacta con ';
         } else {
-            $sender = 'lifecole';
+            $sender = 'mi-empresa';
             $title = 'Contáctanos';
         }
         return view('pages.contact', ['title' => $title, 'sender' => $sender, 'contact_id' => $request->teacher_id]);
@@ -59,7 +59,7 @@ class ContactController extends Controller
                 )
             );
 
-            if (isset($request->subject) && $request->subject == 'Quiero ser profesor de lifecole') {
+            if (isset($request->subject) && $request->subject == 'Quiero ser profesor de mi-empresa') {
                 return  $request->wantsJson()
                     ? response()->json('Mensaje enviado correctamente') : back()->with(
                         ['message' => 'Mensaje enviado correctamente', 'lead' => 'leadProfesor']

@@ -7,7 +7,7 @@ use App\PromotionPurchasePayment;
 use Carbon\Carbon;
 use Cartalyst\Stripe\Laravel\Facades\Stripe;
 use Illuminate\Console\Command;
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
 
 class ChangeCancelAtDateOnStripe extends Command
 {

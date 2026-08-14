@@ -10,8 +10,8 @@ use App\PromotionPurchasePayment;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Api\Application\Payments\StorePayloadStripe\StorePayloadStripeCommand;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Api\Application\Payments\StorePayloadStripe\StorePayloadStripeCommand;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
 
 class StripeController extends Controller
 {

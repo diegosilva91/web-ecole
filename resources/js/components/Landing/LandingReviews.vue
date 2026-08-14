@@ -30,8 +30,8 @@
 export default {
      data: ()=>({
         reviews:[
-            {img:'avatar_1.svg',name:'Fernando',subtitle:'Padre Lifecooler',description:'“Mi hijo se ha convertido en un auténtico fan de las clases de Lifecole. Ha sido un acierto de regalo de cumpleaños. Repetiremos con el de continuación.”'},
-            {img:'avatar_2.svg',name:'Ana Belén',subtitle:'Madre Lifecooler',description:'“Mi peque es súper tímida, siempre observaba a Youtubers jugando a Minecraft y me enteré que es una puerta al inicio de la programación. El asesoramiento y atención de Lifecole ofrecieron el curso perfecto (...)”'},
+            {img:'avatar_1.svg',name:'Fernando',subtitle:'Padre Lifecooler',description:'“Mi hijo se ha convertido en un auténtico fan de las clases de Mi-empresa. Ha sido un acierto de regalo de cumpleaños. Repetiremos con el de continuación.”'},
+            {img:'avatar_2.svg',name:'Ana Belén',subtitle:'Madre Lifecooler',description:'“Mi peque es súper tímida, siempre observaba a Youtubers jugando a Minecraft y me enteré que es una puerta al inicio de la programación. El asesoramiento y atención de Mi-empresa ofrecieron el curso perfecto (...)”'},
             {img:'avatar_3.svg',name:'María Moreno',subtitle:'Madre Lifecooler',description:'“Mi peque está feliz con sus clases. Hay muy buen equipo detrás. Los profesores tienen mucha pasión en lo que hacen y lo transmiten. Ahora más que nunca, necesitamos apoyo con la educación de nuestros hijos.”'},
             {img:'avatar_4.svg',name:'Rebeca',subtitle:'Madre Lifecooler',description:'“Experiencia inmejorable. Profes profesionales y didácticos, el resto del equipo ofrece una excelente atención individualizada y resolutiva..”'}
         ]

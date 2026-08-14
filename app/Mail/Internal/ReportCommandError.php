@@ -15,8 +15,8 @@ class ReportCommandError extends Mailable
     {
         $subject = 'Error Command';
         $to = [
-            ['email' => 'antonio@lifecole.com', 'name' => 'Antonio'],
-            ['email' => 'diego@lifecole.com', 'name' => 'Diego'],
+            ['email' => 'antonio@mi-empresa.com', 'name' => 'Antonio'],
+            ['email' => 'diego@mi-empresa.com', 'name' => 'Diego'],
         ];
 
         if (config('app.env') != 'production') {

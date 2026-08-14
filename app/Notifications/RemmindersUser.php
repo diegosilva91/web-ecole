@@ -41,7 +41,7 @@ class RemmindersUser extends Notification
     public function toMail($notifiable)
     {
         $subject = Lang::get($this->template . '.subject');
-        $bcc = ['antonio@lifecole.com'];
+        $bcc = ['antonio@mi-empresa.com'];
 
         if (config('app.env') != 'production') {
             $subject = '(Testing) ' . $subject;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Courses\CoursesSearch;
+namespace Mi-empresa\Api\Application\Courses\CoursesSearch;
 
-use Lifecole\Api\Domain\Repository\SearcherCoursesRepository;
+use Mi-empresa\Api\Domain\Repository\SearcherCoursesRepository;
 
 class CoursesSearchQueryHandler
 {

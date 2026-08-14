@@ -57,7 +57,7 @@
                 </div>
             </div>
         </div>
-        <a href="https://wa.me/+34633651856?text=Hola! Estoy interesado en uno de los cursos de Lifecole!"
+        <a href="https://wa.me/+34633651856?text=Hola! Estoy interesado en uno de los cursos de Mi-empresa!"
            class="wpfloat" target="_blank">
            <v-icon color="#fff" size="30" style="margin-top: 10px">{{ mdiWhatsapp }}</v-icon>
         </a>

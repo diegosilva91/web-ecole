@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Users\GetUsersWithTeacherRole;
+namespace Mi-empresa\Api\Application\Users\GetUsersWithTeacherRole;
 
-use Lifecole\Api\Domain\Repository\UserRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\UserRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetUsersWithTeacherRoleIsFeaturedQueryHandler implements QueryHandler
 {

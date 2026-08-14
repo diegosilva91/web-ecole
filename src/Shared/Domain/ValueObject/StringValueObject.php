@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Lifecole\Shared\Domain\ValueObject;
+namespace Mi-empresa\Shared\Domain\ValueObject;
 
 abstract class StringValueObject
 {

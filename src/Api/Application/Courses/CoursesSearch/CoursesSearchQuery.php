@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Courses\CoursesSearch;
+namespace Mi-empresa\Api\Application\Courses\CoursesSearch;
 
-use Lifecole\Api\Domain\DTO\CoursesSearch;
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Api\Domain\DTO\CoursesSearch;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class CoursesSearchQuery extends Query
 {

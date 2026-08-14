@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Stripe\GetStripeSubscription;
+namespace Mi-empresa\Api\Application\Stripe\GetStripeSubscription;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetStripeSubscriptionQuery extends Query
 {

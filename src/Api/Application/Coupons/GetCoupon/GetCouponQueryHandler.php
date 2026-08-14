@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Coupons\GetCoupon;
+namespace Mi-empresa\Api\Application\Coupons\GetCoupon;
 
 use App\Exceptions\CouponException;
-use Lifecole\Api\Domain\Repository\CouponRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\CouponRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetCouponQueryHandler implements QueryHandler
 {

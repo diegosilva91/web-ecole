@@ -13,14 +13,14 @@
           </div>
           <div class="col-5 p-sm-0">
             <div class="mt-lg-2">
-              <a href="/es/sobre-lifecole">Sobre Lifecole</a>
+              <a href="/es/sobre-mi-empresa">Sobre Mi-empresa</a>
             </div>
             <div class="mt-lg-2"><a href="/es/dar-clases">Dar clases</a></div>
             <div class="mt-lg-2"><a href="/es/faq">FAQ</a></div>
           </div>
           <div class="col-3 p-sm-0">
             <div class="mt-lg-2">
-              <a href="https://blog.lifecole.com/" target="_blank">Blog</a>
+              <a href="https://blog.mi-empresa.com/" target="_blank">Blog</a>
             </div>
             <div class="mt-lg-2"><a href="/es/contacto">Contacto</a></div>
           </div>
@@ -157,7 +157,7 @@
               class="col-12 col-sm-2 mx-auto mx-sm-0 mx-md-2 mx-lg-3 my-auto"
             >
               <img
-                src="/assets/images/home/logo-lifecole.svg"
+                src="/assets/images/home/logo-mi-empresa.svg"
                 width="125"
                 height="25"
                 alt=""
@@ -174,7 +174,7 @@
                 </a>
               </div>
               <div class="d-inline mr-mob-30 mr-tb-35 mr-dk-35">
-                <a href="https://www.instagram.com/lifecoleedu/">
+                <a href="https://www.instagram.com/mi-empresaedu/">
                   <img
                     src="/assets/images/home/insta.svg"
                     width="21"
@@ -183,7 +183,7 @@
                 </a>
               </div>
               <div class="d-inline">
-                <a href="https://twitter.com/lifecoleedu">
+                <a href="https://twitter.com/mi-empresaedu">
                   <img
                     src="/assets/images/home/twitter.svg"
                     width="21"
@@ -194,7 +194,7 @@
             </div>
             <div class="col-12 col-sm-2 my-auto mr-sm-5">
               <h6 class="mx-auto">
-                &copy; Copyrights 2020 Lifecole All rights reserved.
+                &copy; Copyrights 2020 Mi-empresa All rights reserved.
               </h6>
             </div>
             <div class="row">

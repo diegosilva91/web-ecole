@@ -13,3 +13,9 @@ public/hot
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Google Calendar credentials - never commit
+storage/app/google-calendar/
+**/service-account-credentials.json
+**/oauth-credentials.json
+**/oauth-token.json

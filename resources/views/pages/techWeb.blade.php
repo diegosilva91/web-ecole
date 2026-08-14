@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Cursos de Programación Web Online - Lifecole';
+    $seo_title = 'Cursos de Programación Web Online - Mi-empresa';
     $seo_description = 'Descubre los mejores cursos de programación web online ✔️Aprende desde casa ✔ Profesores cualificados ✔ Aptos para niños. ¡Entra Aquí! ';
 @endphp
 
@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3"> Clases personalizadas de desarrollo web y App</h2>
-                <p>En <a class="blue-title" href="/es"> Lifecole</a> ofrecemos varios cursos de desarrollo web y <a class="blue-title" href="/es/cursos/desarrollo-apps/apps-faciles/crea-tus-propias-apps-para-android-basico"> App</a> para diversos grupos de edad.</p>
+                <p>En <a class="blue-title" href="/es"> Mi-empresa</a> ofrecemos varios cursos de desarrollo web y <a class="blue-title" href="/es/cursos/desarrollo-apps/apps-faciles/crea-tus-propias-apps-para-android-basico"> App</a> para diversos grupos de edad.</p>
                 <p>Crear una página web desde cero puede sonar a tarea titánica cuando uno lo piensa, pero con nuestros cursos de desarrollo web y App será un proceso divertido y ameno.</p>
                 <p>Te aseguramos de que tus hij@s no solo aprenderán conceptos básicos de programación y <a class="blue-title" href="/es/cursos/desarrollo-web-y-cloud/creacion-y-diseno-web/crea-y-disena-tu-propia-pagina-web"> crearán su primera página web</a> o <b>App móvil</b>, también desarrollarán habilidades que podrán aplicar a cualquier situación de su vida, ¡incluso en el colegio!</p>
                 <p>Aprenderán a:</p>

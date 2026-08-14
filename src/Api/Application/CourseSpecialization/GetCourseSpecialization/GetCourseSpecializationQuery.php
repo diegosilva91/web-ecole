@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseSpecialization\GetCourseSpecialization;
+namespace Mi-empresa\Api\Application\CourseSpecialization\GetCourseSpecialization;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetCourseSpecializationQuery extends Query
 {

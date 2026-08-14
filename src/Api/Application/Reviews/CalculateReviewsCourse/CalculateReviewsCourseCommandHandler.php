@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\CalculateReviewsCourse;
+namespace Mi-empresa\Api\Application\Reviews\CalculateReviewsCourse;
 
-use Lifecole\Api\Domain\Repository\CourseReviewsRepository;
-use Lifecole\Api\Domain\Repository\CoursesRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\CourseReviewsRepository;
+use Mi-empresa\Api\Domain\Repository\CoursesRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class CalculateReviewsCourseCommandHandler implements CommandHandler
 {

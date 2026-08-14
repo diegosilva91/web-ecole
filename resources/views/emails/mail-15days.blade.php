@@ -798,7 +798,7 @@
                                         <table width="100%" cellspacing="0" cellpadding="0">
                                             <tr>
                                                 <td width="530" valign="top" align="center">
-                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Lifecole nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
+                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Mi-empresa nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
                                                 </td>
                                             </tr>
                                         </table>
@@ -806,7 +806,7 @@
                                             <tr>
                                                 <td width="530" valign="top" align="center">
                                                     <p class="" style="width: 577px; font-family: Poppins; font-size: 18px;font-weight: 300; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 10px">
-                                                        Tendrás acceso a un <b style="color:#29c0d3;">20%</b> de descuento <br> en tu primer curso de Lifecole</p>
+                                                        Tendrás acceso a un <b style="color:#29c0d3;">20%</b> de descuento <br> en tu primer curso de Mi-empresa</p>
                                                 </td>
                                             </tr>
                                         </table>
@@ -819,7 +819,7 @@
                 <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                     <tr>
                         <td align="center">
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/20%25msg.png" style="margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/20%25msg.png" style="margin-top:50px"/>
                         </td>
                     </tr>
                 </table>
@@ -836,7 +836,7 @@
                                 <table width="100%" cellspacing="0" cellpadding="0" role="presentation">
                                     <tbody><tr>
                                         <td class="es-p10b" align="center">
-                                            <span class="steps-text-header">¿Cómo funciona Lifecole?</span>
+                                            <span class="steps-text-header">¿Cómo funciona Mi-empresa?</span>
                                             <div class="steps-content" style="margin-top: 36px">
                                                 <table style="float: left; margin-bottom: 71px">
                                                     <tr>
@@ -853,7 +853,7 @@
                                                     </tr><tr>
                                                         <td><span class="step-number">5</span></td>
                                                         <td class="step-tr-content"><h2 style="font-family: Poppins; font-size:21px; color:#803a91;text-align: left">Comunidad</h2>
-                                                            Unete a la comunidad en línea con acceso directo a nuestros profesores. Todos nuestros profesores son seleccionados y gestionados por el orientador académico de Lifecole para garantizar contenido de calidad.</td>
+                                                            Unete a la comunidad en línea con acceso directo a nuestros profesores. Todos nuestros profesores son seleccionados y gestionados por el orientador académico de Mi-empresa para garantizar contenido de calidad.</td>
 
                                                     </tr>
 
@@ -882,9 +882,9 @@
                                             <td class="es-p10b" align="center">
                                                 <span class="steps-text-header">¡Descubre nuestros cursos más vendidos!</span>
                                                 <div class="" style="margin-top: 36px">
-                                                    <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_code.png"
+                                                    <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_code.png"
                                                                                                                                                                               class="Card"></a>
-                                                    <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_game.png" class="Card"></a> <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot.png"
+                                                    <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_game.png" class="Card"></a> <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot.png"
                                                                                                                                                                                                                                                                                       class="Card"></a>
                                                 </div>
                                             </td>

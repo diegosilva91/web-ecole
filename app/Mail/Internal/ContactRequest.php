@@ -28,16 +28,16 @@ class ContactRequest extends Mailable
      */
     public function build()
     {
-        $subject = 'solicitd de contacto-lifecole.com';
+        $subject = 'solicitd de contacto-mi-empresa.com';
         $to = [
-            ['email' => 'belen@lifecole.com', 'Belén'],
+            ['email' => 'belen@mi-empresa.com', 'Belén'],
         ];
-        $bcc = [['email' => 'belen@lifecole.com','name' => 'Belén'],
-            ['email' => 'antonio@lifecole.com','name' => 'Antonio'],
-            ['email' => 'paula@lifecole.com','name' => 'Paula'],
-            ['email' => 'flavia@lifecole.com','name' => 'Flavia'],
-            ['email' => 'katty@lifecole.com','name' => 'Katty'],
-            ['email' => 'eva@lifecole.com','name' => 'Eva']
+        $bcc = [['email' => 'belen@mi-empresa.com','name' => 'Belén'],
+            ['email' => 'antonio@mi-empresa.com','name' => 'Antonio'],
+            ['email' => 'paula@mi-empresa.com','name' => 'Paula'],
+            ['email' => 'flavia@mi-empresa.com','name' => 'Flavia'],
+            ['email' => 'katty@mi-empresa.com','name' => 'Katty'],
+            ['email' => 'eva@mi-empresa.com','name' => 'Eva']
         ];
 
         if (config('app.env') != 'production') {

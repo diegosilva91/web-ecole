@@ -2,16 +2,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="description" content="@section('description')@isset($seo_description){{$seo_description}}@else{{__('Cursos y extraescolares online con profesores cualificados: Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más.')}}@endisset @show"/>
-<title>@section('title')@isset($seo_title){{$seo_title}}@else{{__('Lifecole | Las mejores extraescolares online para niños')}}@endisset @show</title>
+<title>@section('title')@isset($seo_title){{$seo_title}}@else{{__('Mi-empresa | Las mejores extraescolares online para niños')}}@endisset @show</title>
 
 <!-- Open Graph meta tags -->
 @section('og_tags_image')
 <meta property="og:image" content="{{ asset('assets/images/logo/logo_share.jpg') }}"/>
 @show
 @section('og_tags')
-    <meta property="og:title" content="@isset($seo_title){{$seo_title}}@else{{__('Lifecole | Las mejores extraescolares online para niños')}}@endisset"/>
+    <meta property="og:title" content="@isset($seo_title){{$seo_title}}@else{{__('Mi-empresa | Las mejores extraescolares online para niños')}}@endisset"/>
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="{{__('Lifecole')}}"/>
+    <meta property="og:site_name" content="{{__('Mi-empresa')}}"/>
     <meta property="og:url" content="{{url()->current()}}"/>
     <meta property="og:locale" content="{{app()->getLocale()}}"/>
 @show
@@ -32,8 +32,8 @@
 <!-- Preconnect, preload and DNS prefetch -->
 @section('pre_loads')
 <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
-<link rel="preconnect" href="https://myawslifecole.s3-eu-west-1.amazonaws.com" />
-<link rel="dns-prefetch" href="https://myawslifecole.s3-eu-west-1.amazonaws.com" />
+<link rel="preconnect" href="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com" />
+<link rel="dns-prefetch" href="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link rel="dns-prefetch" href="//fonts.gstatic.com">
 @show

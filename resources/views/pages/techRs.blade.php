@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Cursos para Redes Sociales 100% Online - Lifecole ';
+    $seo_title = 'Cursos para Redes Sociales 100% Online - Mi-empresa ';
     $seo_description = 'Domina las redes sociales, con alguno de nuestros cursos para redes sociales totalmente online ✔️ Profesores cualificados ¡Descúbrelos!';
 @endphp
 
@@ -40,7 +40,7 @@
                 <h2 class="subtitle-SEO mb-3">Cursos de redes sociales</h2>
                 <p>Las <b>redes sociales se han convertido en un auténtico básico en nuestro día a día</b>, las usamos desde para mantener el contacto con amigos a los que hace tiempo que no vemos hasta para estar al día de las noticias más importantes.</p>
                 <p>Y si son tan importantes, ¿<b>porqué nadie está enseñando a los más pequeños a sacarles el máximo partido con toda la seguridad</b>?</p>
-                <p>En <a class="blue-title" href="/es"> Lifecole</a> creemos que las redes han llegado para quedarse, y es nuestro deber educar a nuestros hij@s para que sean auténticos nativos del mundo digital, ya que esta es la dirección en la que va el mundo.</p>
+                <p>En <a class="blue-title" href="/es"> Mi-empresa</a> creemos que las redes han llegado para quedarse, y es nuestro deber educar a nuestros hij@s para que sean auténticos nativos del mundo digital, ya que esta es la dirección en la que va el mundo.</p>
                 <p>Por todo esto, te presentamos esta categoría con <b>todos nuestros cursos de redes sociales</b>, para que tus hij@s puedan elegir el que más les guste y <b>¡empezar a sacar partido a las redes sociales!</b></p>
             </div>
             <div class="col-12 col-md-6">
@@ -53,8 +53,8 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-6">
-                <h2 class="subtitle-SEO mb-3">Lifecole, clases extraescolares online y en vivo para niños de 3 a 18 años</h2>
-                <p>En Lifecole tenemos el objetivo de ofrecer clases extraescolares online y en vivo de la más alta calidad para niños de entre 3 y 18 años.</p>
+                <h2 class="subtitle-SEO mb-3">Mi-empresa, clases extraescolares online y en vivo para niños de 3 a 18 años</h2>
+                <p>En Mi-empresa tenemos el objetivo de ofrecer clases extraescolares online y en vivo de la más alta calidad para niños de entre 3 y 18 años.</p>
                 <p>Nuestras disciplinas son innovadoras y diferentes, porque <b>queremos formar parte del desarrollo de las nuevas competencias del siglo XXI de nuestros alumnos</b>.</p>
                 <p>El mejor ejemplo son nuestros cursos de redes sociales, ¡<b>descúbrelos todos en nuestro </b> <a class="blue-title" href="/es/cursos"> buscador de cursos</a>!</p>
             </div>

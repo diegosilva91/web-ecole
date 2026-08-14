@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\CourseSpecialization;
 use App\Tag;
-use Lifecole\Api\Domain\Repository\CourseSpecializationRepository;
-use Lifecole\Api\Domain\Repository\TagRepository;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\CourseSpecializationRepository;
+use Mi-empresa\Api\Domain\Repository\TagRepository;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentTagRepository extends EloquentRepository implements TagRepository
 {

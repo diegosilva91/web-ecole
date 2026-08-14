@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifecole\Api\Application\PaymentsEvent\Task;
+namespace Mi-empresa\Api\Application\PaymentsEvent\Task;
 
 use App\Mail\Internal\ReportCommandError;
 use App\PaymentsEvent;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Api\Domain\Repository\PaymentsEventRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Api\Domain\Repository\PaymentsEventRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
 
 abstract class Task
 {
