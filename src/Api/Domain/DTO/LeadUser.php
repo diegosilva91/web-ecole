@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Api\Domain\DTO;
+namespace Mi-empresa\Api\Domain\DTO;
 
 class LeadUser
 {

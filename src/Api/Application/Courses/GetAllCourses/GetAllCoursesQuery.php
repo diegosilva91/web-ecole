@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Courses\GetAllCourses;
+namespace Mi-empresa\Api\Application\Courses\GetAllCourses;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetAllCoursesQuery extends Query
 {

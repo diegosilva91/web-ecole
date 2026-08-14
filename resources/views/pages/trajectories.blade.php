@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Cursos Anuales Online: Programación y creación de Videojuegos - Lifecole ';
+    $seo_title = 'Cursos Anuales Online: Programación y creación de Videojuegos - Mi-empresa ';
     $seo_description = '¡Encuentra los mejores cursos anuales online! ✔️Clases desde casa ✔ Profesores cualificados. Entra aquí y... ¡descubre los mejores cursos!';
 @endphp
 

@@ -3,40 +3,40 @@ kind: ConfigMap
 metadata:
   name: web-config
 data:
-  ADMIN_URL: https://admin-prod.lifecole.ninja
+  ADMIN_URL: https://admin-prod.mi-empresa.ninja
   APP_DEBUG: "false"
   APP_ENV: production
   APP_KEY: base64:I7+5cHZOZNrKLt/nGPR9Aya1htuZboSN/2JQifYGU5Q=.
-  APP_NAME: Lifecole
-  APP_URL: https://web-prod.lifecole.ninja
-  AWS_BUCKET: myawslifecole
+  APP_NAME: Mi-empresa
+  APP_URL: https://web-prod.mi-empresa.ninja
+  AWS_BUCKET: myawsmi-empresa
   AWS_DEFAULT_REGION: eu-west-1
   BROADCAST_DRIVER: log
   CACHE_DRIVER: file
   DB_CONNECTION: mysql
   #DB_DATABASE: heroku_01941bee9cef9e1
   #DB_HOST: eu-mm-dub-7eb6da7eab4f.g5.cleardb.net
-  DB_DATABASE: lifecole
-  DB_HOST: lifecole-prod.cl7tjteh5ira.eu-west-1.rds.amazonaws.com
+  DB_DATABASE: mi-empresa
+  DB_HOST: mi-empresa-prod.cl7tjteh5ira.eu-west-1.rds.amazonaws.com
   DB_PORT: "3306"
   DB_USERNAME: b5ef3fecaee7c1
   FILESYSTEM_DRIVER: s3
   GOOGLE_CALENDAR_AUTH_PROFILE: oauth
-  GOOGLE_CALENDAR_ID: profesores@lifecole.com
+  GOOGLE_CALENDAR_ID: profesores@mi-empresa.com
   GTAG_ID: UA-165295587-1
   GTM_ID: GTM-N2TCC28
   LOG_CHANNEL: stack
   MAIL_ENCRYPTION: tls
-  MAIL_FROM_ADDRESS: educacion@lifecole.com
-  MAIL_FROM_NAME: Lifecole
+  MAIL_FROM_ADDRESS: educacion@mi-empresa.com
+  MAIL_FROM_NAME: Mi-empresa
   MAIL_HOST: smtp.sendgrid.net
   MAIL_MAILER: smtp
   MAIL_PORT: "587"
   MAIL_USERNAME: apikey
-  MAIL_USERNAME_MANAGER2: belen@lifecole.com
-  MAIL_USERNAME_MANAGER3: paula@lifecole.com
-  MAIL_USERNAME_MANAGER4: antonio@lifecole.com
-  MAIL_USERNAME_MANAGER: eva@lifecole.com
+  MAIL_USERNAME_MANAGER2: belen@mi-empresa.com
+  MAIL_USERNAME_MANAGER3: paula@mi-empresa.com
+  MAIL_USERNAME_MANAGER4: antonio@mi-empresa.com
+  MAIL_USERNAME_MANAGER: eva@mi-empresa.com
   QUEUE_CONNECTION: database
   QUEUE_DRIVER: database
   REDIS_URL: redis://redis:6379

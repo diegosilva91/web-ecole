@@ -8,6 +8,6 @@ class MarketingLandingController extends Controller
 {
     public function landingCategoriesTech()
     {
-        return view('pages.landingLifecoleTech');
+        return view('pages.landingMi-empresaTech');
     }
 }

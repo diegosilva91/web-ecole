@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\CalculateReviewsCourse;
+namespace Mi-empresa\Api\Application\Reviews\CalculateReviewsCourse;
 
-use Lifecole\Event\Domain\Bus\Command\Command;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
 
 class CalculateReviewsCourseCommand extends Command
 {

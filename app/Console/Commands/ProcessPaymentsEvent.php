@@ -4,15 +4,15 @@ namespace App\Console\Commands;
 
 use App\PaymentsEvent;
 use Illuminate\Console\Command;
-use Lifecole\Api\Application\PaymentsEvent\Task\ChargeDisputedTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsFailedTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsProcessingTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsSucceededTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsFinalizedTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\SepaChargeFailedUpdateTask;
-use Lifecole\Api\Application\PaymentsEvent\Task\SepaChargeSucceededUpdateTask;
-use Lifecole\Api\Domain\Repository\PaymentsEventRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\ChargeDisputedTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsFailedTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsProcessingTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsSucceededTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\InvoicesSubscriptionsFinalizedTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\SepaChargeFailedUpdateTask;
+use Mi-empresa\Api\Application\PaymentsEvent\Task\SepaChargeSucceededUpdateTask;
+use Mi-empresa\Api\Domain\Repository\PaymentsEventRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
 
 class ProcessPaymentsEvent extends Command
 {

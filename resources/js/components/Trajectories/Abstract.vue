@@ -2,7 +2,7 @@
 <div class="container text-center mt-100 mb-100">
   <h2 class="h2-txt-med mb-45">¿En qué consisten los cursos anuales?</h2>
   <div class="h7-txt-light mt-8">
-    <p>Los <span>cursos anuales</span> de Lifecole tienen como misión acompañar al alumno durante todo el curso <br> académico mediante <span>grupos reducidos</span>, para adquirir así habilidades de forma más fácil.</p>
+    <p>Los <span>cursos anuales</span> de Mi-empresa tienen como misión acompañar al alumno durante todo el curso <br> académico mediante <span>grupos reducidos</span>, para adquirir así habilidades de forma más fácil.</p>
     <p>Estas <span>habilidades</span> y <span>competencias</span> le serán clave en su <span>futuro</span> personal y laboral.<br> 
     Tendrán la figura del profesor presente en todo momento del aprendizaje. 
     </p>

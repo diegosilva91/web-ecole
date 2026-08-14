@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Shared\Domain\Event;
+namespace Mi-empresa\Shared\Domain\Event;
 
 use App\User;
 

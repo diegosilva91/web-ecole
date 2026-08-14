@@ -1,6 +1,6 @@
 @php
-    $seo_title = '✓Política de Cookies ⇨ Cursos y extraescolares online ᐅ LIFECOLE';
-    $seo_description = '✓ LIFECOLE Política de Cookies ⇨ Descubre los mejores cursos y extraescolares online con profesores cualificados ᐅ Refuerzo de Matemáticas; Programación y Robótica; Música, Idiomas y más';
+    $seo_title = '✓Política de Cookies ⇨ Cursos y extraescolares online ᐅ MI-EMPRESA';
+    $seo_description = '✓ MI-EMPRESA Política de Cookies ⇨ Descubre los mejores cursos y extraescolares online con profesores cualificados ᐅ Refuerzo de Matemáticas; Programación y Robótica; Música, Idiomas y más';
 @endphp
 
 @extends('layouts.main')

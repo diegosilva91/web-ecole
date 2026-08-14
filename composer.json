@@ -1,8 +1,8 @@
 {
-    "name": "lifecole/lifecole.com",
+    "name": "mi-empresa/mi-empresa.com",
     "type": "project",
     "license": "MIT",
-    "description": "The website lifecole.com",
+    "description": "The website mi-empresa.com",
     "keywords": [
         "framework",
         "laravel"
@@ -11,11 +11,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/lifecole/event.git"
+            "url": "https://github.com/mi-empresa/event.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/lifecole/communications.git"
+            "url": "https://github.com/mi-empresa/communications.git"
         }
     ],
     "require": {
@@ -46,7 +46,7 @@
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.0",
         "league/flysystem-aws-s3-v3": "^1.0",
-        "lifecole/event": "^1.0",
+        "mi-empresa/event": "^1.0",
         "mesavolt/mdi-php": "^1.1",
         "mnsami/composer-custom-directory-installer": "^2.0",
         "predis/predis": "^1.1",
@@ -77,7 +77,7 @@
     "config": {
         "optimize-autoloader": true,
         "preferred-install": {
-            "lifecole/*": "source",
+            "mi-empresa/*": "source",
             "*": "dist"
         },
         "sort-packages": true,
@@ -92,13 +92,13 @@
             ]
         },
         "installer-paths": {
-            "./packages/{$vendor}/{$name}/": ["lifecole/event","lifecole/communications"]
+            "./packages/{$vendor}/{$name}/": ["mi-empresa/event","mi-empresa/communications"]
         }
     },
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Lifecole\\": "src/",
+            "Mi-empresa\\": "src/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }
@@ -126,7 +126,7 @@
             "Illuminate\\Foundation\\ComposerScripts::postUpdate"
         ],
         "post-install-cmd": [
-            "@php artisan lifecole:prepare-libraries"
+            "@php artisan mi-empresa:prepare-libraries"
         ],
         "run-unit-tests" : "./vendor/bin/phpunit",
         "check-style": "./vendor/bin/phpcs --runtime-set ignore_warnings_on_exit 1"

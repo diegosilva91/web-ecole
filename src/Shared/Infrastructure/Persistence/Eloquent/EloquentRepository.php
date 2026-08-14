@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifecole\Shared\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Shared\Infrastructure\Persistence\Eloquent;
 
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Database\Eloquent\Model;

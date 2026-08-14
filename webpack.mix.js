@@ -153,7 +153,7 @@ if (process.env.COMP_TYPE === 'css') {
         .js('resources/js/courses.js', 'public/dist/js').version()
         .js('resources/js/payment.js', 'public/dist/js')
         .js('resources/js/payment-success.js', 'public/dist/js')
-        .js('resources/js/portallifecole.js', 'public/dist/js')
+        .js('resources/js/portalmi-empresa.js', 'public/dist/js')
         .js('resources/js/about.js', 'public/dist/js')
         .js('resources/js/landing.js', 'public/dist/js')
         .js('resources/js/reviews.js', 'public/dist/js')

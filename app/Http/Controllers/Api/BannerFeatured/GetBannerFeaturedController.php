@@ -5,11 +5,11 @@ namespace App\Http\Controllers\Api\BannerFeatured;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use Lifecole\Api\Application\BannerFeatured\GetBannerFeatured\GetBannerFeaturedQuery;
-use Lifecole\Api\Application\BannerFeatured\GetCategoriesBannerFeatured\GetCategoriesBannerFeaturedQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Api\Domain\DTO\BannerFeatured;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\BannerFeatured\GetBannerFeatured\GetBannerFeaturedQuery;
+use Mi-empresa\Api\Application\BannerFeatured\GetCategoriesBannerFeatured\GetCategoriesBannerFeaturedQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\DTO\BannerFeatured;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class GetBannerFeaturedController extends Controller
 {

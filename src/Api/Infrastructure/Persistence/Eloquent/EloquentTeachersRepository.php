@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Persistence\Eloquent;
+namespace Mi-empresa\Api\Infrastructure\Persistence\Eloquent;
 
 use App\Teacher;
 use Illuminate\Contracts\Support\Arrayable;
-use Lifecole\Api\Domain\Repository\TeachersRepository;
-use Lifecole\Shared\Domain\ValueObject\TeacherId;
-use Lifecole\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
+use Mi-empresa\Api\Domain\Repository\TeachersRepository;
+use Mi-empresa\Shared\Domain\ValueObject\TeacherId;
+use Mi-empresa\Shared\Infrastructure\Persistence\Eloquent\EloquentRepository;
 
 class EloquentTeachersRepository extends EloquentRepository implements TeachersRepository
 {

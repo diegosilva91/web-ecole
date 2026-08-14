@@ -4,11 +4,11 @@ namespace Tests\Api\Application\Reviews\AddReview;
 
 use App\Course;
 use App\User;
-use Lifecole\Api\Application\Reviews\AddReview\AddReviewCommand;
-use Lifecole\Api\Application\Reviews\AddReview\AddReviewCommandHandler;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\AddReview\AddReviewCommand;
+use Mi-empresa\Api\Application\Reviews\AddReview\AddReviewCommandHandler;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 use Tests\TestCase;
 
 class AddReviewTest extends TestCase

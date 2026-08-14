@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers\Web;
 
-use Lifecole\Api\Application\Courses\GetAllCourses\GetAllCoursesQuery;
-use Lifecole\Api\Domain\Helper\SiteMap;
-use Lifecole\Api\Domain\Helper\Url;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Courses\GetAllCourses\GetAllCoursesQuery;
+use Mi-empresa\Api\Domain\Helper\SiteMap;
+use Mi-empresa\Api\Domain\Helper\Url;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class SiteMapController
 {

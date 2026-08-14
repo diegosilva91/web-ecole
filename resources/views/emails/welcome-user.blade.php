@@ -776,7 +776,7 @@
                                                         <tr>
                                                             <td class="es-p10b" align="center">
                                                                 <p class="hola">Bienvenid@ {{$user->name}}! 🎉 </p>
-                                                                <p class="hola">¡Ya formas parte de nuestra <br>comunidad de Lifecolers! 🚀</p>
+                                                                <p class="hola">¡Ya formas parte de nuestra <br>comunidad de Mi-empresars! 🚀</p>
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -793,7 +793,7 @@
                                         <table width="100%" cellspacing="0" cellpadding="0">
                                             <tr>
                                                 <td width="530" valign="top" align="center">
-                                                    <p class="" style="width: 547px; font-family: Poppins; font-size: 18px;font-weight: 300; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 10px"><b style="color:#803a91;">Lifecole</b> tiene como misión conectar alumn@s, padres y profesores desde una formación <b style="color:#29c0d3;">online en vivo</b>, dinámica e interactiva, accesible para todos los hogares.<br><br>Nuestra <b style="color:#29c0d3;">filosofía</b> es despertar nuevas curiosidades, habilidades y nuevas técnicas de desarrollo en los niñ@s con disciplinas innovadoras y diferentes a las convencionales.<br><br>Aseguramos la <b style="color:#29c0d3;">calidad</b> de los contenidos y la profesionalidad de los profesores  y creamos clases con grupos reducidos para fomentar la interacción entre los alumn@s.</p>
+                                                    <p class="" style="width: 547px; font-family: Poppins; font-size: 18px;font-weight: 300; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 10px"><b style="color:#803a91;">Mi-empresa</b> tiene como misión conectar alumn@s, padres y profesores desde una formación <b style="color:#29c0d3;">online en vivo</b>, dinámica e interactiva, accesible para todos los hogares.<br><br>Nuestra <b style="color:#29c0d3;">filosofía</b> es despertar nuevas curiosidades, habilidades y nuevas técnicas de desarrollo en los niñ@s con disciplinas innovadoras y diferentes a las convencionales.<br><br>Aseguramos la <b style="color:#29c0d3;">calidad</b> de los contenidos y la profesionalidad de los profesores  y creamos clases con grupos reducidos para fomentar la interacción entre los alumn@s.</p>
                                                 </td>
                                             </tr>
                                         </table>
@@ -806,7 +806,7 @@
                 <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                     <tr>
                         <td align="center">
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/design_welcome.png" style="margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/design_welcome.png" style="margin-top:50px"/>
                         </td>
                     </tr>
                 </table>
@@ -824,7 +824,7 @@
                                         <table width="100%" cellspacing="0" cellpadding="0" role="presentation">
                                             <tbody><tr>
                                                 <td class="es-p10b" align="center">
-                                                    <span class="steps-text-header">¿Cómo funciona Lifecole?</span>
+                                                    <span class="steps-text-header">¿Cómo funciona Mi-empresa?</span>
                                                     <div class="steps-content" style="margin-top: 36px">
                                                         <table style="float: left; margin-bottom: 71px">
                                                             <tr>
@@ -841,7 +841,7 @@
                                                             </tr><tr>
                                                                 <td><span class="step-number">4</span></td>
                                                                 <td class="step-tr-content"><h2 style="font-family: Poppins; font-size:21px; color:#803a91;text-align: left">Comunidad</h2>
-                                                                    Unete a la comunidad en línea con acceso directo a nuestros profesores. Todos nuestros profesores son seleccionados y gestionados por el orientador académico de Lifecole para garantizar contenido de calidad.</td>
+                                                                    Unete a la comunidad en línea con acceso directo a nuestros profesores. Todos nuestros profesores son seleccionados y gestionados por el orientador académico de Mi-empresa para garantizar contenido de calidad.</td>
 
                                                             </tr>
 
@@ -870,9 +870,9 @@
                                                     <td class="es-p10b" align="center">
                                                         <span class="steps-text-header">¡Explora y descubre nuestros cursos!</span>
                                                         <div class="" style="margin-top: 36px">
-                                                            <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_code.png"
+                                                            <a href='/es/cursos/programacion/programacion-educativa/programacion-para-nin-at-s-con-scratch' target="_blank"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_code.png"
                                                                                                                                                                                       class="Card"></a>
-                                                            <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_game.png" class="Card"></a> <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot.png"
+                                                            <a href='/es/cursos/creacion-de-videojuegos/programacion-y-minecraft/aprende-a-programar-con-minecraft-nivel-2' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_game.png" class="Card"></a> <a href='/es/cursos/robotica-educativa-y-profesional/robots-y-programacion/aprende-a-programar-con-arduino-y-abre-las-puertas-a-la-robotica' target="_b"><img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/card_robot.png"
                                                                                                                                                                                                                                                                                               class="Card"></a>
                                                         </div>
                                                     </td>

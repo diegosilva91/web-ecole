@@ -1,5 +1,5 @@
 @php
-    $seo_title = 'Clases de Robótica Online para Iniciarse - Lifecole';
+    $seo_title = 'Clases de Robótica Online para Iniciarse - Mi-empresa';
     $seo_description = 'Curso de robótica online iniciarse en este mundo ✔️Clases desde casa ✔ Profesores cualificados ✔ Cursos con grupos reducidos ¡Aprende Aquí!';
 @endphp
 
@@ -41,7 +41,7 @@
                 <div class="h8-txt-light">
                     <p>¿Sabías que la mayoría de las profesiones que habrá dentro de 10 años, todavía no se han inventado? Lo que está claro es que la programación está empezando a ser, y seguirá siendo en el futuro un conocimiento básico que vale la pena dominar.</p>
                     <p>Los <b>cursos de robótica para niños</b> son una excelente manera de empezar a introducirlos en este mundo de la programación de forma divertida. De esta forma se van familiarizando con estos conceptos que los acompañaran toda la vida y lo viven como un juego.</p>
-                    <p>En <a class="blue-title" href="/es"> Lifecole</a> creemos que cuanto antes empiecen mejor, por eso, hemos creado una <b>categoría de cursos de robótica</b> para que, tengan el nivel que tengan, los peques de la casa puedan iniciarse en el mundo de la programación de robots.</p>
+                    <p>En <a class="blue-title" href="/es"> Mi-empresa</a> creemos que cuanto antes empiecen mejor, por eso, hemos creado una <b>categoría de cursos de robótica</b> para que, tengan el nivel que tengan, los peques de la casa puedan iniciarse en el mundo de la programación de robots.</p>
                 </div>
             </div>
             <div class="col-12 col-md-6">
@@ -59,7 +59,7 @@
             <div class="col-12 col-md-6">
                 <h2 class="subtitle-SEO mb-3">Cursos de robótica online con profesores cualificados</h2>
                 <div class="h8-txt-light">
-                    <p>En Lifecole contamos con profesores expertos en pedagogía infantil y juvenil, que plantean los <b>cursos de robótica orientados 100% a los alumnos</b> y al desarrollo de cada uno de ellos.</p>
+                    <p>En Mi-empresa contamos con profesores expertos en pedagogía infantil y juvenil, que plantean los <b>cursos de robótica orientados 100% a los alumnos</b> y al desarrollo de cada uno de ellos.</p>
                     <p>Además, todos <b>nuestros cursos son online, y están pensados para grupos reducidos</b>, para que el aprendizaje y las habilidades adquiridas <b>en nuestros cursos de robótica sean lo más amenos y divertidos posible</b>.</p>
                 </div>
             </div>

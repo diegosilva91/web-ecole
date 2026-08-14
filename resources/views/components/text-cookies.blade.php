@@ -77,7 +77,7 @@
                                 responsable de la cookie.</li>
                         </ol>
 
-                        <h5 class="mt-5"><b>Cookies utilizadas por Lifecole</b></h5>
+                        <h5 class="mt-5"><b>Cookies utilizadas por Mi-empresa</b></h5>
                         <p>Esta plataforma utiliza cookies de sesión y permanentes, técnicas y de análisis. Las cookies
                             usadas tienen, en todo caso, la finalidad de hacer más eficaz la navegación. En ningún caso
                             estas cookies proporcionan por sí mismas datos de carácter personal y no se usan para la

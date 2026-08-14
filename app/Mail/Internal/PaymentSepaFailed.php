@@ -29,10 +29,10 @@ class PaymentSepaFailed extends Mailable
         $subject = 'Error pago suscripción | Usuario: ' . $this->user->email . ' | Curso ' . $this->course->title;
         $to = [
             ['email' => env('MAIL_FROM_ADDRESS'), 'name' => env('APP_NAME')],
-            ['email' => 'antonio@lifecole.com', 'name' => env('APP_NAME')],
-            ['email' => 'diego@lifecole.com', 'name' => env('APP_NAME')],
-            ['email' => 'belen@lifecole.com', 'name' => env('APP_NAME')],
-            ['email' => 'eva@lifecole.com', 'name' => env('APP_NAME')],
+            ['email' => 'antonio@mi-empresa.com', 'name' => env('APP_NAME')],
+            ['email' => 'diego@mi-empresa.com', 'name' => env('APP_NAME')],
+            ['email' => 'belen@mi-empresa.com', 'name' => env('APP_NAME')],
+            ['email' => 'eva@mi-empresa.com', 'name' => env('APP_NAME')],
         ];
 
         if (config('app.env') != 'production') {

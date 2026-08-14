@@ -17,10 +17,10 @@ class WelcomeTeacher extends Mailable
 
     public function build()
     {
-        $subject = '¡Estás mas cerca de pertenecer a Lifecole!';
+        $subject = '¡Estás mas cerca de pertenecer a Mi-empresa!';
         $bcc = [
-            ['email' => env('MAIL_FROM_ADDRESS'), 'name' => 'Lifecole'],
-            ['email' => env('MAIL_USERNAME_MANAGER'), 'name' => 'Lifecole']
+            ['email' => env('MAIL_FROM_ADDRESS'), 'name' => 'Mi-empresa'],
+            ['email' => env('MAIL_USERNAME_MANAGER'), 'name' => 'Mi-empresa']
         ];
 
         if (config('app.env') != 'production') {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseHistoricalViewed\AddCourseHistoricalView;
+namespace Mi-empresa\Api\Application\CourseHistoricalViewed\AddCourseHistoricalView;
 
-use Lifecole\Api\Domain\Repository\CourseHistoricalViewedRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Api\Domain\Repository\CourseHistoricalViewedRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
 
 class AddCourseHistoricalViewedCommandHandler implements CommandHandler
 {

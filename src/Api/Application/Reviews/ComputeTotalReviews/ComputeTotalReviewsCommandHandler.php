@@ -1,14 +1,14 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\ComputeTotalReviews;
+namespace Mi-empresa\Api\Application\Reviews\ComputeTotalReviews;
 
-use Lifecole\Api\Application\Reviews\CalculateReviewsCourse\CalculateReviewsCourseCommand;
-use Lifecole\Api\Application\Reviews\CalculateReviewsTeacher\CalculateReviewsTeachersCommand;
-use Lifecole\Api\Domain\Repository\CourseReviewsRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\CalculateReviewsCourse\CalculateReviewsCourseCommand;
+use Mi-empresa\Api\Application\Reviews\CalculateReviewsTeacher\CalculateReviewsTeachersCommand;
+use Mi-empresa\Api\Domain\Repository\CourseReviewsRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class ComputeTotalReviewsCommandHandler implements CommandHandler
 {

@@ -5,7 +5,7 @@ namespace Tests\Api\Infrastructure\Persistence;
 use App\Course;
 use App\CourseReviews;
 use App\User;
-use Lifecole\Api\Infrastructure\Persistence\Eloquent\EloquentCourseReviewsRepository;
+use Mi-empresa\Api\Infrastructure\Persistence\Eloquent\EloquentCourseReviewsRepository;
 use Tests\TestCase;
 
 class ReviewRepositoryTest extends TestCase

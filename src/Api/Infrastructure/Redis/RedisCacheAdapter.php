@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Api\Infrastructure\Redis;
+namespace Mi-empresa\Api\Infrastructure\Redis;
 
 use Illuminate\Redis\Connections\Connection;
 use Illuminate\Support\Facades\Redis;
-use Lifecole\Api\Domain\Adapter\CacheAdapter;
+use Mi-empresa\Api\Domain\Adapter\CacheAdapter;
 
 class RedisCacheAdapter implements CacheAdapter
 {

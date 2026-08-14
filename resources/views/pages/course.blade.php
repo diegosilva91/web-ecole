@@ -1,9 +1,9 @@
 @php
-    $seo_title = $course->title . __(' | Cursos Online | Lifecole');
+    $seo_title = $course->title . __(' | Cursos Online | Mi-empresa');
     if ($course->meta_description) {
         $seo_description = $course->meta_description;
     } else {
-        $seo_description = __('Apúntate al curso ') . $course->title . __('. Aprende ') .  $course->category()->title . __(' con profesores cualificados, sin moverte de casa con los cúrsos de Lifecole.');
+        $seo_description = __('Apúntate al curso ') . $course->title . __('. Aprende ') .  $course->category()->title . __(' con profesores cualificados, sin moverte de casa con los cúrsos de Mi-empresa.');
     }
 @endphp
 
@@ -34,7 +34,7 @@
 @section('og_tags_image') <meta property="og:image" content="@image($course->cover_image)"/>  @endsection
 @section('og_tags')
     @parent
-    <meta property="og:title" content="{{$course->title}}  | Cursos Online | Lifecole"/>
+    <meta property="og:title" content="{{$course->title}}  | Cursos Online | Mi-empresa"/>
 @endsection
 
 @section('google_tag_manager')

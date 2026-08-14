@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Tag\GetCoursesTag;
+namespace Mi-empresa\Api\Application\Tag\GetCoursesTag;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetCoursesTagQuery extends Query
 {

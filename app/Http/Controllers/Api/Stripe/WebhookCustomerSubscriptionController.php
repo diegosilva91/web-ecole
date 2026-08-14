@@ -8,9 +8,9 @@ use App\Mail\Internal\ReportRequestError;
 use App\PaymentsEvent;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager\CustomerSubscriptionsStripeEventsManagerCommand;
-use Lifecole\Api\Application\Payments\StorePayloadStripe\StorePayloadStripeCommand;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Api\Application\Payments\CustomerSubscriptionsStripeEventsManager\CustomerSubscriptionsStripeEventsManagerCommand;
+use Mi-empresa\Api\Application\Payments\StorePayloadStripe\StorePayloadStripeCommand;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
 
 class WebhookCustomerSubscriptionController extends Controller
 {

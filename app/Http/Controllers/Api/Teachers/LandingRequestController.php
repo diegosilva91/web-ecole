@@ -7,8 +7,8 @@ use App\Jobs\SendLeadTeacher;
 use App\Mail\Internal\LeadTeacherRequest;
 use App\Mail\WelcomeTeacher;
 use Illuminate\Http\Request;
-use Lifecole\Api\Domain\DTO\LeadTeacher;
-use Lifecole\Shared\Domain\Repository\Mailer;
+use Mi-empresa\Api\Domain\DTO\LeadTeacher;
+use Mi-empresa\Shared\Domain\Repository\Mailer;
 
 class LandingRequestController extends Controller
 {

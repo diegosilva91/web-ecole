@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetReviewFormByToken;
+namespace Mi-empresa\Api\Application\Reviews\GetReviewFormByToken;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetReviewFormByTokenQuery extends Query
 {

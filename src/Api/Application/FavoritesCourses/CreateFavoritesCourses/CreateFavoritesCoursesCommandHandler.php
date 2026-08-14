@@ -1,11 +1,11 @@
 <?php
 
-namespace Lifecole\Api\Application\FavoritesCourses\CreateFavoritesCourses;
+namespace Mi-empresa\Api\Application\FavoritesCourses\CreateFavoritesCourses;
 
-use Lifecole\Api\Domain\Repository\FavoritesCoursesRepository;
-use Lifecole\Event\Domain\Bus\Command\CommandHandler;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Domain\Repository\FavoritesCoursesRepository;
+use Mi-empresa\Event\Domain\Bus\Command\CommandHandler;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class CreateFavoritesCoursesCommandHandler implements CommandHandler
 {

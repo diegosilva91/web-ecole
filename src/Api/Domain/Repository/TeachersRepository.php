@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Domain\Repository;
+namespace Mi-empresa\Api\Domain\Repository;
 
-use Lifecole\Shared\Domain\ValueObject\TeacherId;
+use Mi-empresa\Shared\Domain\ValueObject\TeacherId;
 
 interface TeachersRepository
 {

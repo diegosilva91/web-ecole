@@ -5,9 +5,9 @@ namespace App\Http\Controllers\Web;
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Contracts\View\Factory;
 use Illuminate\View\View;
-use Lifecole\Api\Application\Reviews\GetReviewFormByToken\GetReviewFormByTokenQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Reviews\GetReviewFormByToken\GetReviewFormByTokenQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class ReviewsController
 {

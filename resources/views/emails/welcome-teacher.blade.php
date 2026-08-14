@@ -774,7 +774,7 @@
 											<tr>
 												<td align="center">
 													<img
-															src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/Design_bienvenida_profesor.png"
+															src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/Design_bienvenida_profesor.png"
 															style="margin-top:50px"/>
 												</td>
 											</tr>
@@ -789,7 +789,7 @@
 													
 													<p style="margin-top: 15px;">En breve nos pondremos en contacto
 														contigo para indicarte cuándo puedes asistir a la Sesión de
-														presentación de Lifecole para educadores, donde nos conoceremos
+														presentación de Mi-empresa para educadores, donde nos conoceremos
 														y te contaremos todos los aspectos con mayor detalle.</p>
 													
 													<p style="margin-top: 15px;">El programa de incorporación de nuevos

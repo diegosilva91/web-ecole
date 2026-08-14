@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetReviews;
+namespace Mi-empresa\Api\Application\Reviews\GetReviews;
 
-use Lifecole\Api\Domain\Repository\CourseReviewsRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\CourseReviewsRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetReviewQueryHandler implements QueryHandler
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetTokenReviewForm;
+namespace Mi-empresa\Api\Application\Reviews\GetTokenReviewForm;
 
-use Lifecole\Api\Domain\Adapter\EncryptionAdapter;
+use Mi-empresa\Api\Domain\Adapter\EncryptionAdapter;
 
 class EncryptTokenReviewsForm
 {

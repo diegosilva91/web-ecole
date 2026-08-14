@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseCategory\GetCourseCategory;
+namespace Mi-empresa\Api\Application\CourseCategory\GetCourseCategory;
 
 use App\CourseCategory;
-use Lifecole\Api\Domain\Repository\CourseCategoryRepository;
+use Mi-empresa\Api\Domain\Repository\CourseCategoryRepository;
 
 class GetCourseCategoryQueryHandler
 {

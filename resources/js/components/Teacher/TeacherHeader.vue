@@ -10,7 +10,7 @@
             Comienza a dar <span>clases online</span> a <span>grupos reducidos</span> en las materias<br class="d-none d-lg-block" /> y nivel que tú elijas.
           </p>
           <p>
-            En Lifecole guiamos a nuestros alumnos a través de <span>trayectorias</span><br class="d-none d-lg-block" /> desde sus <span>pasiones</span> hasta el mundo profesional.
+            En Mi-empresa guiamos a nuestros alumnos a través de <span>trayectorias</span><br class="d-none d-lg-block" /> desde sus <span>pasiones</span> hasta el mundo profesional.
           </p>
         </div>
         <div class="d-block d-md-none">

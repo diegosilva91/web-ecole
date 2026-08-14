@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\InvoicesSubscriptionsProcessing;
+namespace Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsProcessing;
 
-use Lifecole\Api\Domain\Repository\PromotionPurchasePaymentRepository;
+use Mi-empresa\Api\Domain\Repository\PromotionPurchasePaymentRepository;
 
 class InvoicesSubscriptionsProcessingCommandHandler
 {

@@ -5,7 +5,7 @@ namespace App\Listeners;
 use App\Coupon;
 use App\User;
 use Illuminate\Support\Str;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
 
 class CreateCouponCustomer
 {

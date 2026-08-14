@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Users\GetUsersProfile;
+namespace Mi-empresa\Api\Application\Users\GetUsersProfile;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class GetUsersProfileQuery extends Query
 {

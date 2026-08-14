@@ -13,10 +13,10 @@ use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Response;
-use Lifecole\Api\Application\Coupons\GetCoupon\GetCouponQuery;
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Api\Application\Coupons\GetCoupon\GetCouponQuery;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
 
 class TrajectoriesController extends Controller
 {

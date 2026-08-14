@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\ChargeDisputed;
+namespace Mi-empresa\Api\Application\Payments\ChargeDisputed;
 
 use App\PaymentsEvent;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class ChargeDisputedCommand extends Command
 {

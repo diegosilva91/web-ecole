@@ -1,16 +1,16 @@
 <?php
 
-namespace Lifecole\Api\Application\Reviews\GetReviewFormByToken;
+namespace Mi-empresa\Api\Application\Reviews\GetReviewFormByToken;
 
 use App\Exceptions\DataTokenReviewException;
-use Lifecole\Api\Application\Reviews\GetReviews\GetReviewQuery;
-use Lifecole\Api\Application\Reviews\GetTokenReviewForm\GetTokenReviewsFormQuery;
-use Lifecole\Api\Domain\Helper\DecryptTokenReviewsForm;
-use Lifecole\Api\Domain\Repository\CoursesRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\Reviews\GetReviews\GetReviewQuery;
+use Mi-empresa\Api\Application\Reviews\GetTokenReviewForm\GetTokenReviewsFormQuery;
+use Mi-empresa\Api\Domain\Helper\DecryptTokenReviewsForm;
+use Mi-empresa\Api\Domain\Repository\CoursesRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class GetReviewFormByTokenQueryHandler implements QueryHandler
 {

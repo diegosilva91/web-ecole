@@ -6,7 +6,7 @@
                     <div class="section_title  mt-30 mb-30">
                         <h3 class="main_title mt-dk-100" style="text-decoration: underline;">POLÍTICA DE PRIVACIDAD</h3>
                         <div class="text-justify">
-                        <p>La confidencialidad y la seguridad son valores primordiales para LIFECOLE, S.L. y, en
+                        <p>La confidencialidad y la seguridad son valores primordiales para MI-EMPRESA, S.L. y, en
                             consecuencia, asumimos el compromiso de garantizar la privacidad del usuario en todo
                             momento y de no recabar información innecesaria. A continuación, le proporcionamos toda la
                             información necesaria sobre nuestra Política de Privacidad en relación con los datos
@@ -22,14 +22,14 @@
                         </ul>
 
                         <h5 class="mt-5"><b>1. <span style="text-decoration: underline;">RESPONSABLE DEL TRATAMIENTO</span></b></h5>
-                        <p class="mb-0">LIFECOLE, S.L.</p>
+                        <p class="mb-0">MI-EMPRESA, S.L.</p>
                         <p class="mt-0 mb-0">NIF B01780600</p>
                         <p class="mt-0 mb-0">Plaza Pau Vila 1, 1r planta sector AD</p>
                         <p class="mt-0 mb-0">08039 Barcelona</p>
                         <p class="mt-0 mb-0">España</p>
-                        <p class="mt-0 mb-0">Contacto: <a href="/es/contacto" target="_b">educacion@lifecole.com</a></p>
+                        <p class="mt-0 mb-0">Contacto: <a href="/es/contacto" target="_b">educacion@mi-empresa.com</a></p>
 
-                        <p>En adelante “Lifecole”, “nosotros” o el “Responsable del Tratamiento”.</p>
+                        <p>En adelante “Mi-empresa”, “nosotros” o el “Responsable del Tratamiento”.</p>
                         <p>Esta Política de Privacidad cubre todos los datos recopilados y utilizados por nosotros a través
                             de la Plataforma que lleva nuestro mismo nombre (en adelante, “la Plataforma”).</p>
 
@@ -37,7 +37,7 @@
                         <p>Datos Personales hace referencia a cualquier información o datos que pueda identificarlo, ya
                             sea directa o indirectamente.</p>
 
-                        <p>En este sentido, los datos personales recopilados por Lifecole incluyen:</p>
+                        <p>En este sentido, los datos personales recopilados por Mi-empresa incluyen:</p>
                         <ul style="list-style-type: disc">
                             <li><b>Datos obtenidos al registrarse como alumno:</b> Cuando usted se registra como alumno a
                                 la Plataforma, recopilamos: <br>
@@ -92,20 +92,20 @@
 
                         <p>Asimismo, podemos recabar información de los usuarios cuando estos hacen uso de los
                             servicios de mensajería interna entre usuarios de la plataforma.</p>
-                        <p>Usted garantiza que todos los datos sobre su identidad y legitimidad facilitados a Lifecole a
+                        <p>Usted garantiza que todos los datos sobre su identidad y legitimidad facilitados a Mi-empresa a
                             través de la Plataforma son veraces, exactos y completos. Asimismo, se compromete a
                             mantener actualizados sus datos. En el supuesto de que usted facilite cualquier dato falso,
-                            inexacto o incompleto o si Lifecole considera que existen motivos fundados para dudar sobre
-                            la veracidad, exactitud e integridad de los mismos, Lifecole podrá denegarle el acceso y uso
+                            inexacto o incompleto o si Mi-empresa considera que existen motivos fundados para dudar sobre
+                            la veracidad, exactitud e integridad de los mismos, Mi-empresa podrá denegarle el acceso y uso
                             presente o futuro a la Plataforma o a cualquiera de sus contenidos y/o servicios.</p>
                         <p>De igual forma, el Usuario debe a custodiar la contraseña identificativa para hacer uso de los
                             servicios dispuestos en la Plataforma, y se compromete a no ceder su uso a terceros.</p>
                         <p><b>Obligación de facilitarnos sus datos personales y consecuencias de no hacerlo.</b></p>
                         <p>Los datos personales solicitados son necesarios para gestionar su registro en la Plataforma,
                             para poder gestionar las inscripciones y la compra de los cursos ofertados a través de la
-                            Plataforma, así como prestarle los servicios propios de Lifecole, por lo que, si no nos los
+                            Plataforma, así como prestarle los servicios propios de Mi-empresa, por lo que, si no nos los
                             facilita, no podremos atenderle correctamente ni prestarle los servicios que ha solicitado.</p>
-                        <p>Para poder prestar sus servicios como profesor a través de la Plataforma de Lifecole, debe
+                        <p>Para poder prestar sus servicios como profesor a través de la Plataforma de Mi-empresa, debe
                             crear un perfil e incorporar sus datos curriculares. Dentro de los datos curriculares y el perfil
                             de profesor, se pueden incluir entre otros, los datos académicos, experiencia profesional,
                             número de teléfono, dirección postal y datos de facturación.</p>
@@ -121,7 +121,7 @@
                             disponer de capacidad jurídica suficiente para contratar.</p>
 
                         <h5 class="mt-5"><b>3. <span style="text-decoration: underline;">FINALIDADES DEL TRATAMIENTO DE SUS DATOS PERSONALES</span></b></h5>
-                        <p>Los datos personales facilitados a través del uso de la Plataforma de Lifecole son necesarios
+                        <p>Los datos personales facilitados a través del uso de la Plataforma de Mi-empresa son necesarios
                             para los siguientes fines:</p>
                         <p><b>En el caso de los Usuarios de la Plataforma:</b></p>
                         <p>- Facilitarle un medio para que pueda ponerse en contacto con nosotros.</p>
@@ -147,7 +147,7 @@
                         <p>- Gestionar y hacer seguimiento de la relación contractual y precontractual que se
                             mantiene con los usuarios de la Plataforma.</p>
                         <p>- Mejorar, desarrollar y probar nuestra Plataforma.</p>
-                        <p>- Proteger los derechos, la propiedad y/o la seguridad de Lifecole.</p>
+                        <p>- Proteger los derechos, la propiedad y/o la seguridad de Mi-empresa.</p>
                         <p>- En el caso del servicio de mensajería interna de la plataforma entre profesores y
                             alumnos, para enviarle notificaciones informando sobre la recepción de dicho mensaje,
                             así como de la persona que le ha enviado el mencionado mensaje.</p>
@@ -195,7 +195,7 @@
                         <p>-- <span style="text-decoration: underline;">Envío de comunicaciones comerciales</span>: La base legitimadora es el consentimiento
                             expreso que nos presta (por ejemplo: cuando autoriza el envío de publicidad o de
                             nuestra newsletter).</p>
-                        <p>-- <span style="text-decoration: underline;">Atención al usuario</span>: Desde Lifecole tenemos un interés legítimo para atender las
+                        <p>-- <span style="text-decoration: underline;">Atención al usuario</span>: Desde Mi-empresa tenemos un interés legítimo para atender las
                             solicitudes o consultas de los usuarios a través del formulario de contacto existente.
                             Entendemos que el tratamiento de estos datos resulta también beneficioso para el
                             usuario en tanto que nos permite poder atender adecuadamente y resolver las
@@ -226,7 +226,7 @@
                             <p>-- Agencias de publicidad, marketing y medios digitales para ayudarnos a ofrecer
                                 publicidad, marketing y campañas, para analizar su efectividad y para administrar su
                                 contacto y sus preguntas.</p>
-                            <p>-- Personal autorizado de Lifecole.</p>
+                            <p>-- Personal autorizado de Mi-empresa.</p>
                             <p>-- Terceros para el cumplimiento de una normativa legal.</p>
                         </div>
                         <p>Nos aseguraremos de que toda comunicación de su información personal que realicemos
@@ -288,7 +288,7 @@
                         <h5 class="mt-5"><b>10. <span style="text-decoration: underline;">CONTACTO</span></b></h5>
                         <p>Si tiene cualquier duda o preocupación acerca de la forma en que tratamos y usamos sus datos
                             personales o desea ejercer cualquiera de los derechos anteriormente descritos, póngase en
-                            contacto con <a href="/es/contacto" target="_b">educacion@lifecole.com</a></p>
+                            contacto con <a href="/es/contacto" target="_b">educacion@mi-empresa.com</a></p>
 
                         <p>Fecha de publicación 15 de junio de 2021</p>
                     </div>

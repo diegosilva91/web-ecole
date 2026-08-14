@@ -4,7 +4,7 @@
     @include('partials.header-main')
 </head>
 <body>
-<a href="https://wa.me/+34633651856?text=Hola! Estoy interesado en uno de los cursos de Lifecole!" class="wpfloat text-light" target="_blank" onclick="sendWPEvent()">
+<a href="https://wa.me/+34633651856?text=Hola! Estoy interesado en uno de los cursos de Mi-empresa!" class="wpfloat text-light" target="_blank" onclick="sendWPEvent()">
     <i>@php echo Mdi::mdi('whatsapp', null, '30', ['style' => 'margin-top: 11px; fill: #fff']); @endphp</i>
 </a>
 @if(config('app.env') == 'production')

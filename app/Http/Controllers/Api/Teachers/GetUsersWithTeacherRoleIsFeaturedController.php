@@ -4,9 +4,9 @@ namespace App\Http\Controllers\Api\Teachers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Lifecole\Api\Application\Users\GetUsersWithTeacherRole\GetUsersWithTeacherRoleIsFeaturedQuery;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Api\Application\Users\GetUsersWithTeacherRole\GetUsersWithTeacherRoleIsFeaturedQuery;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
 
 class GetUsersWithTeacherRoleIsFeaturedController extends Controller
 {

@@ -53,12 +53,12 @@ export default {
         {
           tquestion: 'Tecnologías que utilizarás',
           question: '¿Qué voy a ver en el curso?',
-          answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Lifecole se encarga de conectar a los alumnos a la reunión.',
+          answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Mi-empresa se encarga de conectar a los alumnos a la reunión.',
         },
         {
           tquestion: '¿Qué beneficios tiene?',
           question: '¿Qué beneficios tiene?',
-          answer: 'Lifecole se enfoca en clases en línea, interactivas, en vivo y en grupos reducidos, para poder brindar excelentes experiencias de aprendizaje. Encontrarás cursos de infinidades de temáticas, desde Fortnite hasta cursos de Matemáticas. Ofrecemos una diversidad incomparable en cuanto a profesores y materias. Y además promovemos un alto grado de interacción social entre estudiantes, profesores y padres.',
+          answer: 'Mi-empresa se enfoca en clases en línea, interactivas, en vivo y en grupos reducidos, para poder brindar excelentes experiencias de aprendizaje. Encontrarás cursos de infinidades de temáticas, desde Fortnite hasta cursos de Matemáticas. Ofrecemos una diversidad incomparable en cuanto a profesores y materias. Y además promovemos un alto grado de interacción social entre estudiantes, profesores y padres.',
         },
         {
           tquestion: 'Temario',
@@ -69,7 +69,7 @@ export default {
         faq: [
         {
           question: '¿Cómo funcionan las clases?',
-          answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Lifecole se encarga de conectar a los alumnos a la reunión. No hay límite de tiempo y no es necesario que el profesor comparta el link. ¡Solo debes preocuparte por crear una excelente experiencia de clase! Google Meet también viene con muchas herramientas útiles de gestión del aula para que las clases funcionen sin problemas.',
+          answer: 'Las clases se realizan a través de Google Meet. La cuenta de Meet de Mi-empresa se encarga de conectar a los alumnos a la reunión. No hay límite de tiempo y no es necesario que el profesor comparta el link. ¡Solo debes preocuparte por crear una excelente experiencia de clase! Google Meet también viene con muchas herramientas útiles de gestión del aula para que las clases funcionen sin problemas.',
         },
         {
           question: '¿Qué sucede si no puedo asistir a una clase?',

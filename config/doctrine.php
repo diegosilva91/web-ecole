@@ -113,8 +113,8 @@ return [
     |--------------------------------------------------------------------------
     */
     'custom_types' => [
-        /*'user_id' => \Lifecole\Shared\Infrastructure\Persistence\Doctrine\Type\UserIdType::class,
-        'sino' => \Lifecole\Shared\Infrastructure\Persistence\Doctrine\Type\SiNoType::class,*/
+        /*'user_id' => \Mi-empresa\Shared\Infrastructure\Persistence\Doctrine\Type\UserIdType::class,
+        'sino' => \Mi-empresa\Shared\Infrastructure\Persistence\Doctrine\Type\SiNoType::class,*/
     ],
     /*
     |--------------------------------------------------------------------------

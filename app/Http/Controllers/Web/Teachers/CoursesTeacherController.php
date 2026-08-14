@@ -5,8 +5,8 @@ namespace App\Http\Controllers\Web\Teachers;
 use App\Http\Controllers\Controller;
 use App\User;
 use Auth;
-use Lifecole\Api\Domain\Helper\AddPriceHour;
-use Lifecole\Api\Domain\Helper\FillSubcategories;
+use Mi-empresa\Api\Domain\Helper\AddPriceHour;
+use Mi-empresa\Api\Domain\Helper\FillSubcategories;
 
 class CoursesTeacherController extends Controller
 {

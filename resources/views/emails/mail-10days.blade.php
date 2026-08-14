@@ -796,7 +796,7 @@
                                         <table width="100%" cellspacing="0" cellpadding="0">
                                             <tr>
                                                 <td width="530" valign="top" align="center">
-                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Lifecole nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
+                                                    <strong><p class="" style="width: 577px; font-family: Poppins; font-size: 19px;font-weight: 600; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 50px;margin-top: 35px;">En Mi-empresa nos importas mucho, por eso <br>¡Te ofrecemos un descuento especial!</p></strong>
                                                 </td>
                                             </tr>
                                         </table>
@@ -804,7 +804,7 @@
                                             <tr>
                                                 <td width="530" valign="top" align="center">
                                                     <p class="" style="width: 577px; font-family: Poppins; font-size: 18px;font-weight: 300; font-stretch: normal; font-style: normal; line-height: normal;letter-spacing: normal;text-align: center;color: #262626;margin-bottom: 10px">
-                                                        Tendrás acceso a un <b style="color:#29c0d3;">15%</b> de descuento <br> en tu primer curso de Lifecole</p>
+                                                        Tendrás acceso a un <b style="color:#29c0d3;">15%</b> de descuento <br> en tu primer curso de Mi-empresa</p>
                                                 </td>
                                             </tr>
                                         </table>
@@ -817,7 +817,7 @@
                 <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                     <tr>
                         <td align="center">
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/15%25msg.png" style="margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/15%25msg.png" style="margin-top:50px"/>
                         </td>
                     </tr>
                 </table>
@@ -846,7 +846,7 @@
                                                         <h3 class="title-rs es-p30t">¿Sabías que el 65% de los puestos del futuro no existen hoy en día?</h3>
 
                                                         <p class="rs-texts es-p20t">Somos un equipo de jóvenes emprendedores, enfocados en conseguir un impacto en la transformación de la educación.</p>
-                                                        <p class="rs-texts es-p20t">En Lifecole buscamos implementar y desarrollar las nuevas competencias del siglo XXI en los alumnos. Por ello, trabajamos en el pensamiento crítico, la creatividad y el trabajo en equipo. Nuestra misión es despertar nuevas habilidades y nuevos intereses en los más jóvenes, desde un entorno digital y seguro.</p>
+                                                        <p class="rs-texts es-p20t">En Mi-empresa buscamos implementar y desarrollar las nuevas competencias del siglo XXI en los alumnos. Por ello, trabajamos en el pensamiento crítico, la creatividad y el trabajo en equipo. Nuestra misión es despertar nuevas habilidades y nuevos intereses en los más jóvenes, desde un entorno digital y seguro.</p>
                                                     </td>
                                                 </tr>
                                             </table>
@@ -860,7 +860,7 @@
                     <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                         <tr>
                             <td align="center">
-                                <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/team-lifecole.png" style="margin-top:50px"/>
+                                <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/team-mi-empresa.png" style="margin-top:50px"/>
                             </td>
                         </tr>
                     </table>

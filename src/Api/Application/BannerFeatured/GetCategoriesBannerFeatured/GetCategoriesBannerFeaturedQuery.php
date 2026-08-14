@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\BannerFeatured\GetCategoriesBannerFeatured;
+namespace Mi-empresa\Api\Application\BannerFeatured\GetCategoriesBannerFeatured;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetCategoriesBannerFeaturedQuery extends Query
 {

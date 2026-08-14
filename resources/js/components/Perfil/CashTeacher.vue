@@ -98,7 +98,7 @@
               v-model="checkbox"
               color="#793e87"
               value=""
-              label="Acepto contrato de intermediación y responsabilidad con Lifecole"
+              label="Acepto contrato de intermediación y responsabilidad con Mi-empresa"
           ></v-checkbox>
         </div>
       </div>

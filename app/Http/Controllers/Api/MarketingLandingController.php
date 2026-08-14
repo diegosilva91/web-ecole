@@ -6,8 +6,8 @@ use App\Http\Controllers\Controller;
 use App\Jobs\SendLeadUser;
 use App\Mail\Internal\LeadUserRequest;
 use Illuminate\Http\Request;
-use Lifecole\Api\Domain\DTO\LeadUser;
-use Lifecole\Shared\Domain\Repository\Mailer;
+use Mi-empresa\Api\Domain\DTO\LeadUser;
+use Mi-empresa\Shared\Domain\Repository\Mailer;
 
 class MarketingLandingController extends Controller
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\BannerFeatured\GetCategoriesBannerFeatured;
+namespace Mi-empresa\Api\Application\BannerFeatured\GetCategoriesBannerFeatured;
 
-use Lifecole\Api\Domain\Repository\BannerFeaturedRepository;
-use Lifecole\Event\Domain\Bus\Query\QueryHandler;
+use Mi-empresa\Api\Domain\Repository\BannerFeaturedRepository;
+use Mi-empresa\Event\Domain\Bus\Query\QueryHandler;
 
 class GetCategoriesBannerFeaturedQueryHandler implements QueryHandler
 {

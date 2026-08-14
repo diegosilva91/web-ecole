@@ -792,7 +792,7 @@
                 <table class="es-content" cellspacing="0" cellpadding="0" align="center">
                     <tr>
                         <td align="center">
-                            <img src="https://myawslifecole.s3-eu-west-1.amazonaws.com/public/images/mails/sepa_succeeded.png" style="margin-bottom: 100px; margin-top:50px"/>
+                            <img src="https://myawsmi-empresa.s3-eu-west-1.amazonaws.com/public/images/mails/sepa_succeeded.png" style="margin-bottom: 100px; margin-top:50px"/>
                         </td>
                     </tr>
                 </table>
@@ -1008,7 +1008,7 @@
                                                                 <td class="step-tr-content">Observaras que se habrá creado el <b>evento</b> del curso y encontrarás en <b>link</b> con el que podrás acceder a la clase.</td>
                                                             </tr><tr>
                                                                 <td><span class="step-number">4</span></td>
-                                                                <td class="step-tr-content">Si tienes cualquier duda, ponte en contacto con <a href="https://www.lifecole.com/es/contacto">educacion@lifecole.com</a></td>
+                                                                <td class="step-tr-content">Si tienes cualquier duda, ponte en contacto con <a href="https://www.mi-empresa.com/es/contacto">educacion@mi-empresa.com</a></td>
                                                             </tr>
 
                                                         </table>
@@ -1036,7 +1036,7 @@
                                                 <td class="es-p10b" align="center">
                                                     <div class="steps-content">
                                                         <h2 style="font-weight: 600;font-size: 18px; text-align: center">¡Recuerda apuntar en la agenda los días que se realizará el curso! </h2><br><br>
-                                                        <a href="https://myawslifecole.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf" target="_blank"><h2 style="font-weight: 600;font-size: 18px; text-align: center;color: #2bbfd3;text-decoration: underline;cursor:pointer;">Descarga pinchando aquí el calendario del cursos escolar</h2></a><br><br>
+                                                        <a href="https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/pdfs/Calendar-2021-2022(small).pdf" target="_blank"><h2 style="font-weight: 600;font-size: 18px; text-align: center;color: #2bbfd3;text-decoration: underline;cursor:pointer;">Descarga pinchando aquí el calendario del cursos escolar</h2></a><br><br>
                                                         <p style="text-align: left">
 
 

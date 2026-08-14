@@ -53,7 +53,7 @@
                         <span class="primary-color">Pago realizado con éxito</span>
                     </h4>
                     <p>Recibirás un correo electrónico de confirmación en breves momentos. Gracias por confiar en
-                        lifecole</p>
+                        mi-empresa</p>
 
                     <checkout-course-info
                         :course='@json($course)'

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\PaymentsEvent\Task;
+namespace Mi-empresa\Api\Application\PaymentsEvent\Task;
 
 use App\PaymentsEvent;
-use Lifecole\Api\Application\Payments\InvoicesSubscriptionsFailed\InvoicesSubscriptionsFailedCommand;
+use Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsFailed\InvoicesSubscriptionsFailedCommand;
 
 class InvoicesSubscriptionsFailedTask extends Task
 {

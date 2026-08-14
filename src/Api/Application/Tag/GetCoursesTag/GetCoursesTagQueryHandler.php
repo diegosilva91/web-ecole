@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Tag\GetCoursesTag;
+namespace Mi-empresa\Api\Application\Tag\GetCoursesTag;
 
 use App\Tag;
-use Lifecole\Api\Domain\Repository\TagRepository;
+use Mi-empresa\Api\Domain\Repository\TagRepository;
 
 class GetCoursesTagQueryHandler
 {

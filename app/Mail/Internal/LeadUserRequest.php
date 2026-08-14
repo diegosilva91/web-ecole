@@ -24,12 +24,12 @@ class LeadUserRequest extends Mailable
     public function build(): Mailable
     {
         $subject = 'New Lead Alert!';
-        $bcc = [['email' => 'belen@lifecole.com','name' => 'Belén'],
-            ['email' => 'katty@lifecole.com','name' => 'Katty'],
-            ['email' => 'flavia@lifecole.com','name' => 'Flavia'],
-            ['email' => 'paula@lifecole.com','name' => 'Paula'],
-            ['email' => 'eva@lifecole.com','name' => 'Eva'],
-            ['email' => 'antonio@lifecole.com','name' => 'Antonio'],
+        $bcc = [['email' => 'belen@mi-empresa.com','name' => 'Belén'],
+            ['email' => 'katty@mi-empresa.com','name' => 'Katty'],
+            ['email' => 'flavia@mi-empresa.com','name' => 'Flavia'],
+            ['email' => 'paula@mi-empresa.com','name' => 'Paula'],
+            ['email' => 'eva@mi-empresa.com','name' => 'Eva'],
+            ['email' => 'antonio@mi-empresa.com','name' => 'Antonio'],
         ];
 
         if (config('app.env') != 'production') {

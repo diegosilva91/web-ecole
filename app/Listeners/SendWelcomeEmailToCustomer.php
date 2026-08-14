@@ -4,7 +4,7 @@ namespace App\Listeners;
 
 use App\Mail\WelcomeUser;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
 
 class SendWelcomeEmailToCustomer
 {

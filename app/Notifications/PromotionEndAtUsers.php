@@ -38,7 +38,7 @@ class PromotionEndAtUsers extends Notification
     {
         $template = 'emails.completed-course';
         $subject = Lang::get($template . '.subject');
-        $bcc = ['antonio@lifecole.com'];
+        $bcc = ['antonio@mi-empresa.com'];
 
         if (config('app.env') != 'production') {
             $subject = '(Testing) ' . $subject;

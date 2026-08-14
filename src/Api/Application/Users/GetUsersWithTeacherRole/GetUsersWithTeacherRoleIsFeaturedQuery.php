@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Api\Application\Users\GetUsersWithTeacherRole;
+namespace Mi-empresa\Api\Application\Users\GetUsersWithTeacherRole;
 
-use Lifecole\Event\Domain\Bus\Query\Query;
+use Mi-empresa\Event\Domain\Bus\Query\Query;
 
 class GetUsersWithTeacherRoleIsFeaturedQuery extends Query
 {

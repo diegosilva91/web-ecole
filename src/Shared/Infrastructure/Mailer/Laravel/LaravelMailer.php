@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifecole\Shared\Infrastructure\Mailer\Laravel;
+namespace Mi-empresa\Shared\Infrastructure\Mailer\Laravel;
 
 use Illuminate\Mail\Mailable;
 use Illuminate\Support\Facades\Mail;
-use Lifecole\Shared\Domain\Repository\Mailer;
+use Mi-empresa\Shared\Domain\Repository\Mailer;
 
 class LaravelMailer implements Mailer
 {

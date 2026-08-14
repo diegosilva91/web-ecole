@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Web\Courses;
 use App\Course;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Lifecole\Api\Domain\Adapter\CdnAdapter;
+use Mi-empresa\Api\Domain\Adapter\CdnAdapter;
 
 class ExportCourseCsvController extends Controller
 {
@@ -32,7 +32,7 @@ class ExportCourseCsvController extends Controller
             foreach ($courses as $course) {
                 $row['Program ID'] = $course->id;
                 $row['Program Name'] = $course->title;
-                $row['School Name'] = 'Lifecole | ' . $course->courseUsers[0]->name;
+                $row['School Name'] = 'Mi-empresa | ' . $course->courseUsers[0]->name;
                 $row['Final URL'] = $course->getLink();
                 $row['Image URL'] = $cdnAdapter->image($course->cover_image);
                 $row['Area of Study'] = '' . $course->categories->title;

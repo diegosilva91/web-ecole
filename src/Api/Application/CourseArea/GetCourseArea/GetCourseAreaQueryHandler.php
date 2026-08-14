@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\CourseArea\GetCourseArea;
+namespace Mi-empresa\Api\Application\CourseArea\GetCourseArea;
 
 use App\CourseArea;
-use Lifecole\Api\Domain\Repository\CourseAreaRepository;
+use Mi-empresa\Api\Domain\Repository\CourseAreaRepository;
 
 class GetCourseAreaQueryHandler
 {

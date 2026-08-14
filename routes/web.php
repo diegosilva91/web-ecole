@@ -38,7 +38,7 @@ Route::post('/es/contacto', 'Web\ContactController@contactMail');
  * Static pages
  */
 Route::get('/es/faq', 'Web\StaticPagesController@faq')->name('faq');
-Route::get('/es/sobre-lifecole', 'Web\StaticPagesController@aboutUs');
+Route::get('/es/sobre-mi-empresa', 'Web\StaticPagesController@aboutUs');
 
 /**
  * Routes Legal pages
@@ -84,7 +84,7 @@ Route::get('/es/tech/diseno', 'Web\LandingController@techDesign');
 Route::get('/es/campus-verano', 'Web\LandingController@techSummer');
 Route::get('/es/campus-de-navidad', 'Web\LandingController@techWinter');
 Route::get('/es/campus-de-semana-santa', 'Web\LandingController@techHolyWeek');
-Route::get('/es/descuentos-lifecole', 'Web\LandingController@promo');
+Route::get('/es/descuentos-mi-empresa', 'Web\LandingController@promo');
 
 /**
 * Landings pages (Marketing)

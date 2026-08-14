@@ -1,6 +1,6 @@
 @php
-    $seo_title = __('✓ Sobre nosotros ⇨ Cursos y extraescolares online ᐅ LIFECOLE');
-    $seo_description = __('✓LIFECOLE ᐅ Los mejores cursos y extraescolares online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más');
+    $seo_title = __('✓ Sobre nosotros ⇨ Cursos y extraescolares online ᐅ MI-EMPRESA');
+    $seo_description = __('✓MI-EMPRESA ᐅ Los mejores cursos y extraescolares online ⇨ Refuerzo de Matemáticas; Iniciación a la Programación y Robótica; Música, Idiomas y mucho más');
 @endphp
 
 @extends('layouts.main')

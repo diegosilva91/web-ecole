@@ -4,12 +4,12 @@ namespace App\Http\Controllers\Api\FavoritesCourses;
 
 use Auth;
 use Illuminate\Http\Request;
-use Lifecole\Api\Application\FavoritesCourses\CreateFavoritesCourses\CreateFavoritesCoursesCommand;
-use Lifecole\Api\Application\FavoritesCourses\GetFavoritesCoursesQuery\GetFavoritesCoursesQuery;
-use Lifecole\Event\Domain\Bus\Command\CommandBus;
-use Lifecole\Event\Domain\Bus\Query\QueryBus;
-use Lifecole\Shared\Domain\ValueObject\CourseId;
-use Lifecole\Shared\Domain\ValueObject\UserId;
+use Mi-empresa\Api\Application\FavoritesCourses\CreateFavoritesCourses\CreateFavoritesCoursesCommand;
+use Mi-empresa\Api\Application\FavoritesCourses\GetFavoritesCoursesQuery\GetFavoritesCoursesQuery;
+use Mi-empresa\Event\Domain\Bus\Command\CommandBus;
+use Mi-empresa\Event\Domain\Bus\Query\QueryBus;
+use Mi-empresa\Shared\Domain\ValueObject\CourseId;
+use Mi-empresa\Shared\Domain\ValueObject\UserId;
 
 class FavoritesCoursesController
 {

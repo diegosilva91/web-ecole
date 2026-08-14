@@ -23,10 +23,10 @@ class WelcomeUser extends Mailable
     {
         $subject = '¡Bienvenid@, ya formas parte de la comunidad Lifecoolers!';
         $bcc = [
-            ['email' => env('MAIL_FROM_ADDRESS'), 'name' => 'Lifecole'],
-            ['email' => env('MAIL_USERNAME_MANAGER'), 'name' => 'Lifecole'],
-            ['email' => 'flavia@lifecole.com', 'name' => 'Flavia'],
-            ['email' => 'katty@lifecole.com', 'name' => 'Katty'],
+            ['email' => env('MAIL_FROM_ADDRESS'), 'name' => 'Mi-empresa'],
+            ['email' => env('MAIL_USERNAME_MANAGER'), 'name' => 'Mi-empresa'],
+            ['email' => 'flavia@mi-empresa.com', 'name' => 'Flavia'],
+            ['email' => 'katty@mi-empresa.com', 'name' => 'Katty'],
         ];
 
         if (config('app.env') != 'production') {
@@ -37,7 +37,7 @@ class WelcomeUser extends Mailable
         }
 
         return $this->to([
-            ['email' => $this->user->email, 'name' => 'Lifecoler']
+            ['email' => $this->user->email, 'name' => 'Mi-empresar']
         ])
             ->bcc($bcc)
             ->subject($subject)

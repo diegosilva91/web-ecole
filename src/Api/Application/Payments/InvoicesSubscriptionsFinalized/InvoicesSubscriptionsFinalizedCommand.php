@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifecole\Api\Application\Payments\InvoicesSubscriptionsFinalized;
+namespace Mi-empresa\Api\Application\Payments\InvoicesSubscriptionsFinalized;
 
 use App\PaymentsEvent;
-use Lifecole\Event\Domain\Bus\Command\Command;
+use Mi-empresa\Event\Domain\Bus\Command\Command;
 
 class InvoicesSubscriptionsFinalizedCommand extends Command
 {

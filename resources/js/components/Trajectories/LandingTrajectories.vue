@@ -1,8 +1,8 @@
 <template>
 <div>
   <TechHeaderTrajectories bg='bg-trajectories' title="¿Quién dijo que lo
-  bueno dura poco?" description='¡Ya están aquí los cursos anuales de Lifecole! Donde tus hijos
-  tendrán un seguimiento con profesionales del sector que les ayudarán a sacar el máximo partido.' imgAWS='https://myawslifecole.s3.eu-west-1.amazonaws.com/public/trajectories/header_trajectories.svg' trajectories=true />
+  bueno dura poco?" description='¡Ya están aquí los cursos anuales de Mi-empresa! Donde tus hijos
+  tendrán un seguimiento con profesionales del sector que les ayudarán a sacar el máximo partido.' imgAWS='https://myawsmi-empresa.s3.eu-west-1.amazonaws.com/public/trajectories/header_trajectories.svg' trajectories=true />
   <Abstract />
   <Categories />
 </div>

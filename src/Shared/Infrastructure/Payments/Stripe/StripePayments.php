@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifecole\Shared\Infrastructure\Payments\Stripe;
+namespace Mi-empresa\Shared\Infrastructure\Payments\Stripe;
 
-use Lifecole\Api\Domain\Repository\StripePaymentsRepository;
+use Mi-empresa\Api\Domain\Repository\StripePaymentsRepository;
 use Cartalyst\Stripe\Laravel\Facades\Stripe;
 
 class StripePayments implements StripePaymentsRepository

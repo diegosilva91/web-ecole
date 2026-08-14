@@ -4,8 +4,8 @@ namespace App\Listeners;
 
 use App\Jobs\SendLeadUser;
 use App\User;
-use Lifecole\Api\Domain\DTO\LeadUser;
-use Lifecole\Shared\Domain\Event\CustomerWasCreated;
+use Mi-empresa\Api\Domain\DTO\LeadUser;
+use Mi-empresa\Shared\Domain\Event\CustomerWasCreated;
 
 class SendLeadRegisterToAdmin
 {
